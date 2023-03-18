@@ -1,0 +1,100 @@
+IumAssignMemoryToSocDomain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001140
+IumAwaitSmc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001150
+IumCreateSecureDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001160
+IumCreateSecureSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001170
+IumCreateSecureSectionSpecifyPages
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001180
+IumCrypto
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001190
+IumDmaMapMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011a0
+IumEmitSmc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011b0
+IumFlushSecureSectionBuffers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011c0
+IumGetDmaEnabler
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011d0
+IumGetExposedSecureSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011e0
+IumGetIdk
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011f0
+IumMapSecureIo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001200
+IumOpenCurrentExtension
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001210
+IumOpenSecureSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001220
+IumPostMailbox
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001230
+IumProtectSecureIo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001240
+IumQuerySecureDeviceInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001250
+IumSecureStorageGet
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001260
+IumSecureStoragePut
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001270
+IumSetDmaTargetProperties
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001280
+IumSetPolicyExtension
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001290
+IumUnmapSecureIo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800012a0
+IumUpdateSecureDeviceState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800012b0
+_DllMainCRTStartupForGS
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001010

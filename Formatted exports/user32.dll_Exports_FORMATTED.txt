@@ -1,0 +1,4024 @@
+GetPointerFrameArrivalTimes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050750
+ActivateKeyboardLayout
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c7c0
+AddClipboardFormatListener
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cfa0
+AddVisualIdentifier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033af0
+AdjustWindowRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800891c0
+AdjustWindowRectEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800165d0
+AdjustWindowRectExForDpi
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180010350
+AlignRects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008f140
+AllowForegroundActivation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089230
+AllowSetForegroundWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b830
+AnimateWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180083ba0
+AnyPopup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084940
+AppendMenuA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18008ca40
+AppendMenuW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001fae0
+AreDpiAwarenessContextsEqual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180029400
+ArrangeIconicWindows
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089250
+AttachThreadInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b00
+BeginDeferWindowPos
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180029f40
+BeginPaint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b20
+BlockInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b30
+BringWindowToTop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180031370
+BroadcastSystemMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008caa0
+BroadcastSystemMessageA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008caa0
+BroadcastSystemMessageExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cad0
+BroadcastSystemMessageExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a7e0
+BroadcastSystemMessageW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002aeb0
+BuildReasonArray
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180032860
+CalcMenuBar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b50
+CalculatePopupWindowPosition
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b60
+CallMsgFilter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085c80
+CallMsgFilterA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085c80
+CallMsgFilterW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18008bff0
+CallNextHookEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180001fa0
+CallWindowProcA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800505e0
+CallWindowProcW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000e3f0
+CancelShutdown
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180057c60
+CascadeChildWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089270
+CascadeWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800790c0
+ChangeClipboardChain
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800871a0
+ChangeDisplaySettingsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085da0
+ChangeDisplaySettingsExA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180031010
+ChangeDisplaySettingsExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027190
+ChangeDisplaySettingsW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008c0b0
+ChangeMenuA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800793b0
+ChangeMenuW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180079460
+ChangeWindowMessageFilter
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b2a0
+ChangeWindowMessageFilterEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b80
+DwmGetDxRgn
+----> Number of xrefs: 71
+----> in: Data_Offset
+----> to: 0x18002d020
+CharLowerA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002ce30
+CharLowerBuffA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800871c0
+CharLowerBuffW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800871e0
+CharLowerW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180031ea0
+CharNextA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b1c0
+CharNextExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087200
+CharNextW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002bc60
+CharPrevA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001e20
+CharPrevExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087220
+CharPrevW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087240
+CharToOemA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800286e0
+CharToOemBuffA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007e2e0
+CharToOemBuffW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18007e330
+CharToOemW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e390
+CharUpperA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800298e0
+CharUpperBuffA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087260
+CharUpperBuffW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001360
+CharUpperW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180026ca0
+CheckBannedOneCoreTransformApi
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18002d010
+CheckDBCSEnabledExt
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021d20
+CheckDlgButton
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b60
+CheckMenuItem
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18001f810
+CheckMenuRadioItem
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180001910
+CheckProcessForClipboardAccess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033b90
+CheckProcessSession
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033ba0
+CheckRadioButton
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001380
+CheckWindowThreadDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033bb0
+ChildWindowFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800892a0
+ChildWindowFromPointEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033bc0
+CliImmSetHotKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c2b0
+ClientThreadSetup
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18001d4d0
+ClientToScreen
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800117c0
+ClipCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033be0
+CloseClipboard
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c9c0
+CloseDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033bf0
+CloseGestureInfoHandle
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x18004f790
+CloseTouchInputHandle
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x180052930
+CloseWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089350
+CloseWindowStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033c00
+ConsoleControl
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800274b0
+ControlMagnification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033c60
+CopyAcceleratorTableA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180051cf0
+CopyAcceleratorTableW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033c70
+CopyIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027000
+CopyImage
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180015160
+CopyRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023c30
+CountClipboardFormats
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002bb80
+CreateAcceleratorTableA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180051d80
+CreateAcceleratorTableW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033c80
+CreateCaret
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bdb0
+CreateCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180031950
+CreateDCompositionHwndTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033cb0
+CreateDesktopA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089390
+CreateDesktopExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800893d0
+CreateDesktopExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002c270
+CreateDesktopW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002c230
+CreateDialogIndirectParamA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180051e10
+CreateDialogIndirectParamAorW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180003b20
+CreateDialogIndirectParamW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002930
+CreateDialogParamA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180051e40
+CreateDialogParamW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003610
+CreateIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180051f30
+CreateIconFromResource
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180052000
+CreateIconFromResourceEx
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800259b0
+CreateIconIndirect
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800158b0
+CreateMDIWindowA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800790f0
+CreateMDIWindowW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079170
+CreateMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180031fe0
+CreatePopupMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c980
+CreateSyntheticPointerDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007f6e0
+CreateSystemThreads
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a8b0
+CreateWindowExA
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180003c10
+CreateWindowExW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800076b0
+CreateWindowInBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f50
+CreateWindowInBandEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ff0
+CreateWindowIndirect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084990
+CreateWindowStationA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089590
+CreateWindowStationW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001dad0
+CsrBroadcastSystemMessageExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002add0
+CtxInitUser32
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001d340
+DdeAbandonTransaction
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084f10
+DdeAccessData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18006bfa0
+DdeAddData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006c060
+DdeClientTransaction
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084ff0
+DdeCmpStringHandles
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006cbf0
+DdeConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800571b0
+DdeConnectList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800572c0
+DdeCreateDataHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006c200
+DdeCreateStringHandleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006cc10
+DdeCreateStringHandleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002ac40
+DdeDisconnect
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800575b0
+DdeDisconnectList
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180057660
+DdeEnableCallback
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004e100
+DdeFreeDataHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006c360
+DdeFreeStringHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006cc30
+DdeGetData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18006c3e0
+DdeGetLastError
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058d70
+DdeGetQualityOfService
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002d040
+DdeImpersonateClient
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058dd0
+DdeInitializeA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180058e70
+DdeInitializeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cfe0
+DdeKeepStringHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006cd10
+DdeNameService
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002a900
+DdePostAdvise
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085680
+DdeQueryConvInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085950
+DdeQueryNextServer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180057780
+DdeQueryStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006cde0
+DdeQueryStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006ce00
+DdeReconnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800578e0
+DdeSetQualityOfService
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002d040
+DdeSetUserHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085b80
+DdeUnaccessData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18006c550
+DdeUninitialize
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180058e90
+DefDlgProcA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6410
+DefDlgProcW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6437
+DefFrameProcA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800791f0
+DefFrameProcW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002fc30
+DefMDIChildProcA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079220
+DefMDIChildProcW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002e180
+DefRawInputProc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a810
+DefWindowProcA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a64af
+DefWindowProcW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a64d9
+DeferWindowPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027e50
+DeferWindowPosAndBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089610
+DeleteMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d00
+DeregisterShellHookWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cdf0
+DestroyAcceleratorTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027a40
+DestroyCaret
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c890
+DestroyCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180029020
+DestroyDCompositionHwndTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d40
+DestroyIcon
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180029020
+DestroyMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d50
+DestroyReasons
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800327d0
+DestroySyntheticPointerDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d60
+DestroyWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d70
+DialogBoxIndirectParamA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180052030
+DialogBoxIndirectParamAorW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18002d400
+DialogBoxIndirectParamW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002d3d0
+DialogBoxParamA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180052060
+DialogBoxParamW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18002d340
+DisableProcessWindowsGhosting
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cca0
+DispatchMessageA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b730
+DispatchMessageW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18000dfd0
+DisplayConfigGetDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180029920
+DisplayConfigSetDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008e7d0
+DisplayExitWindowsWarnings
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180057cc0
+DlgDirListA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800769d0
+DlgDirListComboBoxA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180055690
+DlgDirListComboBoxW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180055780
+DlgDirListW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180076ad0
+DlgDirSelectComboBoxExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800557e0
+DlgDirSelectComboBoxExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180055890
+DlgDirSelectExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180076b30
+DlgDirSelectExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180076bf0
+DoSoundConnect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d90
+DoSoundDisconnect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033da0
+DragDetect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033dc0
+DragObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033dd0
+DrawAnimatedRects
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033de0
+DrawCaption
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007dc80
+DrawCaptionTempA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085dd0
+DrawCaptionTempW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008c0e0
+DrawEdge
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180023000
+DrawFocusRect
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180030400
+DrawFrame
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18008ff60
+DrawFrameControl
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800900a0
+DrawIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089670
+DrawIconEx
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800263e0
+DrawMenuBar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180032570
+DrawMenuBarTemp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079510
+DrawStateA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079d20
+DrawStateW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180028340
+DrawTextA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058330
+DrawTextExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800583b0
+DrawTextExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e7d0
+DrawTextW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001e720
+DwmGetDxSharedSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002dc30
+DwmGetRemoteSessionOcclusionEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033df0
+DwmGetRemoteSessionOcclusionState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e00
+DwmKernelShutdown
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e10
+DwmKernelStartup
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e20
+DwmLockScreenUpdates
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002ce10
+DwmValidateWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e30
+EditWndProc
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180061b20
+EmptyClipboard
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180032610
+EnableMenuItem
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18001f890
+EnableMouseInPointer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e50
+EnableNonClientDpiScaling
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e80
+EnableOneCoreTransformMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033e90
+EnableScrollBar
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180013250
+EnableSessionForMMCSS
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180032170
+EnableWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b370
+EndDeferWindowPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002a600
+EndDeferWindowPosEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f00
+EndDialog
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180031c60
+EndMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f10
+EndPaint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f20
+EndTask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180057f80
+EnterReaderModeHelper
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18007f150
+EnumChildWindows
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18000ecc0
+EnumClipboardFormats
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800320c0
+EnumDesktopWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021840
+EnumDesktopsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180003430
+EnumDesktopsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180004f60
+EnumDisplayDevicesA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180008bc0
+EnumDisplayDevicesW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180027350
+EnumDisplayMonitors
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f30
+EnumDisplaySettingsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180008990
+EnumDisplaySettingsExA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800089b0
+EnumDisplaySettingsExW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180008850
+EnumDisplaySettingsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180008830
+EnumPropsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004ed70
+EnumPropsExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004ed90
+EnumPropsExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180026dd0
+EnumPropsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004edb0
+EnumThreadWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021870
+EnumWindowStationsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180003410
+EnumWindowStationsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180004f40
+EnumWindows
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800218a0
+EqualRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023950
+EvaluateProximityToPolygon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180081ee0
+EvaluateProximityToRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180082410
+ExcludeUpdateRgn
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f40
+ExitWindowsEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002c010
+FillRect
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x1800232d0
+FindWindowA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007e260
+FindWindowExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003050
+FindWindowExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180025fe0
+FindWindowW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800235e0
+FlashWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800896e0
+FlashWindowEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f50
+FrameRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800303d0
+FreeDDElParam
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x18005a720
+FrostCrashedWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f70
+GetActiveWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b390
+GetAltTabInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085ef0
+GetAltTabInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085ef0
+GetAltTabInfoW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008c1d0
+GetAncestor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033f90
+GetAppCompatFlags
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18002b180
+GetAppCompatFlags2
+----> Number of xrefs: 17
+----> in: Data_Offset
+----> to: 0x180011a90
+GetAsyncKeyState
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180023fc0
+GetAutoRotationState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033fa0
+GetAwarenessFromDpiAwarenessContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027f40
+GetCIMSSM
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033fb0
+GetCapture
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027e00
+GetCaretBlinkTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033fc0
+GetCaretPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033fd0
+GetClassInfoA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180002aa0
+GetClassInfoExA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180002b40
+GetClassInfoExW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180007050
+GetClassInfoW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180007000
+GetClassLongA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cb10
+GetClassLongPtrA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cb70
+GetClassLongPtrW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180028000
+GetClassLongW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180011b30
+GetClassNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008c200
+GetClassNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021ce0
+GetClassWord
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180028730
+GetClientRect
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180012cc0
+GetClipCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033fe0
+GetClipboardAccessToken
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033ff0
+GetClipboardData
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18002b430
+GetClipboardFormatNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085f20
+GetClipboardFormatNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c960
+GetClipboardOwner
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cd90
+GetClipboardSequenceNumber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c7e0
+GetClipboardViewer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087280
+GetComboBoxInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034000
+GetCurrentInputMessageSource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034010
+GetCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034020
+GetCursorFrameInfo
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18002c630
+GetCursorInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034030
+GetCursorPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180027e30
+GetDC
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180026290
+GetDCEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034040
+GetDesktopID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034050
+GetDesktopWindow
+----> Number of xrefs: 16
+----> in: Data_Offset
+----> to: 0x18000ae40
+GetDialogBaseUnits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800323d0
+GetDialogControlDpiChangeBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b250
+GetDialogDpiChangeBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b280
+GetDisplayAutoRotationPreferences
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034060
+GetDisplayConfigBufferSizes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180028ef0
+GetDlgCtrlID
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020c50
+GetDlgItem
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x180010100
+GetDlgItemInt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b2d0
+GetDlgItemTextA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cbd0
+GetDlgItemTextW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180032300
+GetDoubleClickTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034080
+GetDpiAwarenessContextForProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089750
+GetDpiForMonitorInternal
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027a10
+GetDpiForSystem
+----> Number of xrefs: 56
+----> in: Data_Offset
+----> to: 0x1800115e0
+GetDpiForWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180013ed0
+GetDpiFromDpiAwarenessContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089770
+GetExtendedPointerDeviceProperty
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034090
+GetFocus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023a30
+GetForegroundWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800340a0
+GetGUIThreadInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800340b0
+GetGestureConfig
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800340c0
+GetGestureExtraArgs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004f820
+GetGestureInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004f850
+GetGuiResources
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800340d0
+GetIconInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027060
+GetIconInfoExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800521d0
+GetIconInfoExW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18002a010
+GetInputDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800897a0
+GetInputLocaleInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800340f0
+GetInputState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180084ab0
+GetInternalWindowPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034130
+GetKBCodePage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800897c0
+GetKeyNameTextA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180085fd0
+GetKeyNameTextW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c1c0
+GetKeyState
+----> Number of xrefs: 28
+----> in: Data_Offset
+----> to: 0x18001e0d0
+GetKeyboardLayout
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027120
+GetKeyboardLayoutList
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034140
+GetKeyboardLayoutNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086090
+GetKeyboardLayoutNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002c1e0
+GetKeyboardState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034150
+GetKeyboardType
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180031f40
+GetLastActivePopup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180014c60
+GetLastInputInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180026b10
+GetLayeredWindowAttributes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034160
+GetListBoxInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034170
+GetMagnificationDesktopColorEffect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800771e0
+GetMagnificationDesktopMagnification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800772d0
+GetMagnificationDesktopSamplingMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180077370
+GetMagnificationLensCtxInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034180
+GetMenu
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18002a520
+GetMenuBarInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034190
+GetMenuCheckMarkDimensions
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800795c0
+GetMenuContextHelpId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079600
+GetMenuDefaultItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800291d0
+GetMenuInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800016d0
+GetMenuItemCount
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800262c0
+GetMenuItemID
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18002a680
+GetMenuItemInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cc20
+GetMenuItemInfoW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001fcf0
+GetMenuItemRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800341a0
+GetMenuState
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001f930
+GetMenuStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cd20
+GetMenuStringW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180030e60
+GetMessageA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800287e0
+GetMessageExtraInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800295e0
+GetMessagePos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b0b0
+GetMessageTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180029f20
+GetMessageW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180021b70
+GetMonitorInfoA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002dd40
+GetMonitorInfoW
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x180020800
+GetMouseMovePointsEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800341b0
+GetNextDlgGroupItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b8d0
+GetNextDlgTabItem
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180001d90
+GetOpenClipboardWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cd20
+GetParent
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18001dd30
+GetPhysicalCursorPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180027e30
+GetPointerCursorId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800341e0
+GetPointerDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800341f0
+GetPointerDeviceCursors
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034200
+GetPointerDeviceInputSpace
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034210
+GetPointerDeviceOrientation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034220
+GetPointerDeviceProperties
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034230
+GetPointerDeviceRects
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034240
+GetPointerDevices
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034250
+GetPointerFrameInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800508d0
+GetPointerFrameInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050920
+GetPointerFramePenInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050960
+GetPointerFramePenInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800509b0
+GetPointerFrameTimes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034260
+GetPointerFrameTouchInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800509f0
+GetPointerFrameTouchInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050a40
+GetPointerInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050a80
+GetPointerInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050ae0
+GetPointerInputTransform
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034270
+GetPointerPenInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050b30
+GetPointerPenInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050b90
+GetPointerTouchInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050be0
+GetPointerTouchInfoHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050c40
+GetPointerType
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034290
+GetPriorityClipboardFormat
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800872a0
+GetProcessDefaultLayout
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cd00
+GetProcessDpiAwarenessInternal
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002b790
+GetProcessWindowStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800342c0
+GetProgmanWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800897e0
+GetPropA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002daa0
+GetPropW
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180009ea0
+GetQueueStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021010
+GetRawInputBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006b450
+GetRawInputData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800342e0
+GetRawInputDeviceInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cd70
+GetRawInputDeviceInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800323b0
+GetRawInputDeviceList
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800342f0
+GetRawPointerDeviceData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034300
+GetReasonTitleFromReasonCode
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800326e0
+GetRegisteredRawInputDevices
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034310
+GetScrollBarInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034330
+GetScrollInfo
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180028520
+GetScrollPos
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800313b0
+GetScrollRange
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084af0
+GetSendMessageReceiver
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089840
+GetShellChangeNotifyWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002bfd0
+GetShellWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180028290
+GetSubMenu
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x18002a1f0
+GetSysColor
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180025fa0
+GetSysColorBrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180028150
+GetSystemDpiForProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034340
+GetSystemMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034350
+GetSystemMetrics
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180020eb0
+GetSystemMetricsForDpi
+----> Number of xrefs: 16
+----> in: Data_Offset
+----> to: 0x180010b50
+GetTabbedTextExtentA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058580
+GetTabbedTextExtentW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058680
+GetTaskmanWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002cd40
+GetThreadDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034360
+GetThreadDpiAwarenessContext
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180023df0
+GetThreadDpiHostingBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089860
+GetTitleBarInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034370
+GetTopLevelWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034380
+GetTopWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002d240
+GetTouchInputInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800529c0
+GetUnpredictedMessagePos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800898b0
+GetUpdateRect
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002b3d0
+GetUpdateRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800898d0
+GetUpdatedClipboardFormats
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800872c0
+GetUserObjectInformationA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002c550
+GetUserObjectInformationW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800343b0
+GetUserObjectSecurity
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089970
+GetWinStationInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800899d0
+GetWindow
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x180009d30
+GetWindowBand
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800343c0
+GetWindowCompositionAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800343d0
+GetWindowCompositionInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800343e0
+GetWindowContextHelpId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800899f0
+GetWindowDC
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800343f0
+GetWindowDisplayAffinity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034400
+GetWindowDpiAwarenessContext
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800133b0
+GetWindowDpiHostingBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089a10
+GetWindowFeedbackSetting
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034410
+GetWindowInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180010550
+GetWindowLongA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180013f30
+GetWindowLongPtrA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180010d70
+GetWindowLongPtrW
+----> Number of xrefs: 28
+----> in: Data_Offset
+----> to: 0x18000f7c0
+GetWindowLongW
+----> Number of xrefs: 18
+----> in: Data_Offset
+----> to: 0x18000fb00
+GetWindowMinimizeRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034430
+GetWindowModuleFileName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008ceb0
+GetWindowModuleFileNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008ceb0
+GetWindowModuleFileNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a830
+GetWindowPlacement
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034440
+GetWindowProcessHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034450
+GetWindowRect
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180014670
+GetWindowRgn
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18002a390
+GetWindowRgnBox
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180009050
+GetWindowRgnEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034460
+GetWindowTextA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180009420
+GetWindowTextLengthA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cf00
+GetWindowTextLengthW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a190
+GetWindowTextW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x18000c280
+GetWindowThreadProcessId
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x180003500
+GetWindowWord
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180084bc0
+GhostWindowFromHungWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034470
+GrayStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089a80
+GrayStringW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089ae0
+HideCaret
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180028f60
+HiliteMenuItem
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344a0
+HungWindowFromGhostWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344b0
+IMPGetIMEA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800867e0
+IMPGetIMEW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086800
+IMPQueryIMEA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086820
+IMPQueryIMEW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086840
+IMPSetIMEA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086860
+IMPSetIMEW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086880
+ImpersonateDdeClientWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344c0
+InSendMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800282f0
+InSendMessageEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023c60
+InflateRect
+----> Number of xrefs: 20
+----> in: Data_Offset
+----> to: 0x180004e70
+InheritWindowMonitor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344d0
+InitDManipHook
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180022310
+InitializeGenericHidInjection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344e0
+InitializeInputDeviceInjection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800344f0
+InitializeLpkHooks
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180027430
+InitializePointerDeviceInjection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034500
+InitializePointerDeviceInjectionEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034510
+InitializeTouchInjection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034520
+InjectDeviceInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034530
+InjectGenericHidInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034540
+InjectKeyboardInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034550
+InjectMouseInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034560
+InjectPointerInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034570
+InjectSyntheticPointerInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034570
+InjectTouchInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034580
+InputSpaceRegionFromPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034590
+InsertMenuA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18008cf50
+InsertMenuItemA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008cfd0
+InsertMenuItemW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18001fb40
+InsertMenuW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001fa60
+InternalGetWindowIcon
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007de00
+InternalGetWindowText
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027fb0
+IntersectRect
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180013b10
+InvalidateRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800345b0
+InvalidateRgn
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800345c0
+InvertRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800261f0
+IsCharAlphaA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800872e0
+IsCharAlphaNumericA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087300
+IsCharAlphaNumericW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800325f0
+IsCharAlphaW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087320
+IsCharLowerA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087340
+IsCharLowerW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087360
+IsCharUpperA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180087380
+IsCharUpperW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800873a0
+IsChild
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180013f80
+IsClipboardFormatAvailable
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800235c0
+IsDialogMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b540
+IsDialogMessageA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b540
+IsDialogMessageW
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18000bd60
+IsDlgButtonChecked
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b450
+IsGUIThread
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800280e0
+IsHungAppWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180029ef0
+IsIconic
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000c180
+IsImmersiveProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180029660
+IsInDesktopWindowBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002b2c0
+IsMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027960
+IsMouseInPointerEnabled
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800345e0
+IsOneCoreTransformMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034610
+IsProcessDPIAware
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021af0
+IsQueueAttached
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089b40
+IsRectEmpty
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023480
+IsSETEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007f3c0
+IsServerSideWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180011b00
+IsThreadDesktopComposited
+----> Number of xrefs: 16
+----> in: Data_Offset
+----> to: 0x180010cc0
+IsThreadTSFEventAware
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001470
+IsTopLevelWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034630
+IsTouchWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034640
+IsValidDpiAwarenessContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089b60
+IsWinEventHookInstalled
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180023ab0
+IsWindow
+----> Number of xrefs: 34
+----> in: Data_Offset
+----> to: 0x18000a090
+IsWindowArranged
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000c110
+IsWindowEnabled
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180011a40
+IsWindowInDestroy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800234b0
+IsWindowRedirectedForPrint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180013340
+IsWindowUnicode
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180011770
+IsWindowVisible
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e180
+IsWow64Message
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180050610
+IsZoomed
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180023980
+KillTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034670
+LoadAcceleratorsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180052320
+LoadAcceleratorsW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027ae0
+LoadBitmapA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180031e60
+LoadBitmapW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bcb0
+LoadCursorA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180029eb0
+LoadCursorFromFileA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c390
+LoadCursorFromFileW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18004c400
+LoadCursorW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800145c0
+LoadIconA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002cb30
+LoadIconW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180016eb0
+LoadImageA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002fd80
+LoadImageW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016b40
+LoadKeyboardLayoutA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089b80
+LoadKeyboardLayoutEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089c10
+LoadKeyboardLayoutW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001d000
+LoadLocalFonts
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cf20
+LoadMenuA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18004fe90
+LoadMenuIndirectA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180021ee0
+LoadMenuIndirectW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180021ee0
+LoadMenuW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180021e20
+LoadRemoteFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002cea0
+LoadStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180052360
+LoadStringW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180028120
+LockSetForegroundWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089c40
+LockWindowStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034690
+LockWindowUpdate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800346a0
+LockWorkStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800346b0
+LogicalToPhysicalPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800346d0
+LogicalToPhysicalPointForPerMonitorDPI
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800346e0
+LookupIconIdFromDirectory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800523f0
+LookupIconIdFromDirectoryEx
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180025aa0
+MBToWCSEx
+----> Number of xrefs: 46
+----> in: Data_Offset
+----> to: 0x1800241c0
+MBToWCSExt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180024190
+MB_GetString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007c2c0
+MITGetCursorUpdateHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cfc0
+MITSetForegroundRoutingInfo
+----> Number of xrefs: 71
+----> in: Data_Offset
+----> to: 0x18002d020
+MITSetInputDelegationMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b7f0
+MITSetLastInputRecipient
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007f720
+MITSynthesizeTouchInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007f740
+MakeThreadTSFEventAware
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002b110
+MapDialogRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800317b0
+MapPointsByVisualIdentifier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800346f0
+MapVirtualKeyA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086100
+MapVirtualKeyExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086170
+MapVirtualKeyExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b0f0
+MapVirtualKeyW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180027fe0
+MapVisualRelativePoints
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034700
+MapWindowPoints
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000b9f0
+MenuItemFromPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034710
+MenuWindowProcA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050630
+MenuWindowProcW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800506b0
+MessageBeep
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089c60
+MessageBoxA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007c2f0
+MessageBoxExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007c350
+MessageBoxExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007c380
+MessageBoxIndirectA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007c3b0
+MessageBoxIndirectW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007c560
+MessageBoxTimeoutA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18007c620
+MessageBoxTimeoutW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18007c790
+MessageBoxW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007c970
+ModifyMenuA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18008d040
+ModifyMenuW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180031de0
+MonitorFromPoint
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180029620
+MonitorFromRect
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800136e0
+MonitorFromWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021140
+MoveWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034720
+MsgWaitForMultipleObjects
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020720
+MsgWaitForMultipleObjectsEx
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180020750
+NotifyOverlayWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089c80
+NotifyWinEvent
+----> Number of xrefs: 21
+----> in: Data_Offset
+----> to: 0x180004a50
+OemKeyScan
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e400
+OemToCharA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e490
+OemToCharBuffA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007e4e0
+OemToCharBuffW
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18007e530
+OemToCharW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e580
+OffsetRect
+----> Number of xrefs: 17
+----> in: Data_Offset
+----> to: 0x18000ae10
+OpenClipboard
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18002b970
+OpenDesktopA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001b4f0
+OpenDesktopW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001a620
+OpenIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089ca0
+OpenInputDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034740
+OpenThreadDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034750
+OpenWindowStationA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001c520
+OpenWindowStationW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001b480
+PackDDElParam
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005a7a0
+PackTouchHitTestingProximityEvaluation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180082550
+PaintDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007de20
+PaintMenuBar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034760
+PaintMonitor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034770
+PeekMessageA
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180009910
+PeekMessageW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x18000a370
+PhysicalToLogicalPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034790
+PhysicalToLogicalPointForPerMonitorDPI
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800347a0
+PostMessageA
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180029970
+PostMessageW
+----> Number of xrefs: 21
+----> in: Data_Offset
+----> to: 0x1800210a0
+PostQuitMessage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002bac0
+PostThreadMessageA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180032270
+PostThreadMessageW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180027f70
+PrintWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800347b0
+PrivateExtractIconExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006afe0
+PrivateExtractIconExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18006b070
+PrivateExtractIconsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006b210
+PrivateExtractIconsW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x18001ba30
+PrivateRegisterICSProc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180052410
+PtInRect
+----> Number of xrefs: 26
+----> in: Data_Offset
+----> to: 0x1800136b0
+QueryBSDRWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800347f0
+QueryDisplayConfig
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180026720
+QuerySendMessage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034800
+RIMAddInputObserver
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034810
+RIMAreSiblingDevices
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034820
+RIMDeviceIoControl
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034830
+RIMEnableMonitorMappingForDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034840
+RIMFreeInputBuffer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034850
+RIMGetDevicePreparsedData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034860
+RIMGetDevicePreparsedDataLockfree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034870
+RIMGetDeviceProperties
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034880
+RIMGetDevicePropertiesLockfree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034890
+RIMGetPhysicalDeviceRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348a0
+RIMGetSourceProcessId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348b0
+RIMObserveNextInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348c0
+RIMOnPnpNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348d0
+RIMOnTimerNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348e0
+RIMQueryDevicePath
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800348f0
+RIMReadInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034900
+RIMRegisterForInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034910
+RIMRemoveInputObserver
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034920
+RIMSetExtendedDeviceProperty
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034930
+RIMSetTestModeStatus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034940
+RIMUnregisterForInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034950
+RIMUpdateInputObserverRegistration
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034960
+RealChildWindowFromPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034970
+RealGetWindowClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086260
+RealGetWindowClassA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086260
+RealGetWindowClassW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180023ef0
+ReasonCodeNeedsBugID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007f5b0
+ReasonCodeNeedsComment
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007f5c0
+RecordShutdownReason
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180032d30
+RedrawWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034980
+RegisterBSDRWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034990
+RegisterClassA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ad0
+RegisterClassExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008d0c0
+RegisterClassExW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180007250
+RegisterClassW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007280
+RegisterClipboardFormatA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003140
+RegisterClipboardFormatW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180026c50
+RegisterDManipHook
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349a0
+RegisterDeviceNotificationA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bba0
+RegisterDeviceNotificationW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bba0
+RegisterErrorReportingDialog
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349b0
+RegisterFrostWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089d30
+RegisterGhostWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089d50
+RegisterHotKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349c0
+RegisterLogonProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002cbd0
+RegisterMessagePumpHook
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002be00
+RegisterPointerDeviceNotifications
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349d0
+RegisterPointerInputTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180050cb0
+RegisterPointerInputTargetEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050750
+RegisterPowerSettingNotification
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002a2c0
+RegisterRawInputDevices
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349e0
+RegisterServicesProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800349f0
+RegisterSessionPort
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a00
+RegisterShellHookWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cc80
+RegisterSuspendResumeNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e070
+RegisterSystemThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180032540
+RegisterTasklist
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a20
+RegisterTouchHitTestingWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a30
+RegisterTouchWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007e0e0
+RegisterUserApiHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002c6a0
+RegisterWindowMessageA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003140
+RegisterWindowMessageW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180026c50
+ReleaseCapture
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c5c0
+ReleaseDC
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180023ca0
+ReleaseDwmHitTestWaiters
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a50
+RemoveClipboardFormatListener
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cf80
+RemoveInjectionDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033d60
+RemoveMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a60
+RemovePropA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086330
+RemovePropW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800260d0
+RemoveThreadTSFEventAwareness
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180082de0
+RemoveVisualIdentifier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a70
+ReplyMessage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180029900
+ResolveDesktopForWOW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034a90
+ReuseDDElParam
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005a820
+ScreenToClient
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180011cf0
+ScrollChildren
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180079240
+ScrollDC
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180026d90
+ScrollWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089db0
+ScrollWindowEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180026ae0
+SendDlgItemMessageA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008d110
+SendDlgItemMessageW
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x180001420
+SendIMEMessageExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800868a0
+SendIMEMessageExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800868c0
+SendInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ac0
+SendMessageA
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x1800096c0
+SendMessageCallbackA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800863d0
+SendMessageCallbackW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027eb0
+SendMessageTimeoutA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180031200
+SendMessageTimeoutW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020ae0
+SendMessageW
+----> Number of xrefs: 178
+----> in: Data_Offset
+----> to: 0x18000d540
+SendNotifyMessageA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180030c90
+SendNotifyMessageW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180029480
+SetActiveWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034b00
+SetCapture
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034b50
+SetCaretBlinkTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b0d0
+SetCaretPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b810
+SetClassLongA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086460
+SetClassLongPtrA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086480
+SetClassLongPtrW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002caa0
+SetClassLongW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180032520
+SetClassWord
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034b70
+SetClipboardData
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180030090
+SetClipboardViewer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180032590
+SetCoalescableTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034b80
+SetCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002b280
+SetCursorContents
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034bb0
+SetCursorPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034bd0
+SetDebugErrorLevel
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18002d010
+SetDeskWallpaper
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089e10
+SetDesktopColorTransform
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034be0
+SetDialogControlDpiChangeBehavior
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c00
+SetDialogDpiChangeBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b490
+SetDisplayAutoRotationPreferences
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c10
+SetDisplayConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008e840
+SetDlgItemInt
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180001560
+SetDlgItemTextA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008d160
+SetDlgItemTextW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a880
+SetDoubleClickTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089e30
+SetFeatureReportResponse
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c40
+SetFocus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c50
+SetForegroundWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002bde0
+SetFullscreenMagnifierOffsetsDWMUpdated
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c70
+SetGestureConfig
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034c80
+SetInternalWindowPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034cc0
+SetKeyboardState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034cd0
+SetLastErrorEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007e5e0
+SetLayeredWindowAttributes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ce0
+SetMagnificationDesktopColorEffect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180077480
+SetMagnificationDesktopMagnification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180077560
+SetMagnificationDesktopMagnifierOffsetsDWMUpdated
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034cf0
+SetMagnificationDesktopSamplingMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800775e0
+SetMagnificationLensCtxInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d00
+SetMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c8d0
+SetMenuContextHelpId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d10
+SetMenuDefaultItem
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d20
+SetMenuInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001770
+SetMenuItemBitmaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ba0
+SetMenuItemInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008d190
+SetMenuItemInfoW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001f9f0
+SetMessageExtraInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180050730
+SetMessageQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002d040
+SetMirrorRendering
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d30
+SetParent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c460
+SetPhysicalCursorPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034bd0
+SetPointerDeviceInputSpace
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d40
+SetProcessDPIAware
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b4d0
+SetProcessDefaultLayout
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089e50
+SetProcessDpiAwarenessContext
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18001a4f0
+SetProcessDpiAwarenessInternal
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x18001a4a0
+SetProcessRestrictionExemption
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d80
+SetProcessWindowStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034d90
+SetProgmanWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089e70
+SetPropA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800865c0
+SetPropW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800240b0
+SetRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180023a00
+SetRectEmpty
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800239e0
+SetScrollInfo
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x180012a60
+SetScrollPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180032480
+SetScrollRange
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180030f70
+SetShellChangeNotifyWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cf60
+SetShellWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180089e90
+SetShellWindowEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034db0
+SetSysColors
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002ce50
+SetSysColorsTemp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e600
+SetSystemCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e100
+SetSystemMenu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034dc0
+SetTaskmanWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cf00
+SetThreadDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c210
+SetThreadDpiAwarenessContext
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180016c50
+SetThreadDpiHostingBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180089ed0
+SetThreadInputBlocked
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034de0
+SetTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180023d00
+SetUserObjectInformationA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180089fc0
+SetUserObjectInformationW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a040
+SetUserObjectSecurity
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002c8f0
+SetWinEventHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800294f0
+SetWindowBand
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e00
+SetWindowCompositionAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180028ed0
+SetWindowCompositionTransition
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e10
+SetWindowContextHelpId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a050
+SetWindowDisplayAffinity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e20
+SetWindowFeedbackSetting
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e30
+SetWindowLongA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c940
+SetWindowLongPtrA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002c9a0
+SetWindowLongPtrW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18000b750
+SetWindowLongW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180010ea0
+SetWindowPlacement
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e50
+SetWindowPos
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e60
+SetWindowRgn
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800145f0
+SetWindowRgnEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e160
+SetWindowStationUser
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002c800
+SetWindowTextA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18008d200
+SetWindowTextW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800143e0
+SetWindowWord
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e80
+SetWindowsHookA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004fbb0
+SetWindowsHookExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004fbd0
+SetWindowsHookExAW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800359d0
+SetWindowsHookExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002b3b0
+SetWindowsHookW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004fbf0
+ShowCaret
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180028f80
+ShowCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034e90
+ShowOwnedPopups
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800325d0
+ShowScrollBar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ea0
+ShowStartGlass
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a070
+ShowSystemCursor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034eb0
+ShowWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ec0
+ShowWindowAsync
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ed0
+ShutdownBlockReasonCreate
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002a890
+ShutdownBlockReasonDestroy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ee0
+ShutdownBlockReasonQuery
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ef0
+SignalRedirectionStartComplete
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f00
+SkipPointerFrameMessages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f10
+SoftModalMessageBox
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007c9d0
+SoundSentry
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f30
+SubtractRect
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002a100
+SwapMouseButton
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a090
+SwitchDesktop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cce0
+SwitchDesktopWithFade
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002cf40
+SwitchToThisWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001c30
+SystemParametersInfoA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180028bb0
+SystemParametersInfoForDpi
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800289f0
+SystemParametersInfoW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180023340
+TabbedTextOutA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058710
+TabbedTextOutW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180058840
+TileChildWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a0b0
+TileWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079270
+ToAscii
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a0e0
+ToAsciiEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a160
+ToUnicode
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18007e1b0
+ToUnicodeEx
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180028960
+TrackMouseEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f40
+TrackPopupMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180079620
+TrackPopupMenuEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f50
+TranslateAccelerator
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a2e0
+TranslateAcceleratorA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a2e0
+TranslateAcceleratorW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d80
+TranslateMDISysAccel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800792a0
+TranslateMessage
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180009390
+TranslateMessageEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180026a80
+UnhookWinEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f70
+UnhookWindowsHook
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18008a370
+UnhookWindowsHookEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002b310
+UnionRect
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x180023d30
+UnloadKeyboardLayout
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a390
+UnlockWindowStation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f80
+UnpackDDElParam
+----> Number of xrefs: 15
+----> in: Data_Offset
+----> to: 0x18005a8e0
+UnregisterClassA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180005510
+UnregisterClassW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180007e60
+UnregisterDeviceNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bf80
+UnregisterHotKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f90
+UnregisterMessagePumpHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180032190
+UnregisterPointerInputTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180050cf0
+UnregisterPointerInputTargetEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180050750
+UnregisterPowerSettingNotification
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002b940
+UnregisterSessionPort
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034fa0
+UnregisterSuspendResumeNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e200
+UnregisterTouchWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18007e240
+UnregisterUserApiHook
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034fb0
+UpdateDefaultDesktopThumbnail
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034fc0
+UpdateLayeredWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180031420
+UpdateLayeredWindowIndirect
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18002de60
+UpdatePerUserSystemParameters
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c8e0
+UpdateWindow
+----> Number of xrefs: 17
+----> in: Data_Offset
+----> to: 0x1800131f0
+UpdateWindowInputSinkHints
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034fd0
+User32InitializeImmEntryTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180019600
+UserClientDllInitialize
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180017f30
+UserHandleGrantAccess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034ff0
+UserLpkPSMTextOut
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180058890
+UserLpkTabbedTextOut
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180058ad0
+UserRealizePalette
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180030070
+UserRegisterWowHandlers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18008a3d0
+VRipOutput
+----> Number of xrefs: 71
+----> in: Data_Offset
+----> to: 0x18002d020
+VTagOutput
+----> Number of xrefs: 71
+----> in: Data_Offset
+----> to: 0x18002d020
+ValidateRect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035000
+ValidateRgn
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001e00
+VkKeyScanA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800866a0
+VkKeyScanExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180086710
+VkKeyScanExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001660
+VkKeyScanW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18002bb60
+WCSToMBEx
+----> Number of xrefs: 52
+----> in: Data_Offset
+----> to: 0x180008d60
+WINNLSEnableIME
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800868e0
+WINNLSGetEnableStatus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180086900
+WINNLSGetIMEHotkey
+----> Number of xrefs: 71
+----> in: Data_Offset
+----> to: 0x18002d020
+WaitForInputIdle
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18002ca40
+WaitForRedirectionStartComplete
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035020
+WaitMessage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035030
+WinHelpA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180031540
+WinHelpW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180031490
+WindowFromDC
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035040
+WindowFromPhysicalPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035050
+WindowFromPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180035060
+_UserTestTokenForInteractive
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180082d00
+gSharedInfo
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800b4030
+gapfnScSendMessage
+----> Number of xrefs: 25
+----> in: Data_Offset
+----> to: 0x180092990
+DelegateInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180033cf0
+UndelegateInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034f60
+HandleDelegatedInput
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034480
+GetProcessUIContextInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800342b0
+IsThreadMessageQueueAttached
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180026230
+keybd_event
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18007e280
+mouse_event
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18002bf20
+ReportInertia
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e60
+wsprintfA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180027520
+SetCoreWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180034b90
+wsprintfW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180029b00
+wvsprintfA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180027550
+wvsprintfW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180029b30
+UserClientDllInitialize
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180017f30

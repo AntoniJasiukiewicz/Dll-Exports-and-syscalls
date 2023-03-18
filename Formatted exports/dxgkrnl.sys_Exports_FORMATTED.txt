@@ -1,0 +1,1952 @@
+DxgCreateLiveDumpWithWdLogs
+----> Number of xrefs: 20
+----> in: Data_Offset
+----> to: 0x1c021fef0
+DxgKrnlTelemetryGlobal_LogTelemetryEvent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c004b910
+DxgkOpenDwmHandleForCompositionObjectReference
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0017c40
+DxgkOpenHandleForCompositionObjectReference
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c005d9a0
+DxgkReferenceCompositionObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c000f910
+DxgkReleaseCompositionObjectReference
+----> Number of xrefs: 18
+----> in: Data_Offset
+----> to: 0x1c001a170
+DxgkUnreferenceDxgAllocation
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0108ec0
+DxgkUnreferenceDxgResource
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1c0126a70
+DxgkVidMmAllowFailOnOfferReclaimErrors
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0220800
+TdrAllowToDebugEngineTimeout
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0263590
+TdrCollectDbgInfoStage1
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0263770
+TdrCollectDbgInfoStage2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c02642c0
+TdrCompleteRecoveryContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c02644f0
+TdrCreateRecoveryContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0264620
+TdrHistoryInit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0158820
+TdrHistoryIsLimitExhausted
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02648e0
+TdrHistoryUpdate
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0264970
+TdrIsEnabled
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0197cc0
+TdrIsRecoveryRequired
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0264a10
+TdrIsTimeoutForcedFlip
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0264c30
+TdrResetFromTimeout
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0264c70
+TdrResetFromTimeoutAsync
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0264d50
+TdrUpdateDbgReport
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x1c0264f70
+g_DxgKrnlTelemetryProviderGlobal
+----> Number of xrefs: 2
+----> in: Data_Write
+----> to: 0x1c00b11b8
+g_IsInternalRelease
+----> Number of xrefs: 4
+----> in: Data_Write
+----> to: 0x1c00b1180
+g_IsInternalReleaseOrDbg
+----> Number of xrefs: 4
+----> in: Data_Write
+----> to: 0x1c00b1193
+g_OutputDuplicationTestControl
+----> Number of xrefs: 3
+----> in: Data_Read
+----> to: 0x1c00b2384
+g_TdrConfig
+----> Number of xrefs: 8
+----> in: Data_Read
+----> to: 0x1c00b1160
+?g_TdrForceDodPresentTimeout@@3JC
+----> Number of xrefs: 3
+----> in: Data_Read
+----> to: 0x1c00b2580
+?g_TdrForceDodVSyncTimeout@@3JC
+----> Number of xrefs: 3
+----> in: Data_Write
+----> to: 0x1c00b2348
+g_TdrForceTimeout
+----> Number of xrefs: 2
+----> in: Data_Write
+----> to: 0x1c00b2584
+DpSynchronizeExecution
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1c000d6b0
+DpiGetDriverVersion
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0197c30
+DpiGetDxgAdapter
+----> Number of xrefs: 38
+----> in: Data_Offset
+----> to: 0x1c000d490
+DpiGetSchedulerCallbackState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0014520
+DpiMapIommuContiguous
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02c56b0
+DpiMapIommuIdentityRange
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02c5700
+DpiSetSchedulerCallbackState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00242d0
+DpiUnmapIommuContiguous
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02c5f20
+DpiUnmapIommuIdentityRange
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02c5f70
+DxgCoreInterface
+----> Number of xrefs: 0
+----> in: 
+----> to: 0
+DxgkAbandonSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02aba70
+DxgkAcquireKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02913a0
+DxgkAcquireKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291650
+DxgkAcquireSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02abc00
+DxgkAddSurfaceToSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ac190
+DxgkAdjustFullscreenGamma
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0221790
+DxgkCacheHybridQueryValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c015bde0
+DxgkChangeVideoMemoryReservation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0228020
+DxgkCheckExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016b050
+DxgkCheckMonitorPowerState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0150620
+DxgkCheckMultiPlaneOverlaySupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02564b0
+DxgkCheckMultiPlaneOverlaySupport2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0256b10
+DxgkCheckMultiPlaneOverlaySupport3
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0257170
+DxgkCheckOcclusion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0160d00
+DxgkCheckSharedResourceAccess
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0228550
+DxgkCheckVidPnExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0150d80
+DxgkCloseAdapter
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c01126f0
+DxgkConfigureSharedResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0118d00
+DxgkCreateAllocation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0156350
+DxgkCreateBundleObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0276650
+DxgkCreateContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e2190
+DxgkCreateContextVirtual
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e4ba0
+DxgkCreateDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c012ada0
+DxgkCreateHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+DxgkCreateHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c026ffa0
+DxgkCreateKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291910
+DxgkCreateKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291c50
+DxgkCreateOutputDupl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029bba0
+DxgkCreateOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0279a20
+DxgkCreatePagingQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e5440
+DxgkCreateProtectedSession
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02876f0
+DxgkCreateSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ac570
+DxgkCreateSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c010da90
+DxgkDDisplayEnum
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c012c770
+DxgkDestroyAllocation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0109c80
+DxgkDestroyAllocation2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0109a20
+DxgkDestroyContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e3320
+DxgkDestroyDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e28c0
+DxgkDestroyHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+DxgkDestroyHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02705c0
+DxgkDestroyKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292000
+DxgkDestroyOutputDupl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029be00
+DxgkDestroyOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027a0b0
+DxgkDestroyPagingQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e2700
+DxgkDestroyProtectedSession
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02880d0
+DxgkDestroySynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0110120
+DxgkDispMgrCreate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01697b0
+DxgkDispMgrOperation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c015fba0
+DxgkDispMgrSourceOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b0a10
+DxgkDispMgrTargetOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b0d80
+DxgkEnumAdapters
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02224f0
+DxgkEnumAdapters2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c012e600
+DxgkEscape
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1c00f72c0
+DxgkEvict
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c014e520
+DxgkExtractBundleObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02772f0
+DxgkFlipOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027a650
+DxgkFlushHeapTransitions
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c015c2a0
+DxgkFreeGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c016fdf0
+DxgkGetAllocationPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0228830
+DxgkGetCachedHybridQueryValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0159df0
+DxgkGetContextInProcessSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c02581e0
+DxgkGetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00dd790
+DxgkGetDWMVerticalBlankEvent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0166840
+DxgkGetDeviceState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00f65f0
+DxgkGetDisplayModeList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c016b3f0
+DxgkGetMemoryBudgetTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0194b60
+DxgkGetMultiPlaneOverlayCaps
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0159930
+DxgkGetMultisampleMethodList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c025d710
+DxgkGetOverlayState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027ab10
+DxgkGetPostCompositionCaps
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0159430
+DxgkGetPresentHistory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281a00
+DxgkGetPresentStats
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c016bf90
+DxgkGetProcessDeviceRemovalSupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285220
+DxgkGetProcessSchedulingPriorityBand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02854a0
+DxgkGetProcessSchedulingPriorityClass
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02858b0
+DxgkGetResourcePresentPrivateDriverData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0228be0
+DxgkGetRuntimeData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0229080
+DxgkGetScanLine
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016aba0
+DxgkGetSessionTokenManager
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x1c000e0c0
+DxgkGetSetSwapChainMetadata
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02acdd0
+DxgkGetSharedPrimaryHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0222510
+DxgkGetSharedResourceAdapterLuid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229120
+DxgkGetYieldPercentage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01948c0
+DxgkInvalidateActiveVidPn
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c025dd20
+DxgkInvalidateCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c022acb0
+DxgkLock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c01011f0
+DxgkLock2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0100130
+DxgkMakeResident
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c014dc30
+DxgkMapGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0152180
+DxgkMarkDeviceAsError
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c02586c0
+DxgkNetDispGetNextChunkInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223350
+DxgkNetDispQueryMiracastDisplayDeviceStatus
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223730
+DxgkNetDispQueryMiracastDisplayDeviceSupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0170150
+DxgkNetDispStartMiracastDisplayDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223960
+DxgkNetDispStopMiracastDisplayDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223bd0
+DxgkOfferAllocations
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c014bb30
+DxgkOpenAdapterFromDeviceName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0135b70
+DxgkOpenAdapterFromHdc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01561e0
+DxgkOpenAdapterFromLuid
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01358a0
+DxgkOpenBundleObjectNtHandleFromName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0277d00
+DxgkOpenKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292110
+DxgkOpenKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02923f0
+DxgkOpenKeyedMutexFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0277ee0
+DxgkOpenNtHandleFromName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02781f0
+DxgkOpenProtectedSessionFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0288390
+DxgkOpenResource
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0115720
+DxgkOpenResourceFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0117dc0
+DxgkOpenSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ad000
+DxgkOpenSyncObjectFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02783d0
+DxgkOpenSyncObjectFromNtHandle2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0278870
+DxgkOpenSyncObjectNtHandleFromName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0278890
+DxgkOpenSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0292700
+DxgkOutputDuplGetFrameInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029bfc0
+DxgkOutputDuplGetMetaData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c1a0
+DxgkOutputDuplGetPointerShapeData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c3a0
+DxgkOutputDuplPresent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281a20
+DxgkOutputDuplReleaseFrame
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c670
+DxgkPollDisplayChildren
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223e40
+DxgkPresent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00ff4f0
+DxgkPresentMultiPlaneOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a6070
+DxgkPresentMultiPlaneOverlay2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a6870
+DxgkPresentMultiPlaneOverlay3
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a7070
+DxgkPresentRedirected
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281dd0
+DxgkQueryAdapterInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0123700
+DxgkQueryAllocationResidency
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229560
+DxgkQueryClockCalibration
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02240e0
+DxgkQueryFSEBlock
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+DxgkQueryProcessOfferInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00e15e0
+DxgkQueryProtectedSessionInfoFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02887a0
+DxgkQueryProtectedSessionStatus
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0288c10
+DxgkQueryRemoteVidPnSourceFromGdiDisplayName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0043960
+DxgkQueryResourceInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0115850
+DxgkQueryResourceInfoFromNtHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0118ef0
+DxgkQueryStatistics
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0224720
+DxgkQueryVidPnExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016c0f0
+DxgkQueryVideoMemoryInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c00dd090
+DxgkReclaimAllocations
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0101780
+DxgkReclaimAllocations2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c010dac0
+DxgkReleaseKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292720
+DxgkReleaseKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292980
+DxgkReleaseProcessVidPnSourceOwners
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0285a20
+DxgkReleaseSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ad730
+DxgkRemoveSurfaceFromSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02adb40
+DxgkRender
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e7f70
+DxgkReserveGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c016f6c0
+DxgkSetAllocationPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0229930
+DxgkSetContextInProcessSchedulingPriority
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c00e0d70
+DxgkSetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00df650
+DxgkSetDisplayMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0147c10
+DxgkSetDodIndirectSwapchain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0224fa0
+DxgkSetFSEBlock
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+DxgkSetGammaRamp
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0258b50
+DxgkSetHwProtectionTeardownRecovery
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00439e0
+DxgkSetMemoryBudgetTarget
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285b90
+DxgkSetMonitorColorSpaceTransform
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+DxgkSetProcessDeviceRemovalSupport
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01652a0
+DxgkSetProcessSchedulingPriorityBand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285e40
+DxgkSetProcessSchedulingPriorityClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00deab0
+DxgkSetQueuedLimit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0150950
+DxgkSetStablePowerState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02861d0
+DxgkSetStereoEnabled
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c026b1e0
+DxgkSetSyncRefreshCountWaitTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00f5190
+DxgkSetVidPnSourceHwProtection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0225980
+DxgkSetVidPnSourceOwner
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c013f540
+DxgkSetYieldPercentage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0286750
+DxgkShareObjects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c011a510
+DxgkSignalSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00dd070
+DxgkSignalSynchronizationObjectFromCpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0292bf0
+DxgkSignalSynchronizationObjectFromGpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02934a0
+DxgkSignalSynchronizationObjectFromGpu2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00f6bc0
+DxgkSubmitCommand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00ef6e0
+DxgkSubmitCommandToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0270870
+DxgkSubmitPresentBltToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+DxgkSubmitPresentToHwQueue
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0270cd0
+DxgkSubmitSignalSyncObjectsToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0273430
+DxgkSubmitWaitForSyncObjectsToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0273450
+DxgkTrimProcessCommitment
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0286a10
+DxgkUnOrderedPresentSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ade00
+DxgkUnlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00dfe40
+DxgkUnlock2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0100710
+DxgkUpdateAllocationProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c027b720
+DxgkUpdateGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229ca0
+DxgkUpdateOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027b110
+DxgkWaitForIdle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0259130
+DxgkWaitForSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00dd050
+DxgkWaitForSynchronizationObjectFromCpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0168800
+DxgkWaitForSynchronizationObjectFromGpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00ea640
+DxgkWaitForVerticalBlankEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0151390
+DxgkWaitForVerticalBlankEvent2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0151160
+NtBindCompositionSurface
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000ef10
+NtCreateCompositionSurfaceHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00181c0
+NtDxgkCreateTrackedWorkload
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bc160
+NtDxgkDestroyTrackedWorkload
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bc300
+NtDxgkDispMgrOperation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c015fba0
+NtDxgkDisplayPortOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c004ef60
+NtDxgkDuplicateHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0278a70
+NtDxgkEnumAdapters3
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c016f380
+NtDxgkGetAvailableTrackedWorkloadIndex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bc720
+NtDxgkGetProcessList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0225ef0
+NtDxgkGetTrackedWorkloadStatistics
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bca60
+NtDxgkOutputDuplPresentToHwQueue
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0273880
+NtDxgkPinResources
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016ccc0
+NtDxgkRegisterVailProcess
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b7230
+NtDxgkResetTrackedWorkloadStatistics
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bcdd0
+NtDxgkSubmitPresentBltToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+NtDxgkSubmitPresentToHwQueue
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0270cd0
+NtDxgkUnpinResources
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016d230
+NtDxgkUpdateTrackedWorkload
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02bcfd0
+NtDxgkVailConnect
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b74f0
+NtDxgkVailDisconnect
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b7900
+NtDxgkVailPromoteCompositionSurface
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b7c20
+NtFlipObjectAddContent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0067cb0
+NtFlipObjectAddPoolBuffer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0067e00
+NtFlipObjectConsumerAcquirePresent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0067f90
+NtFlipObjectConsumerAdjustUsageReference
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00680f0
+NtFlipObjectConsumerBeginProcessPresent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00681f0
+NtFlipObjectConsumerEndProcessPresent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068320
+NtFlipObjectConsumerPostMessage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00683c0
+NtFlipObjectConsumerQueryBufferInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00684a0
+NtFlipObjectCreate
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068640
+NtFlipObjectDisconnectEndpoint
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068720
+NtFlipObjectEnablePresentStatisticsType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00687c0
+NtFlipObjectOpen
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068860
+NtFlipObjectPresentCancel
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00689b0
+NtFlipObjectQueryBufferAvailableEvent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068a80
+NtFlipObjectQueryEndpointConnected
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068bd0
+NtFlipObjectQueryNextMessageToProducer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068cc0
+NtFlipObjectReadNextMessageToProducer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068db0
+NtFlipObjectRemoveContent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068eb0
+NtFlipObjectRemovePoolBuffer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0068fa0
+NtFlipObjectSetContent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0069090
+NtFlipObjectSetMaximumBackchannelQueueDepth
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0069220
+NtGdiDdDDIAbandonSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02aba70
+NtGdiDdDDIAcquireKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02913a0
+NtGdiDdDDIAcquireKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291650
+NtGdiDdDDIAcquireSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02abc00
+NtGdiDdDDIAddSurfaceToSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ac190
+NtGdiDdDDIAdjustFullscreenGamma
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0221790
+NtGdiDdDDICacheHybridQueryValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c015bde0
+NtGdiDdDDIChangeVideoMemoryReservation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0228020
+NtGdiDdDDICheckExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016b050
+NtGdiDdDDICheckMonitorPowerState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0150620
+NtGdiDdDDICheckMultiPlaneOverlaySupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02564b0
+NtGdiDdDDICheckMultiPlaneOverlaySupport2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0256b10
+NtGdiDdDDICheckMultiPlaneOverlaySupport3
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0257170
+NtGdiDdDDICheckOcclusion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0160d00
+NtGdiDdDDICheckSharedResourceAccess
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0228550
+NtGdiDdDDICheckVidPnExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0150d80
+NtGdiDdDDICloseAdapter
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c01126f0
+NtGdiDdDDIConfigureSharedResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0118d00
+NtGdiDdDDICreateAllocation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0156350
+NtGdiDdDDICreateBundleObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0276650
+NtGdiDdDDICreateContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e2190
+NtGdiDdDDICreateContextVirtual
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e4ba0
+NtGdiDdDDICreateDevice
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c012ada0
+NtGdiDdDDICreateHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+NtGdiDdDDICreateHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c026ffa0
+NtGdiDdDDICreateKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291910
+NtGdiDdDDICreateKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0291c50
+NtGdiDdDDICreateOutputDupl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029bba0
+NtGdiDdDDICreateOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0279a20
+NtGdiDdDDICreatePagingQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e5440
+NtGdiDdDDICreateProtectedSession
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02876f0
+NtGdiDdDDICreateSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ac570
+NtGdiDdDDICreateSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c010da90
+NtGdiDdDDIDDisplayEnum
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c012c770
+NtGdiDdDDIDestroyAllocation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0109c80
+NtGdiDdDDIDestroyAllocation2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0109a20
+NtGdiDdDDIDestroyContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e3320
+NtGdiDdDDIDestroyDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e28c0
+NtGdiDdDDIDestroyHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c022dee0
+NtGdiDdDDIDestroyHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02705c0
+NtGdiDdDDIDestroyKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292000
+NtGdiDdDDIDestroyOutputDupl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029be00
+NtGdiDdDDIDestroyOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027a0b0
+NtGdiDdDDIDestroyPagingQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00e2700
+NtGdiDdDDIDestroyProtectedSession
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02880d0
+NtGdiDdDDIDestroySynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0110120
+NtGdiDdDDIDispMgrCreate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01697b0
+NtGdiDdDDIDispMgrSourceOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b0a10
+NtGdiDdDDIDispMgrTargetOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02b0d80
+NtGdiDdDDIEnumAdapters
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02224f0
+NtGdiDdDDIEnumAdapters2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c012e600
+NtGdiDdDDIEscape
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1c00f72c0
+NtGdiDdDDIEvict
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c014e520
+NtGdiDdDDIExtractBundleObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02772f0
+NtGdiDdDDIFlipOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027a650
+NtGdiDdDDIFlushHeapTransitions
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c015c2a0
+NtGdiDdDDIFreeGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c016fdf0
+NtGdiDdDDIGetAllocationPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0228830
+NtGdiDdDDIGetCachedHybridQueryValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0159df0
+NtGdiDdDDIGetContextInProcessSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c02581e0
+NtGdiDdDDIGetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00dd790
+NtGdiDdDDIGetDWMVerticalBlankEvent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0166840
+NtGdiDdDDIGetDeviceState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00f65f0
+NtGdiDdDDIGetDisplayModeList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c016b3f0
+NtGdiDdDDIGetMemoryBudgetTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0194b60
+NtGdiDdDDIGetMultiPlaneOverlayCaps
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0159930
+NtGdiDdDDIGetMultisampleMethodList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c025d710
+NtGdiDdDDIGetOverlayState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027ab10
+NtGdiDdDDIGetPostCompositionCaps
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0159430
+NtGdiDdDDIGetPresentHistory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281a00
+NtGdiDdDDIGetPresentStatsInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c016bf90
+NtGdiDdDDIGetProcessDeviceRemovalSupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285220
+NtGdiDdDDIGetProcessSchedulingPriorityBand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02854a0
+NtGdiDdDDIGetProcessSchedulingPriorityClass
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02858b0
+NtGdiDdDDIGetResourcePresentPrivateDriverData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0228be0
+NtGdiDdDDIGetRuntimeData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0229080
+NtGdiDdDDIGetScanLine
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016aba0
+NtGdiDdDDIGetSetSwapChainMetadata
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02acdd0
+NtGdiDdDDIGetSharedPrimaryHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0222510
+NtGdiDdDDIGetSharedResourceAdapterLuid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229120
+NtGdiDdDDIGetSharedResourceAdapterLuidFlipManager
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229120
+NtGdiDdDDIGetYieldPercentage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01948c0
+NtGdiDdDDIInvalidateActiveVidPn
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c025dd20
+NtGdiDdDDIInvalidateCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c022acb0
+NtGdiDdDDILock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c01011f0
+NtGdiDdDDILock2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0100130
+NtGdiDdDDIMakeResident
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c014dc30
+NtGdiDdDDIMapGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0152180
+NtGdiDdDDIMarkDeviceAsError
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c02586c0
+NtGdiDdDDINetDispGetNextChunkInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223350
+NtGdiDdDDINetDispQueryMiracastDisplayDeviceStatus
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223730
+NtGdiDdDDINetDispQueryMiracastDisplayDeviceSupport
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0170150
+NtGdiDdDDINetDispStartMiracastDisplayDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223960
+NtGdiDdDDINetDispStopMiracastDisplayDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223bd0
+NtGdiDdDDIOfferAllocations
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c014bb30
+NtGdiDdDDIOpenAdapterFromDeviceName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0135b70
+NtGdiDdDDIOpenAdapterFromHdc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01561e0
+NtGdiDdDDIOpenAdapterFromLuid
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01358a0
+NtGdiDdDDIOpenBundleObjectNtHandleFromName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0277d00
+NtGdiDdDDIOpenKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292110
+NtGdiDdDDIOpenKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02923f0
+NtGdiDdDDIOpenKeyedMutexFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0277ee0
+NtGdiDdDDIOpenNtHandleFromName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02781f0
+NtGdiDdDDIOpenProtectedSessionFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0288390
+NtGdiDdDDIOpenResource
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0115720
+NtGdiDdDDIOpenResourceFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0117dc0
+NtGdiDdDDIOpenSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ad000
+NtGdiDdDDIOpenSyncObjectFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02783d0
+NtGdiDdDDIOpenSyncObjectFromNtHandle2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0278870
+NtGdiDdDDIOpenSyncObjectNtHandleFromName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0278890
+NtGdiDdDDIOpenSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0292700
+NtGdiDdDDIOutputDuplGetFrameInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029bfc0
+NtGdiDdDDIOutputDuplGetMetaData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c1a0
+NtGdiDdDDIOutputDuplGetPointerShapeData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c3a0
+NtGdiDdDDIOutputDuplPresent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281a20
+NtGdiDdDDIOutputDuplReleaseFrame
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c029c670
+NtGdiDdDDIPollDisplayChildren
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0223e40
+NtGdiDdDDIPresent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00ff4f0
+NtGdiDdDDIPresentMultiPlaneOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a6070
+NtGdiDdDDIPresentMultiPlaneOverlay2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a6870
+NtGdiDdDDIPresentMultiPlaneOverlay3
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02a7070
+NtGdiDdDDIPresentRedirected
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0281dd0
+NtGdiDdDDIQueryAdapterInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0123700
+NtGdiDdDDIQueryAllocationResidency
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229560
+NtGdiDdDDIQueryClockCalibration
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02240e0
+NtGdiDdDDIQueryFSEBlock
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+NtGdiDdDDIQueryProcessOfferInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00e15e0
+NtGdiDdDDIQueryProtectedSessionInfoFromNtHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02887a0
+NtGdiDdDDIQueryProtectedSessionStatus
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0288c10
+NtGdiDdDDIQueryRemoteVidPnSourceFromGdiDisplayName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0043960
+NtGdiDdDDIQueryResourceInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0115850
+NtGdiDdDDIQueryResourceInfoFromNtHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0118ef0
+NtGdiDdDDIQueryStatistics
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0224720
+NtGdiDdDDIQueryVidPnExclusiveOwnership
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c016c0f0
+NtGdiDdDDIQueryVideoMemoryInfo
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c00dd090
+NtGdiDdDDIReclaimAllocations
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0101780
+NtGdiDdDDIReclaimAllocations2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c010dac0
+NtGdiDdDDIReleaseKeyedMutex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292720
+NtGdiDdDDIReleaseKeyedMutex2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0292980
+NtGdiDdDDIReleaseProcessVidPnSourceOwners
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0285a20
+NtGdiDdDDIReleaseSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ad730
+NtGdiDdDDIRemoveSurfaceFromSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02adb40
+NtGdiDdDDIRender
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00e7f70
+NtGdiDdDDIReserveGpuVirtualAddress
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c016f6c0
+NtGdiDdDDISetAllocationPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0229930
+NtGdiDdDDISetContextInProcessSchedulingPriority
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c00e0d70
+NtGdiDdDDISetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00df650
+NtGdiDdDDISetDisplayMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0147c10
+NtGdiDdDDISetDodIndirectSwapchain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0224fa0
+NtGdiDdDDISetFSEBlock
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+NtGdiDdDDISetGammaRamp
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0258b50
+NtGdiDdDDISetHwProtectionTeardownRecovery
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00439e0
+NtGdiDdDDISetMemoryBudgetTarget
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285b90
+NtGdiDdDDISetMonitorColorSpaceTransform
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1c0169b70
+NtGdiDdDDISetProcessDeviceRemovalSupport
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c01652a0
+NtGdiDdDDISetProcessSchedulingPriorityBand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0285e40
+NtGdiDdDDISetProcessSchedulingPriorityClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00deab0
+NtGdiDdDDISetQueuedLimit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0150950
+NtGdiDdDDISetStablePowerState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02861d0
+NtGdiDdDDISetStereoEnabled
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c026b1e0
+NtGdiDdDDISetSyncRefreshCountWaitTarget
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00f5190
+NtGdiDdDDISetVidPnSourceHwProtection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0225980
+NtGdiDdDDISetVidPnSourceOwner
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c013f540
+NtGdiDdDDISetYieldPercentage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0286750
+NtGdiDdDDIShareObjects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c011a510
+NtGdiDdDDISignalSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00dd070
+NtGdiDdDDISignalSynchronizationObjectFromCpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0292bf0
+NtGdiDdDDISignalSynchronizationObjectFromGpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c02934a0
+NtGdiDdDDISignalSynchronizationObjectFromGpu2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00f6bc0
+NtGdiDdDDISubmitCommand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00ef6e0
+NtGdiDdDDISubmitCommandToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0270870
+NtGdiDdDDISubmitSignalSyncObjectsToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0273430
+NtGdiDdDDISubmitWaitForSyncObjectsToHwQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0273450
+NtGdiDdDDITrimProcessCommitment
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0286a10
+NtGdiDdDDIUnOrderedPresentSwapChain
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c02ade00
+NtGdiDdDDIUnlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c00dfe40
+NtGdiDdDDIUnlock2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1c0100710
+NtGdiDdDDIUpdateAllocationProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c027b720
+NtGdiDdDDIUpdateGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1c0229ca0
+NtGdiDdDDIUpdateOverlay
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c027b110
+NtGdiDdDDIWaitForIdle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0259130
+NtGdiDdDDIWaitForSynchronizationObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00dd050
+NtGdiDdDDIWaitForSynchronizationObjectFromCpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0168800
+NtGdiDdDDIWaitForSynchronizationObjectFromGpu
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00ea640
+NtGdiDdDDIWaitForVerticalBlankEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0151390
+NtGdiDdDDIWaitForVerticalBlankEvent2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0151160
+NtNotifyPresentToCompositionSurface
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c0064680
+NtOpenCompositionSurfaceDirtyRegion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000f710
+NtOpenCompositionSurfaceSectionInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0064a20
+NtOpenCompositionSurfaceSwapChainHandleInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000f450
+NtQueryCompositionSurfaceBinding
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c000f240
+NtQueryCompositionSurfaceHDRMetaData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000e130
+NtQueryCompositionSurfaceRenderingRealization
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000f950
+NtQueryCompositionSurfaceStatistics
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00164c0
+NtSetCompositionSurfaceAnalogExclusive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0064c20
+NtSetCompositionSurfaceBufferUsage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000dc70
+NtSetCompositionSurfaceDirectFlipState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c001d8f0
+NtSetCompositionSurfaceIndependentFlipInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c001d570
+NtSetCompositionSurfaceStatistics
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0064d20
+NtTokenManagerConfirmOutstandingAnalogToken
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0062050
+NtTokenManagerCreateCompositionTokenHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c00158e0
+NtTokenManagerCreateFlipObjectReturnTokenHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00620f0
+NtTokenManagerCreateFlipObjectTokenHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0062330
+NtTokenManagerGetAnalogExclusiveSurfaceUpdates
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0062610
+NtTokenManagerGetAnalogExclusiveTokenEvent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0062880
+NtTokenManagerOpenSectionAndEvents
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000da80
+NtTokenManagerThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c000de80
+NtUnBindCompositionSurface
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c000ea40
+NtValidateCompositionSurfaceHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00182a0
+TraceDxgkBlockThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1c001a800
+TraceDxgkContext
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00257c0
+TraceDxgkDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00266f0
+TraceDxgkFunctionProfiler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0024520
+TraceDxgkPerformanceWarning
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c00245b0
+GsDriverEntry
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1c0305010

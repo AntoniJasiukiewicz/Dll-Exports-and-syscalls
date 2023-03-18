@@ -1,0 +1,1912 @@
+SHChangeNotifyRegister
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180049c30
+SHDefExtractIconA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180268960
+SHChangeNotifyDeregister
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x1800480d0
+SHDefExtractIconW
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x180037c60
+PifMgr_OpenProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+PifMgr_GetProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+PifMgr_SetProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+PifMgr_CloseProperties
+----> Number of xrefs: 48
+----> in: Data_Offset
+----> to: 0x1801b65f0
+SHStartNetConnectionDialogW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3c0
+ILFindLastID
+----> Number of xrefs: 70
+----> in: Data_Offset
+----> to: 0x18004fbe0
+ILRemoveLastID
+----> Number of xrefs: 24
+----> in: Data_Offset
+----> to: 0x1800c8460
+ILClone
+----> Number of xrefs: 63
+----> in: Data_Offset
+----> to: 0x18004fc10
+ILCloneFirst
+----> Number of xrefs: 25
+----> in: Data_Offset
+----> to: 0x1800a35f0
+ILIsEqual
+----> Number of xrefs: 60
+----> in: Data_Offset
+----> to: 0x18004c6e0
+DAD_DragEnterEx2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1802554a0
+ILIsParent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c3480
+ILFindChild
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c54f0
+ILCombine
+----> Number of xrefs: 28
+----> in: Data_Offset
+----> to: 0x18004fd10
+ILSaveToStream
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x180274db0
+SHILCreateFromPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180274ef0
+IsLFNDriveA
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+IsLFNDriveW
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+PathIsExe
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c75c0
+PathMakeUniqueName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023b180
+PathQualify
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023b580
+PathResolve
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180100d30
+RestartDialog
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180256330
+PickIconDlg
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1801b5de0
+GetFileNameFromBrowse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18026cdf0
+DriveType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a4c0
+IsNetDrive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a4e0
+Shell_MergeMenus
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x180079870
+SHGetSetSettings
+----> Number of xrefs: 43
+----> in: Data_Offset
+----> to: 0x18008d560
+Shell_GetImageLists
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x1800c21d0
+Shell_GetCachedImageIndex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180268a00
+SHShellFolderView_Message
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a61b0
+SHCreateStdEnumFmtEtc
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1801b22c0
+PathYetAnotherMakeUniqueName
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18023b6a0
+SHMapPIDLToSystemImageListIndex
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x1800c72f0
+SHOpenPropSheetW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1802b8b60
+OpenAs_RunDLL
+----> Number of xrefs: 37
+----> in: Data_Offset
+----> to: 0x180084fd0
+CIDLData_CreateFromIDArray
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180233430
+OpenRegStream
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c64a0
+SHDoDragDrop
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1802556e0
+SHCloneSpecialIDList
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x1800c5830
+SHFindFiles
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18021c100
+PathGetShortPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18023acf0
+SHGetRealIDL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021c300
+SHRestricted
+----> Number of xrefs: 94
+----> in: Data_Offset
+----> to: 0x18004e870
+SHCoCreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800b3150
+SignalFileOpen
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c1b30
+IsLFNDrive
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+OpenAs_RunDLLA
+----> Number of xrefs: 37
+----> in: Data_Offset
+----> to: 0x180084fd0
+DAD_AutoScroll
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+DAD_DragEnterEx
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+DAD_DragLeave
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1802555a0
+OpenAs_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c6e50
+DAD_DragMove
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1802555e0
+PrepareDiscForBurnRunDllW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801cba10
+DAD_SetDragImage
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+DAD_ShowDragImage
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+PrintersGetCommand_RunDLL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801da940
+PrintersGetCommand_RunDLLA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801da940
+SHCLSIDFromString
+----> Number of xrefs: 34
+----> in: Data_Offset
+----> to: 0x1800d4010
+SHFind_InitMenuPopup
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802ad830
+PrintersGetCommand_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801daa30
+ILGetSize
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a85d0
+ILGetNext
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18010b7f0
+ILAppendID
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180274800
+ILFree
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800adea0
+ILCreateFromPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180274a20
+SHSimpleIDListFromPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021cde0
+Win32DeleteFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b57d0
+SHCreateDirectory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021bb50
+SHAddFromPropSheetExtArray
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180281ec0
+SHCreatePropSheetExtArray
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010b920
+SHDestroyPropSheetExtArray
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18010ba00
+SHReplaceFromPropSheetExtArray
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180281f50
+PathCleanupSpec
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1c40
+SHValidateUNC
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180269710
+SHCreateShellFolderViewEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a6100
+SHSetInstanceExplorer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c4ce0
+SHObjectProperties
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18020a1a0
+SHGetNewLinkInfoA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022e1c0
+SHGetNewLinkInfoW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022e2e0
+ShellMessageBoxW
+----> Number of xrefs: 0
+----> in: 
+----> to: 0
+ShellMessageBoxA
+----> Number of xrefs: 0
+----> in: 
+----> to: 0
+ILCreateFromPathA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802748f0
+ILCreateFromPathW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180274a20
+SHUpdateImageA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802818d0
+SHUpdateImageW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180281940
+SHHandleUpdateImage
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180281810
+SHFree
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800adea0
+SHAlloc
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800c1620
+RealShellExecuteA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801dfb10
+RealShellExecuteExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801dfb10
+RealShellExecuteExW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801dfb10
+RealShellExecuteW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801dfb10
+SHHelpShortcuts_RunDLL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180209f40
+SHHelpShortcuts_RunDLLA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180209f40
+SHSetFolderPathA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a940
+SHSetFolderPathW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a960
+SHHelpShortcuts_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180209ff0
+PathIsSlowW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18023b040
+PathIsSlowA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023afe0
+SHTestTokenMembership
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800c3200
+AppCompat_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180223b40
+SHCreateShellFolderView
+----> Number of xrefs: 19
+----> in: Data_Offset
+----> to: 0x1800c7e70
+AssocCreateForClasses
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x18007c660
+AssocElemCreateForKey
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18022b210
+AssocGetDetailsOfPropKey
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022b4b0
+CallFileCopyHook
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180120340
+CheckEscapesW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023a720
+CommandLineToArgvW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800ae340
+Control_RunDLL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023d9d0
+Control_RunDLLA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023d9d0
+Control_RunDLLAsUserW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18023da50
+Control_RunDLLW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18023da90
+DllCanUnloadNow
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800adba0
+DllGetActivationFactory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801bc610
+DllGetClassObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180056550
+DllGetVersion
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180259390
+DllInstall
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180259460
+DllRegisterServer
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+DllUnregisterServer
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+DoEnvironmentSubstA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b27f0
+DoEnvironmentSubstW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b28a0
+DragAcceptFiles
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c4220
+DragFinish
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b7090
+DragQueryFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b70b0
+DragQueryFileA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b70b0
+DragQueryFileAorW
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x1801b70e0
+DragQueryFileW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b73b0
+DragQueryPoint
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b7580
+DuplicateIcon
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800aae30
+ExtractAssociatedIconA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b29d0
+ExtractAssociatedIconExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b2ac0
+ExtractAssociatedIconExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801b2bb0
+ExtractAssociatedIconW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801b2e20
+ExtractIconA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b2ef0
+ExtractIconEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b2f80
+ExtractIconExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b2f80
+ExtractIconExW
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x1800a1460
+ExtractIconW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1801b3000
+FindExecutableA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180269230
+FindExecutableW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180269310
+FreeIconList
+----> Number of xrefs: 37
+----> in: Data_Offset
+----> to: 0x180084fd0
+GetCurrentProcessExplicitAppUserModelID
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180269ef0
+InitNetworkAddressControl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802752f0
+InternalExtractIconListA
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+InternalExtractIconListW
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+LaunchMSHelp_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801bc7c0
+Options_RunDLL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804b8140
+Options_RunDLLA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804b8140
+Options_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804b81a0
+RegenerateUserEnvironment
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801b8260
+RunAsNewUser_RunDLLW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801bda40
+SHAddDefaultPropertiesByExt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800e9250
+SHAddToRecentDocs
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010e400
+SHAppBarMessage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a500
+SHAssocEnumHandlers
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800174e0
+SHAssocEnumHandlersForProtocolByApplication
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180287610
+SHBindToFolderIDListParent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180077a60
+SHBindToFolderIDListParentEx
+----> Number of xrefs: 73
+----> in: Data_Offset
+----> to: 0x180077a90
+SHBindToObject
+----> Number of xrefs: 110
+----> in: Data_Offset
+----> to: 0x180053420
+SHBindToParent
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18004fb10
+SHBrowseForFolder
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18028bcb0
+SHBrowseForFolderA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18028bcb0
+SHBrowseForFolderW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18028bee0
+SHChangeNotify
+----> Number of xrefs: 133
+----> in: Data_Offset
+----> to: 0x18004a9b0
+SHChangeNotifyRegisterThread
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x1800965a0
+SHChangeNotifySuspendResume
+----> Number of xrefs: 16
+----> in: Data_Offset
+----> to: 0x180281750
+SHCoCreateInstanceWorker
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18028cae0
+SHCreateAssociationRegistration
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a9790
+SHCreateCategoryEnum
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180293ed0
+SHCreateDataObject
+----> Number of xrefs: 16
+----> in: Data_Offset
+----> to: 0x1800128a0
+SHCreateDefaultContextMenu
+----> Number of xrefs: 27
+----> in: Data_Offset
+----> to: 0x180076dc0
+SHCreateDefaultExtractIcon
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800e2360
+SHCreateDefaultPropertiesOp
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180281b60
+SHCreateDirectoryExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021bb30
+SHCreateDirectoryExW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180025900
+SHCreateDrvExtIcon
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802964b0
+SHCreateItemFromIDList
+----> Number of xrefs: 174
+----> in: Data_Offset
+----> to: 0x180050790
+SHCreateItemFromParsingName
+----> Number of xrefs: 48
+----> in: Data_Offset
+----> to: 0x180043520
+SHCreateItemFromRelativeName
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18022da90
+SHCreateItemInKnownFolder
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x180051b90
+SHCreateItemWithParent
+----> Number of xrefs: 50
+----> in: Data_Offset
+----> to: 0x18004fa40
+SHCreateLocalServerRunDll
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800264a0
+SHCreateProcessAsUserW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801e1e80
+SHCreateQueryCancelAutoPlayMoniker
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010e280
+SHCreateShellItem
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180100190
+SHCreateShellItemArray
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c3010
+SHCreateShellItemArrayFromDataObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180024fa0
+SHCreateShellItemArrayFromIDLists
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c68c0
+SHCreateShellItemArrayFromShellItem
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180025650
+SHELL32_AddToBackIconTable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180035470
+SHELL32_AddToFrontIconTable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180033c50
+SHELL32_AreAllItemsAvailable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180048430
+SHELL32_CCommonPlacesFolder_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9b70
+SHELL32_CDBurn_CloseSession
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9b80
+SHELL32_CDBurn_DriveSupportedForDataBurn
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9b90
+SHELL32_CDBurn_Erase
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9ba0
+SHELL32_CDBurn_GetCDInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9c00
+SHELL32_CDBurn_GetLiveFSDiscInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9c10
+SHELL32_CDBurn_GetStagingPathOrNormalPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c1900
+SHELL32_CDBurn_GetTaskInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9c20
+SHELL32_CDBurn_IsBlankDisc
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9c30
+SHELL32_CDBurn_IsBlankDisc2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9c40
+SHELL32_CDBurn_IsLiveFS
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9ca0
+SHELL32_CDBurn_OnDeviceChange
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9cb0
+SHELL32_CDBurn_OnEject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9cc0
+SHELL32_CDBurn_OnMediaChange
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9d40
+SHELL32_CDefFolderMenu_Create2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9d50
+SHELL32_CDefFolderMenu_Create2Ex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9db0
+SHELL32_CDefFolderMenu_MergeMenu
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9e10
+SHELL32_CDrivesContextMenu_Create
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9e20
+SHELL32_CDrivesDropTarget_Create
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9e30
+SHELL32_CDrives_CreateSFVCB
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9e40
+SHELL32_CFSDropTarget_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180075e50
+SHELL32_CFSFolderCallback_Create
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800d98e0
+SHELL32_CFillPropertiesTask_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800da9b0
+SHELL32_CLibraryDropTarget_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9ea0
+SHELL32_CLocationContextMenu_Create
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800da200
+SHELL32_CLocationFolderUI_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9eb0
+SHELL32_CMountPoint_DoAutorun
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9ec0
+SHELL32_CMountPoint_DoAutorunPrompt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9ed0
+SHELL32_CMountPoint_IsAutoRunDriveAndEnabledByPolicy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f00
+SHELL32_CMountPoint_ProcessAutoRunFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f10
+SHELL32_CMountPoint_WantAutorunUI
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f20
+SHELL32_CMountPoint_WantAutorunUIGetReady
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f30
+SHELL32_CNetFolderUI_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f40
+SHELL32_CPL_CategoryIdArrayFromVariant
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800e5720
+SHELL32_CPL_IsLegacyCanonicalNameListedUnderKey
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f50
+SHELL32_CPL_ModifyWowDisplayName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f70
+SHELL32_CRecentDocsContextMenu_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f80
+SHELL32_CTransferConfirmation_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9f90
+SHELL32_CallFileCopyHooks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802a9fa0
+SHELL32_CanDisplayWin8CopyDialog
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa000
+SHELL32_CloseAutoplayPrompt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa030
+SHELL32_CommandLineFromMsiDescriptor
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa040
+SHELL32_CopySecondaryTiles
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+SHELL32_CreateConfirmationInterrupt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa060
+SHELL32_CreateConflictInterrupt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa070
+SHELL32_CreateDefaultOperationDataProvider
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa080
+SHELL32_CreateFileFolderContextMenu
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa100
+SHELL32_CreateLinkInfoW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c5320
+SHELL32_CreateQosRecorder
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800db000
+SHELL32_CreateSharePointView
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa110
+SHELL32_Create_IEnumUICommand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180250910
+SHELL32_DestroyLinkInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c5300
+SHELL32_EncryptDirectory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa120
+SHELL32_EncryptedFileKeyInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa130
+SHELL32_EnumCommonTasks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa150
+SHELL32_FreeEncryptedFileKeyInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa160
+SHELL32_GenerateAppID
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa180
+SHELL32_GetAppIDRoot
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa190
+SHELL32_GetCommandProviderForFolderType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa1a0
+SHELL32_GetDPIAdjustedLogicalSize
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c53f0
+SHELL32_GetDiskCleanupPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa1c0
+SHELL32_GetFileNameFromBrowse
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa1d0
+SHELL32_GetIconOverlayManager
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c3ab0
+SHELL32_GetLinkInfoData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa1e0
+SHELL32_GetRatingBucket
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa200
+SHELL32_GetSqmableFileName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa230
+SHELL32_GetThumbnailAdornerFromFactory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa240
+SHELL32_GetThumbnailAdornerFromFactory2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180006df0
+SHELL32_HandleUnrecognizedFileSystem
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa250
+SHELL32_IconCacheCreate
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18008e6b0
+SHELL32_IconCacheDestroy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800ceec0
+SHELL32_IconCacheHandleAssociationChanged
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa260
+SHELL32_IconCacheRestore
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18008e6c0
+SHELL32_IconCache_AboutToExtractIcons
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180031510
+SHELL32_IconCache_DoneExtractingIcons
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180031720
+SHELL32_IconCache_ExpandEnvAndSearchPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c0330
+SHELL32_IconCache_RememberRecentlyExtractedIconsW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800b3c10
+SHELL32_IconOverlayManagerInit
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180033550
+SHELL32_IsGetKeyboardLayoutPresent
+----> Number of xrefs: 105
+----> in: Data_Offset
+----> to: 0x1800c5010
+SHELL32_IsSystemUpgradeInProgress
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800e9bc0
+SHELL32_IsValidLinkInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c2cd0
+SHELL32_LegacyEnumSpecialTasksByType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa270
+SHELL32_LegacyEnumTasks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa280
+SHELL32_LookupBackIconIndex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180039840
+SHELL32_LookupFrontIconIndex
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a8d80
+SHELL32_NormalizeRating
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa290
+SHELL32_NotifyLinkTrackingServiceOfMove
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa2a0
+SHELL32_PifMgr_CloseProperties
+----> Number of xrefs: 48
+----> in: Data_Offset
+----> to: 0x1801b65f0
+SHELL32_PifMgr_GetProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+SHELL32_PifMgr_OpenProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+SHELL32_PifMgr_SetProperties
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+SHELL32_Printers_CreateBindInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa2b0
+SHELL32_Printjob_GetPidl
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa2c0
+SHELL32_PurgeSystemIcon
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa2d0
+SHELL32_RefreshOverlayImages
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180032240
+SHELL32_ResolveLinkInfoW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa2e0
+SHELL32_SHAddSparseIcon
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa300
+SHELL32_SHCreateByValueOperationInterrupt
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa310
+SHELL32_SHCreateDefaultContextMenu
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180076090
+SHELL32_SHCreateLocalServer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa320
+SHELL32_SHCreateShellFolderView
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c7e60
+SHELL32_SHDuplicateEncryptionInfoFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa330
+SHELL32_SHEncryptFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa350
+SHELL32_SHFormatDriveAsync
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa360
+SHELL32_SHGetThreadUndoManager
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa370
+SHELL32_SHGetUserNameW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010e2f0
+SHELL32_SHIsVirtualDevice
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa380
+SHELL32_SHLaunchPropSheet
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa390
+SHELL32_SHLogILFromFSIL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3a0
+SHELL32_SHOpenWithDialog
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3b0
+SHELL32_SHStartNetConnectionDialogW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3c0
+SHELL32_SHUICommandFromGUID
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180267bb0
+SHELL32_SendToMenu_InvokeTargetedCommand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804b93c0
+SHELL32_SendToMenu_VerifyTargetedCommand
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804b9410
+SHELL32_ShowHideIconOnlyOnDesktop
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3e0
+SHELL32_SimpleRatingToFilterCondition
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa3f0
+SHELL32_StampIconForFile
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa400
+SHELL32_SuspendUndo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c5340
+SHELL32_TryVirtualDiscImageDriveEject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa460
+SHELL32_VerifySaferTrust
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800ba4a0
+SHEmptyRecycleBinA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802aa870
+SHEmptyRecycleBinW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1802aa900
+SHEnableServiceObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18007cb00
+SHEnumerateUnreadMailAccountsW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021bda0
+SHEvaluateSystemCommandTemplate
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180058e60
+SHExecuteErrorMessageBox
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1802accc0
+SHExtractIconsW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b3460
+SHFileOperation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c3030
+SHFileOperationA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c3030
+SHFileOperationW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c3050
+SHFormatDrive
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180223f50
+SHFreeNameMappings
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c3070
+SHGetDataFromIDListA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022de60
+SHGetDataFromIDListW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800b8630
+SHGetDesktopFolder
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c75a0
+SHGetDiskFreeSpaceA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022df70
+SHGetDiskFreeSpaceExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022df70
+SHGetDiskFreeSpaceExW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022dff0
+SHGetDriveMedia
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802b5ca0
+SHGetFileInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18001f630
+SHGetFileInfoA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18001f630
+SHGetFileInfoW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800571e0
+SHGetFolderLocation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180026720
+SHGetFolderPathA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a770
+SHGetFolderPathAndSubDirA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a790
+SHGetFolderPathAndSubDirW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c7c70
+SHGetFolderPathEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180021450
+SHGetFolderPathW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800adb80
+SHGetIDListFromObject
+----> Number of xrefs: 194
+----> in: Data_Offset
+----> to: 0x1800506a0
+SHGetIconOverlayIndexA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802b6530
+SHGetIconOverlayIndexW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1802b65b0
+SHGetInstanceExplorer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c6910
+SHGetItemFromDataObject
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x180031010
+SHGetItemFromObject
+----> Number of xrefs: 25
+----> in: Data_Offset
+----> to: 0x1800c85a0
+SHGetKnownFolderIDList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c6820
+SHGetKnownFolderItem
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c6800
+SHGetKnownFolderPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c4780
+SHGetLocalizedName
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18022e010
+SHGetMalloc
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180106e20
+SHGetNameFromIDList
+----> Number of xrefs: 14
+----> in: Data_Offset
+----> to: 0x180024310
+SHGetNewLinkInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022e1c0
+SHGetPathFromIDList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021c1e0
+RealDriveType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a4c0
+SHFlushSFCache
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802adf00
+SHGetPathFromIDListA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021c1e0
+SHGetPathFromIDListEx
+----> Number of xrefs: 37
+----> in: Data_Offset
+----> to: 0x1800adec0
+SHGetPathFromIDListW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180052d60
+SHGetPropertyStoreForWindow
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800a39e0
+SHGetPropertyStoreFromIDList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022e310
+SHGetPropertyStoreFromParsingName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022e3a0
+SHGetSettings
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802b6de0
+SHGetSpecialFolderLocation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c4cc0
+SHGetSpecialFolderPathA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a7b0
+SHGetSpecialFolderPathW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800c6480
+SHGetStockIconInfo
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x1800f83f0
+SHGetTemporaryPropertyForItem
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800d1e10
+SHGetUnreadMailCountW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021c320
+SHInvokePrinterCommandA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801db8d0
+SHInvokePrinterCommandW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1801db9c0
+SHIsFileAvailableOffline
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021c770
+SHLoadInProc
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800da200
+SHLoadNonloadedIconOverlayIdentifiers
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021ca30
+SHOpenFolderAndSelectItems
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18022e450
+SHOpenWithDialog
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801c7e70
+SHParseDisplayName
+----> Number of xrefs: 61
+----> in: Data_Offset
+----> to: 0x18004edd0
+SHPathPrepareForWriteA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c30b0
+SHPathPrepareForWriteW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c30d0
+SHQueryRecycleBinA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802ba150
+SHQueryRecycleBinW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1802ba1e0
+SHQueryUserNotificationState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a870
+SHRemoveLocalizedName
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18022e890
+SHResolveLibrary
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a920
+SHSetDefaultProperties
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180281ca0
+SHSetKnownFolderPath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a980
+SHSetLocalizedName
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18022e930
+SHSetTemporaryPropertyForItem
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800d20f0
+SHSetUnreadMailCountW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18021cbb0
+SHShowManageLibraryUI
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1804eed50
+SHUpdateRecycleBinIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800c4eb0
+SetCurrentProcessExplicitAppUserModelID
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010e710
+SheChangeDirA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b6600
+SheChangeDirExW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b6680
+SheGetDirA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b6c90
+SheSetCurDrive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b6ee0
+ShellAboutA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802ca290
+ShellAboutW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1802ca3c0
+ShellExec_RunDLL
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801e1eb0
+ShellExec_RunDLLA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801e1eb0
+ShellExec_RunDLLW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801e1f60
+ShellExecuteA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801e20c0
+ShellExecuteEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801e2160
+ShellExecuteExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1801e2160
+ShellExecuteExW
+----> Number of xrefs: 70
+----> in: Data_Offset
+----> to: 0x1800474a0
+ShellExecuteW
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180109420
+ShellHookProc
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x18010e730
+Shell_GetCachedImageIndexA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180268a10
+Shell_GetCachedImageIndexW
+----> Number of xrefs: 42
+----> in: Data_Offset
+----> to: 0x180039be0
+Shell_NotifyIcon
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a9c0
+Shell_NotifyIconA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a9c0
+Shell_NotifyIconGetRect
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18010b1a0
+Shell_NotifyIconW
+----> Number of xrefs: 11
+----> in: Data_Offset
+----> to: 0x18007ac60
+StateRepoNewMenuCache_EnsureCacheAsync
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800d0100
+StateRepoNewMenuCache_RebuildCacheAsync
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800cdb00
+StrChrA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801144c0
+StrChrIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801144d0
+StrChrIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801144e0
+StrChrW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801144f0
+StrCmpNA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114500
+StrCmpNIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114510
+StrCmpNIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114520
+StrCmpNW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114530
+StrNCmpA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4b80
+StrNCmpIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4c40
+StrNCmpIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4d00
+StrNCmpW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4dd0
+StrRChrA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114540
+StrRChrIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114550
+StrRChrIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114560
+StrRChrW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114570
+StrRStrA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4ec0
+StrRStrIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114580
+StrRStrIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180114590
+StrRStrW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801b4fa0
+StrStrA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801145a0
+StrStrIA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801145b0
+StrStrIW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801145c0
+StrStrW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801145d0
+UsersLibrariesFolderUI_CreateInstance
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180020d30
+WOWShellExecute
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801e2270
+WaitForExplorerRestartW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802597e0
+SHChangeNotification_Lock
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800ad980
+SHChangeNotification_Unlock
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800b21d0
+WriteCabinetState
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180024c10
+ReadCabinetState
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18008a000
+IsUserAnAdmin
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180275550
+StgMakeUniqueName
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1802ca750
+SHPropStgCreate
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a810
+SHPropStgReadMultiple
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a830
+SHPropStgWriteMultiple
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18025a850
+CDefFolderMenu_Create2
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180232630
+SHGetSetFolderCustomSettings
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1801b3820
+SHMultiFileProperties
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1802b8b40
+SHGetImageList
+----> Number of xrefs: 18
+----> in: Data_Offset
+----> to: 0x180035ca0
+RestartDialogEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180256340
+SHCreateFileExtractIconW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18022d980
+SHLimitInputEdit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1802b7e80
+SHGetAttributesFromDataObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180004c50
+ILLoadFromStreamEx
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180274c60
+GetSystemPersistedStorageItemList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2f90
+CreateStorageItemFromPath_PartialTrustCaller
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2f10
+CreateStorageItemFromShellItem_FullTrustCaller
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2f30
+CreateStorageItemFromShellItem_FullTrustCaller_ForPackage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x180026020
+CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandle
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2f50
+CreateStorageItemFromShellItem_FullTrustCaller_UseImplicitFlagsAndPackage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2f70
+CreateStorageItemFromPath_FullTrustCaller
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2ed0
+CreateStorageItemFromPath_FullTrustCaller_ForPackage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2ef0
+CStorageItem_GetValidatedStorageItemObject
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1801c2e90
+IsProcessAnExplorer
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x1800b3940
+IsDesktopExplorerProcess
+----> Number of xrefs: 18
+----> in: Data_Offset
+----> to: 0x1800cd960
+DllEntryPoint
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180111660

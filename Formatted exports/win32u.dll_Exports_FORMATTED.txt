@@ -1,0 +1,5268 @@
+NtBindCompositionSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003270
+NtCloseCompositionInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003290
+NtCompositionInputThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800032b0
+NtCompositionSetDropTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800032d0
+NtCompositorNotifyExitWindows
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800032f0
+NtCompositorNotifyForegroundChanged
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003310
+NtCompositorUpdateLastInputTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003330
+NtConfigureInputSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003350
+NtCreateCompositionInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003370
+NtCreateCompositionSurfaceHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003390
+NtCreateImplicitCompositionInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800033b0
+NtDCompositionAddCrossDeviceVisualChild
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800033d0
+NtDCompositionBeginFrame
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800033f0
+NtDCompositionCommitChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003410
+NtDCompositionCommitSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003430
+NtDCompositionConfirmFrame
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003450
+NtDCompositionConnectPipe
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003470
+NtDCompositionCreateAndBindSharedSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003490
+NtDCompositionCreateChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800034b0
+NtDCompositionCreateConnection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800034d0
+NtDCompositionCreateDwmChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800034f0
+NtDCompositionCreateSharedResourceHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003510
+NtDCompositionCreateSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003530
+NtDCompositionDestroyChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003550
+NtDCompositionDestroyConnection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003570
+NtDCompositionDiscardFrame
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003590
+NtDCompositionDuplicateHandleToProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800035b0
+NtDCompositionDuplicateSwapchainHandleToDwm
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800035d0
+NtDCompositionEnableMMCSS
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800035f0
+NtDCompositionGetBatchId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003610
+NtDCompositionGetChannels
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003630
+NtDCompositionGetConnectionBatch
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003650
+NtDCompositionGetDeletedResources
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003670
+NtDCompositionGetFrameLegacyTokens
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003690
+NtDCompositionGetFrameStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800036b0
+NtDCompositionGetFrameSurfaceUpdates
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800036d0
+NtDCompositionGetMaterialProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800036f0
+NtDCompositionProcessChannelBatchBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003710
+NtDCompositionReferenceSharedResourceOnDwmChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003730
+NtDCompositionRegisterThumbnailVisual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003750
+NtDCompositionRegisterVirtualDesktopVisual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003770
+NtDCompositionReleaseAllResources
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003790
+NtDCompositionRemoveCrossDeviceVisualChild
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800037b0
+NtDCompositionRetireFrame
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800037d0
+NtDCompositionSetChannelCommitCompletionEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800037f0
+NtDCompositionSetChannelConnectionId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003810
+NtDCompositionSetChildRootVisual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003830
+NtDCompositionSetDebugCounter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003850
+NtDCompositionSetMaterialProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003870
+NtDCompositionSubmitDWMBatch
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003890
+NtDCompositionSuspendAnimations
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800038b0
+NtDCompositionSynchronize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800038d0
+NtDCompositionTelemetryAnimationScenarioBegin
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800038f0
+NtDCompositionTelemetryAnimationScenarioReference
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003910
+NtDCompositionTelemetryAnimationScenarioUnreference
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003930
+NtDCompositionTelemetrySetApplicationId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003950
+NtDCompositionTelemetryTouchInteractionBegin
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003970
+NtDCompositionTelemetryTouchInteractionEnd
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003990
+NtDCompositionTelemetryTouchInteractionUpdate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800039b0
+NtDCompositionUpdatePointerCapture
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800039d0
+NtDCompositionWaitForChannel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800039f0
+NtDesktopCaptureBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003a10
+NtDuplicateCompositionInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003a30
+NtDxgkCreateTrackedWorkload
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003a50
+NtDxgkDestroyTrackedWorkload
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003a70
+NtDxgkDispMgrOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003a90
+NtDxgkDisplayPortOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003ab0
+NtDxgkDuplicateHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003ad0
+NtDxgkEnumAdapters3
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003af0
+NtDxgkGetAvailableTrackedWorkloadIndex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003b10
+NtDxgkGetProcessList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003b30
+NtDxgkGetTrackedWorkloadStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003b50
+NtDxgkOutputDuplPresentToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003b70
+NtDxgkPinResources
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003b90
+NtDxgkRegisterVailProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003bb0
+NtDxgkResetTrackedWorkloadStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003bd0
+NtDxgkSubmitPresentBltToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003bf0
+NtDxgkSubmitPresentToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003c10
+NtDxgkUnpinResources
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003c30
+NtDxgkUpdateTrackedWorkload
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003c50
+NtDxgkVailConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003c70
+NtDxgkVailDisconnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003c90
+NtDxgkVailPromoteCompositionSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003cb0
+NtEnableOneCoreTransformMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003cd0
+NtFlipObjectAddContent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003cf0
+NtFlipObjectAddPoolBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003d10
+NtFlipObjectConsumerAcquirePresent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003d30
+NtFlipObjectConsumerAdjustUsageReference
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003d50
+NtFlipObjectConsumerBeginProcessPresent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003d70
+NtFlipObjectConsumerEndProcessPresent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003d90
+NtFlipObjectConsumerPostMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003db0
+NtFlipObjectConsumerQueryBufferInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003dd0
+NtFlipObjectCreate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003df0
+NtFlipObjectDisconnectEndpoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003e10
+NtFlipObjectEnablePresentStatisticsType
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003e30
+NtFlipObjectOpen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003e50
+NtFlipObjectPresentCancel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003e70
+NtFlipObjectQueryBufferAvailableEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003e90
+NtFlipObjectQueryEndpointConnected
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003eb0
+NtFlipObjectQueryNextMessageToProducer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003ed0
+NtFlipObjectReadNextMessageToProducer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003ef0
+NtFlipObjectRemoveContent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003f10
+NtFlipObjectRemovePoolBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003f30
+NtFlipObjectSetContent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003f50
+NtFlipObjectSetMaximumBackchannelQueueDepth
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003f70
+NtGdiAbortDoc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003f90
+NtGdiAbortPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003fb0
+NtGdiAddEmbFontToDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003fd0
+NtGdiAddFontMemResourceEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003090
+NtGdiAddFontResourceW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003ff0
+NtGdiAddInitialFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004010
+NtGdiAddRemoteFontToDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004030
+NtGdiAddRemoteMMInstanceToDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004050
+NtGdiAlphaBlend
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001f70
+NtGdiAngleArc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004070
+NtGdiAnyLinkedFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004090
+NtGdiArcInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800040b0
+NtGdiBRUSHOBJ_DeleteRbrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800040d0
+NtGdiBRUSHOBJ_hGetColorTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800040f0
+NtGdiBRUSHOBJ_pvAllocRbrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004110
+NtGdiBRUSHOBJ_pvGetRbrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004130
+NtGdiBRUSHOBJ_ulGetBrushColor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004150
+NtGdiBeginGdiRendering
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004170
+NtGdiBeginPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002fb0
+NtGdiBitBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001130
+NtGdiCLIPOBJ_bEnum
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004190
+NtGdiCLIPOBJ_cEnumStart
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800041b0
+NtGdiCLIPOBJ_ppoGetPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800041d0
+NtGdiCancelDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800041f0
+NtGdiChangeGhostFont
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004210
+NtGdiCheckBitmapBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004230
+NtGdiClearBitmapAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004250
+NtGdiClearBrushAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004270
+NtGdiCloseFigure
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002e90
+NtGdiColorCorrectPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004290
+NtGdiCombineRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800016b0
+NtGdiCombineTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002c90
+NtGdiComputeXformCoefficients
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002130
+NtGdiConfigureOPMProtectedOutput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800042b0
+NtGdiConvertMetafileRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800042d0
+NtGdiCreateBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001d90
+NtGdiCreateBitmapFromDxSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800042f0
+NtGdiCreateBitmapFromDxSurface2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004310
+NtGdiCreateClientObj
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002670
+NtGdiCreateColorSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003210
+NtGdiCreateColorTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004330
+NtGdiCreateCompatibleBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001990
+NtGdiCreateCompatibleDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ab0
+NtGdiCreateDIBBrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e70
+NtGdiCreateDIBSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002310
+NtGdiCreateDIBitmapInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800023b0
+NtGdiCreateEllipticRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004350
+NtGdiCreateHalftonePalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002c30
+NtGdiCreateHatchBrushInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004370
+NtGdiCreateMetafileDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004390
+NtGdiCreateOPMProtectedOutput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800043b0
+NtGdiCreateOPMProtectedOutputs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800043d0
+NtGdiCreatePaletteInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800024b0
+NtGdiCreatePatternBrushInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002550
+NtGdiCreatePen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001af0
+NtGdiCreateRectRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002050
+NtGdiCreateRoundRectRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800043f0
+NtGdiCreateServerMetaFile
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004410
+NtGdiCreateSessionMappedDIBSection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004430
+NtGdiCreateSolidBrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002630
+NtGdiDDCCIGetCapabilitiesString
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004450
+NtGdiDDCCIGetCapabilitiesStringLength
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004470
+NtGdiDDCCIGetTimingReport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004490
+NtGdiDDCCIGetVCPFeature
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800044b0
+NtGdiDDCCISaveCurrentSettings
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800044d0
+NtGdiDDCCISetVCPFeature
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800044f0
+NtGdiDdCreateFullscreenSprite
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004510
+NtGdiDdDDIAbandonSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004530
+NtGdiDdDDIAcquireKeyedMutex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004550
+NtGdiDdDDIAcquireKeyedMutex2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004570
+NtGdiDdDDIAcquireSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004590
+NtGdiDdDDIAddSurfaceToSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800045b0
+NtGdiDdDDIAdjustFullscreenGamma
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800045d0
+NtGdiDdDDICacheHybridQueryValue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800045f0
+NtGdiDdDDIChangeVideoMemoryReservation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004610
+NtGdiDdDDICheckExclusiveOwnership
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004630
+NtGdiDdDDICheckMonitorPowerState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004650
+NtGdiDdDDICheckMultiPlaneOverlaySupport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004670
+NtGdiDdDDICheckMultiPlaneOverlaySupport2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004690
+NtGdiDdDDICheckMultiPlaneOverlaySupport3
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800046b0
+NtGdiDdDDICheckOcclusion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800046d0
+NtGdiDdDDICheckSharedResourceAccess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800046f0
+NtGdiDdDDICheckVidPnExclusiveOwnership
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004710
+NtGdiDdDDICloseAdapter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004730
+NtGdiDdDDIConfigureSharedResource
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004750
+NtGdiDdDDICreateAllocation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004770
+NtGdiDdDDICreateBundleObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004790
+NtGdiDdDDICreateContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800047b0
+NtGdiDdDDICreateContextVirtual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800047d0
+NtGdiDdDDICreateDCFromMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800047f0
+NtGdiDdDDICreateDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004810
+NtGdiDdDDICreateHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004830
+NtGdiDdDDICreateHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004850
+NtGdiDdDDICreateKeyedMutex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004870
+NtGdiDdDDICreateKeyedMutex2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004890
+NtGdiDdDDICreateOutputDupl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800048b0
+NtGdiDdDDICreateOverlay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800048d0
+NtGdiDdDDICreatePagingQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800048f0
+NtGdiDdDDICreateProtectedSession
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004910
+NtGdiDdDDICreateSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004930
+NtGdiDdDDICreateSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004950
+NtGdiDdDDIDDisplayEnum
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004970
+NtGdiDdDDIDestroyAllocation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004990
+NtGdiDdDDIDestroyAllocation2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800049b0
+NtGdiDdDDIDestroyContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800049d0
+NtGdiDdDDIDestroyDCFromMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800049f0
+NtGdiDdDDIDestroyDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004a10
+NtGdiDdDDIDestroyHwContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004a30
+NtGdiDdDDIDestroyHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004a50
+NtGdiDdDDIDestroyKeyedMutex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004a70
+NtGdiDdDDIDestroyOutputDupl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004a90
+NtGdiDdDDIDestroyOverlay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004ab0
+NtGdiDdDDIDestroyPagingQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004ad0
+NtGdiDdDDIDestroyProtectedSession
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004af0
+NtGdiDdDDIDestroySynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004b10
+NtGdiDdDDIDispMgrCreate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004b30
+NtGdiDdDDIDispMgrSourceOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004b50
+NtGdiDdDDIDispMgrTargetOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004b70
+NtGdiDdDDIEnumAdapters
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004b90
+NtGdiDdDDIEnumAdapters2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004bb0
+NtGdiDdDDIEscape
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004bd0
+NtGdiDdDDIEvict
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004bf0
+NtGdiDdDDIExtractBundleObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004c10
+NtGdiDdDDIFlipOverlay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004c30
+NtGdiDdDDIFlushHeapTransitions
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004c50
+NtGdiDdDDIFreeGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004c70
+NtGdiDdDDIGetAllocationPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004c90
+NtGdiDdDDIGetCachedHybridQueryValue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004cb0
+NtGdiDdDDIGetContextInProcessSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004cd0
+NtGdiDdDDIGetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004cf0
+NtGdiDdDDIGetDWMVerticalBlankEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004d10
+NtGdiDdDDIGetDeviceState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004d30
+NtGdiDdDDIGetDisplayModeList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004d50
+NtGdiDdDDIGetMemoryBudgetTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004d70
+NtGdiDdDDIGetMultiPlaneOverlayCaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004d90
+NtGdiDdDDIGetMultisampleMethodList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004db0
+NtGdiDdDDIGetOverlayState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004dd0
+NtGdiDdDDIGetPostCompositionCaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004df0
+NtGdiDdDDIGetPresentHistory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004e10
+NtGdiDdDDIGetPresentQueueEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004e30
+NtGdiDdDDIGetProcessDeviceRemovalSupport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004e50
+NtGdiDdDDIGetProcessSchedulingPriorityBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004e70
+NtGdiDdDDIGetProcessSchedulingPriorityClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004e90
+NtGdiDdDDIGetResourcePresentPrivateDriverData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004eb0
+NtGdiDdDDIGetRuntimeData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004ed0
+NtGdiDdDDIGetScanLine
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004ef0
+NtGdiDdDDIGetSetSwapChainMetadata
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004f10
+NtGdiDdDDIGetSharedPrimaryHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004f30
+NtGdiDdDDIGetSharedResourceAdapterLuid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004f50
+NtGdiDdDDIGetSharedResourceAdapterLuidFlipManager
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004f70
+NtGdiDdDDIGetYieldPercentage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004f90
+NtGdiDdDDIInvalidateActiveVidPn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004fb0
+NtGdiDdDDIInvalidateCache
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004fd0
+NtGdiDdDDILock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180004ff0
+NtGdiDdDDILock2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005010
+NtGdiDdDDIMakeResident
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005030
+NtGdiDdDDIMapGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005050
+NtGdiDdDDIMarkDeviceAsError
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005070
+NtGdiDdDDINetDispGetNextChunkInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005090
+NtGdiDdDDINetDispQueryMiracastDisplayDeviceStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800050b0
+NtGdiDdDDINetDispQueryMiracastDisplayDeviceSupport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800050d0
+NtGdiDdDDINetDispStartMiracastDisplayDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800050f0
+NtGdiDdDDINetDispStopMiracastDisplayDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005110
+NtGdiDdDDIOfferAllocations
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005130
+NtGdiDdDDIOpenAdapterFromDeviceName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005150
+NtGdiDdDDIOpenAdapterFromHdc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005170
+NtGdiDdDDIOpenAdapterFromLuid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005190
+NtGdiDdDDIOpenBundleObjectNtHandleFromName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800051b0
+NtGdiDdDDIOpenKeyedMutex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800051d0
+NtGdiDdDDIOpenKeyedMutex2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800051f0
+NtGdiDdDDIOpenKeyedMutexFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005210
+NtGdiDdDDIOpenNtHandleFromName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005230
+NtGdiDdDDIOpenProtectedSessionFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005250
+NtGdiDdDDIOpenResource
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005270
+NtGdiDdDDIOpenResourceFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005290
+NtGdiDdDDIOpenSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800052b0
+NtGdiDdDDIOpenSyncObjectFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800052d0
+NtGdiDdDDIOpenSyncObjectFromNtHandle2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800052f0
+NtGdiDdDDIOpenSyncObjectNtHandleFromName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005310
+NtGdiDdDDIOpenSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005330
+NtGdiDdDDIOutputDuplGetFrameInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005350
+NtGdiDdDDIOutputDuplGetMetaData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005370
+NtGdiDdDDIOutputDuplGetPointerShapeData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005390
+NtGdiDdDDIOutputDuplPresent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800053b0
+NtGdiDdDDIOutputDuplReleaseFrame
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800053d0
+NtGdiDdDDIPollDisplayChildren
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800053f0
+NtGdiDdDDIPresent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005410
+NtGdiDdDDIPresentMultiPlaneOverlay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005430
+NtGdiDdDDIPresentMultiPlaneOverlay2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005450
+NtGdiDdDDIPresentMultiPlaneOverlay3
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005470
+NtGdiDdDDIPresentRedirected
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005490
+NtGdiDdDDIQueryAdapterInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800054b0
+NtGdiDdDDIQueryAllocationResidency
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800054d0
+NtGdiDdDDIQueryClockCalibration
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800054f0
+NtGdiDdDDIQueryFSEBlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005510
+NtGdiDdDDIQueryProcessOfferInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005530
+NtGdiDdDDIQueryProtectedSessionInfoFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005550
+NtGdiDdDDIQueryProtectedSessionStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005570
+NtGdiDdDDIQueryRemoteVidPnSourceFromGdiDisplayName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005590
+NtGdiDdDDIQueryResourceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800055b0
+NtGdiDdDDIQueryResourceInfoFromNtHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800055d0
+NtGdiDdDDIQueryStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800055f0
+NtGdiDdDDIQueryVidPnExclusiveOwnership
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005610
+NtGdiDdDDIQueryVideoMemoryInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005630
+NtGdiDdDDIReclaimAllocations
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005650
+NtGdiDdDDIReclaimAllocations2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005670
+NtGdiDdDDIReleaseKeyedMutex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005690
+NtGdiDdDDIReleaseKeyedMutex2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800056b0
+NtGdiDdDDIReleaseProcessVidPnSourceOwners
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800056d0
+NtGdiDdDDIReleaseSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800056f0
+NtGdiDdDDIRemoveSurfaceFromSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005710
+NtGdiDdDDIRender
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005730
+NtGdiDdDDIReserveGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005750
+NtGdiDdDDISetAllocationPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005770
+NtGdiDdDDISetContextInProcessSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005790
+NtGdiDdDDISetContextSchedulingPriority
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800057b0
+NtGdiDdDDISetDisplayMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800057d0
+NtGdiDdDDISetDodIndirectSwapchain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800057f0
+NtGdiDdDDISetFSEBlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005810
+NtGdiDdDDISetGammaRamp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005830
+NtGdiDdDDISetHwProtectionTeardownRecovery
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005850
+NtGdiDdDDISetMemoryBudgetTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005870
+NtGdiDdDDISetMonitorColorSpaceTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005890
+NtGdiDdDDISetProcessDeviceRemovalSupport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800058b0
+NtGdiDdDDISetProcessSchedulingPriorityBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800058d0
+NtGdiDdDDISetProcessSchedulingPriorityClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800058f0
+NtGdiDdDDISetQueuedLimit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005910
+NtGdiDdDDISetStablePowerState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005930
+NtGdiDdDDISetStereoEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005950
+NtGdiDdDDISetSyncRefreshCountWaitTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005970
+NtGdiDdDDISetVidPnSourceHwProtection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005990
+NtGdiDdDDISetVidPnSourceOwner
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800059b0
+NtGdiDdDDISetYieldPercentage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800059d0
+NtGdiDdDDIShareObjects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800059f0
+NtGdiDdDDISharedPrimaryLockNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005a10
+NtGdiDdDDISharedPrimaryUnLockNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005a30
+NtGdiDdDDISignalSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005a50
+NtGdiDdDDISignalSynchronizationObjectFromCpu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005a70
+NtGdiDdDDISignalSynchronizationObjectFromGpu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005a90
+NtGdiDdDDISignalSynchronizationObjectFromGpu2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ab0
+NtGdiDdDDISubmitCommand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ad0
+NtGdiDdDDISubmitCommandToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005af0
+NtGdiDdDDISubmitSignalSyncObjectsToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005b10
+NtGdiDdDDISubmitWaitForSyncObjectsToHwQueue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005b30
+NtGdiDdDDITrimProcessCommitment
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005b50
+NtGdiDdDDIUnOrderedPresentSwapChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005b70
+NtGdiDdDDIUnlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005b90
+NtGdiDdDDIUnlock2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005bb0
+NtGdiDdDDIUpdateAllocationProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005bd0
+NtGdiDdDDIUpdateGpuVirtualAddress
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005bf0
+NtGdiDdDDIUpdateOverlay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005c10
+NtGdiDdDDIWaitForIdle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005c30
+NtGdiDdDDIWaitForSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005c50
+NtGdiDdDDIWaitForSynchronizationObjectFromCpu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005c70
+NtGdiDdDDIWaitForSynchronizationObjectFromGpu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005c90
+NtGdiDdDDIWaitForVerticalBlankEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005cb0
+NtGdiDdDDIWaitForVerticalBlankEvent2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005cd0
+NtGdiDdDestroyFullscreenSprite
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005cf0
+NtGdiDdNotifyFullscreenSpriteUpdate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005d10
+NtGdiDdQueryVisRgnUniqueness
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005d30
+NtGdiDeleteClientObj
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800020b0
+NtGdiDeleteColorSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003230
+NtGdiDeleteColorTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005d50
+NtGdiDeleteObjectApp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001490
+NtGdiDescribePixelFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005d70
+NtGdiDestroyOPMProtectedOutput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005d90
+NtGdiDestroyPhysicalMonitor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005db0
+NtGdiDoBanding
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005dd0
+NtGdiDoPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001910
+NtGdiDrawEscape
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005df0
+NtGdiDrawStream
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001c50
+NtGdiDwmCreatedBitmapRemotingOutput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005e10
+NtGdiEllipse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005e30
+NtGdiEnableEudc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005e50
+NtGdiEndDoc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005e70
+NtGdiEndGdiRendering
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005e90
+NtGdiEndPage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005eb0
+NtGdiEndPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002fd0
+NtGdiEngAlphaBlend
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ed0
+NtGdiEngAssociateSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ef0
+NtGdiEngBitBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f10
+NtGdiEngCheckAbort
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f30
+NtGdiEngComputeGlyphSet
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f50
+NtGdiEngCopyBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f70
+NtGdiEngCreateBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005f90
+NtGdiEngCreateClip
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005fb0
+NtGdiEngCreateDeviceBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005fd0
+NtGdiEngCreateDeviceSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180005ff0
+NtGdiEngCreatePalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006010
+NtGdiEngDeleteClip
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006030
+NtGdiEngDeletePalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006050
+NtGdiEngDeletePath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006070
+NtGdiEngDeleteSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006090
+NtGdiEngEraseSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800060b0
+NtGdiEngFillPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800060d0
+NtGdiEngGradientFill
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800060f0
+NtGdiEngLineTo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006110
+NtGdiEngLockSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006130
+NtGdiEngMarkBandingSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006150
+NtGdiEngPaint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006170
+NtGdiEngPlgBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006190
+NtGdiEngStretchBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800061b0
+NtGdiEngStretchBltROP
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800061d0
+NtGdiEngStrokeAndFillPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800061f0
+NtGdiEngStrokePath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006210
+NtGdiEngTextOut
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006230
+NtGdiEngTransparentBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006250
+NtGdiEngUnlockSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006270
+NtGdiEnsureDpiDepDefaultGuiFontForPlateau
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006290
+NtGdiEnumFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800062b0
+NtGdiEnumObjects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800062d0
+NtGdiEqualRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800030b0
+NtGdiEudcLoadUnloadLink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800062f0
+NtGdiExcludeClipRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800022f0
+NtGdiExtCreatePen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002490
+NtGdiExtCreateRegion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002110
+NtGdiExtEscape
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003150
+NtGdiExtFloodFill
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006310
+NtGdiExtGetObjectW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001a70
+NtGdiExtSelectClipRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800015f0
+NtGdiExtTextOutW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001730
+NtGdiFONTOBJ_cGetAllGlyphHandles
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006330
+NtGdiFONTOBJ_cGetGlyphs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006350
+NtGdiFONTOBJ_pQueryGlyphAttrs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006370
+NtGdiFONTOBJ_pfdg
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006390
+NtGdiFONTOBJ_pifi
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800063b0
+NtGdiFONTOBJ_pvTrueTypeFontFile
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800063d0
+NtGdiFONTOBJ_pxoGetXform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800063f0
+NtGdiFONTOBJ_vGetInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006410
+NtGdiFillPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ff0
+NtGdiFillRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002910
+NtGdiFlattenPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006430
+NtGdiFlush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001270
+NtGdiFontIsLinked
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006450
+NtGdiForceUFIMapping
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006470
+NtGdiFrameRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006490
+NtGdiFullscreenControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800064b0
+NtGdiGetAndSetDCDword
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001cf0
+NtGdiGetAppClipBox
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001890
+NtGdiGetAppliedDeviceGammaRamp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800064d0
+NtGdiGetBitmapBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002a50
+NtGdiGetBitmapDimension
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002e10
+NtGdiGetBitmapDpiScaleValue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800064f0
+NtGdiGetBoundsRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006510
+NtGdiGetCOPPCompatibleOPMInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006530
+NtGdiGetCertificate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006550
+NtGdiGetCertificateByHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006570
+NtGdiGetCertificateSize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006590
+NtGdiGetCertificateSizeByHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800065b0
+NtGdiGetCharABCWidthsW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800065d0
+NtGdiGetCharSet
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001150
+NtGdiGetCharWidthInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002830
+NtGdiGetCharWidthW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002790
+NtGdiGetCharacterPlacementW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800065f0
+NtGdiGetColorAdjustment
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006610
+NtGdiGetColorSpaceforBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006630
+NtGdiGetCurrentDpiInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006650
+NtGdiGetDCDpiScaleValue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006670
+NtGdiGetDCDword
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001810
+NtGdiGetDCObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800016d0
+NtGdiGetDCPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e50
+NtGdiGetDCforBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002330
+NtGdiGetDIBitsInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002070
+NtGdiGetDeviceCaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006690
+NtGdiGetDeviceCapsAll
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800066b0
+NtGdiGetDeviceGammaRamp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800066d0
+NtGdiGetDeviceWidth
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800066f0
+NtGdiGetDhpdev
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006710
+NtGdiGetETM
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006730
+NtGdiGetEmbUFI
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006750
+NtGdiGetEmbedFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006770
+NtGdiGetEntry
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006790
+NtGdiGetEudcTimeStampEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800067b0
+NtGdiGetFontData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002970
+NtGdiGetFontFileData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800067d0
+NtGdiGetFontFileInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800067f0
+NtGdiGetFontResourceInfoInternalW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006810
+NtGdiGetFontUnicodeRanges
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006830
+NtGdiGetGammaRampCapability
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006850
+NtGdiGetGlyphIndicesW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006870
+NtGdiGetGlyphIndicesWInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006890
+NtGdiGetGlyphOutline
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800068b0
+NtGdiGetKerningPairs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800068d0
+NtGdiGetLinkedUFIs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800068f0
+NtGdiGetMiterLimit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006910
+NtGdiGetMonitorID
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006930
+NtGdiGetNearestColor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e10
+NtGdiGetNearestPaletteIndex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002770
+NtGdiGetNumberOfPhysicalMonitors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006950
+NtGdiGetOPMInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006970
+NtGdiGetOPMRandomNumber
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006990
+NtGdiGetObjectBitmapHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800069b0
+NtGdiGetOutlineTextMetricsInternalW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002590
+NtGdiGetPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800069d0
+NtGdiGetPerBandInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800069f0
+NtGdiGetPhysicalMonitorDescription
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006a10
+NtGdiGetPhysicalMonitors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006a30
+NtGdiGetPixel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002710
+NtGdiGetProcessSessionFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006a50
+NtGdiGetPublicFontTableChangeCookie
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006a70
+NtGdiGetRandomRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001590
+NtGdiGetRasterizerCaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002b70
+NtGdiGetRealizationInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006a90
+NtGdiGetRegionData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001830
+NtGdiGetRgnBox
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001cd0
+NtGdiGetServerMetaFileBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006ab0
+NtGdiGetSpoolMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006ad0
+NtGdiGetStats
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006af0
+NtGdiGetStringBitmapW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006b10
+NtGdiGetSuggestedOPMProtectedOutputArraySize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006b30
+NtGdiGetSystemPaletteUse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800030d0
+NtGdiGetTextCharsetInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800019d0
+NtGdiGetTextExtent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002250
+NtGdiGetTextExtentExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006b50
+NtGdiGetTextFaceW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001fd0
+NtGdiGetTextMetricsW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e90
+NtGdiGetTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002a10
+NtGdiGetUFI
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006b70
+NtGdiGetUFIPathname
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006b90
+NtGdiGetWidthTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001d30
+NtGdiGradientFill
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006bb0
+NtGdiHLSurfGetInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006bd0
+NtGdiHLSurfSetInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006bf0
+NtGdiHT_Get8BPPFormatPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006c10
+NtGdiHT_Get8BPPMaskPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006c30
+NtGdiHfontCreate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001bb0
+NtGdiIcmBrushInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006c50
+NtGdiInit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006c70
+NtGdiInitSpool
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006c90
+NtGdiIntersectClipRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001430
+NtGdiInvertRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001cb0
+NtGdiLineTo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001850
+NtGdiMakeFontDir
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006cb0
+NtGdiMakeInfoDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006cd0
+NtGdiMakeObjectUnXferable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006cf0
+NtGdiMakeObjectXferable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006d10
+NtGdiMaskBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001d10
+NtGdiMirrorWindowOrg
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006d30
+NtGdiModifyWorldTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002950
+NtGdiMonoBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006d50
+NtGdiMoveTo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006d70
+NtGdiOffsetClipRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006d90
+NtGdiOffsetRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001f90
+NtGdiOpenDCW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800029d0
+NtGdiPATHOBJ_bEnum
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006db0
+NtGdiPATHOBJ_bEnumClipLines
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006dd0
+NtGdiPATHOBJ_vEnumStart
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006df0
+NtGdiPATHOBJ_vEnumStartClipLines
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006e10
+NtGdiPATHOBJ_vGetBounds
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006e30
+NtGdiPatBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b50
+NtGdiPathToRegion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006e50
+NtGdiPlgBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006e70
+NtGdiPolyDraw
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006e90
+NtGdiPolyPatBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001dd0
+NtGdiPolyPolyDraw
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001930
+NtGdiPolyTextOutW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006eb0
+NtGdiPtInRegion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006ed0
+NtGdiPtVisible
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006ef0
+NtGdiQueryFontAssocInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002d30
+NtGdiQueryFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006f10
+NtGdiRectInRegion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800026d0
+NtGdiRectVisible
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001690
+NtGdiRectangle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800021d0
+NtGdiRemoveFontMemResourceEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800030f0
+NtGdiRemoveFontResourceW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006f30
+NtGdiRemoveMergeFont
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006f50
+NtGdiResetDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006f70
+NtGdiResizePalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006f90
+NtGdiRestoreDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001770
+NtGdiRoundRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006fb0
+NtGdiSTROBJ_bEnum
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006fd0
+NtGdiSTROBJ_bEnumPositionsOnly
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180006ff0
+NtGdiSTROBJ_bGetAdvanceWidths
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007010
+NtGdiSTROBJ_dwGetCodePage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007030
+NtGdiSTROBJ_vEnumStart
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007050
+NtGdiSaveDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001790
+NtGdiScaleRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007070
+NtGdiScaleValues
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007090
+NtGdiScaleViewportExtEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800070b0
+NtGdiScaleWindowExtEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800070d0
+NtGdiSelectBitmap
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001190
+NtGdiSelectBrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800070f0
+NtGdiSelectClipPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007110
+NtGdiSelectFont
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001750
+NtGdiSelectPen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007130
+NtGdiSetBitmapAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007150
+NtGdiSetBitmapBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800025b0
+NtGdiSetBitmapDimension
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003170
+NtGdiSetBoundsRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002df0
+NtGdiSetBrushAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007170
+NtGdiSetBrushOrg
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800024d0
+NtGdiSetColorAdjustment
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007190
+NtGdiSetColorSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800071b0
+NtGdiSetDIBitsToDeviceInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001550
+NtGdiSetDeviceGammaRamp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800071d0
+NtGdiSetFontEnumeration
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003190
+NtGdiSetFontXform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800071f0
+NtGdiSetIcmMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007230
+NtGdiSetLayout
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002290
+NtGdiSetLinkedUFIs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007250
+NtGdiSetMagicColors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007270
+NtGdiSetMetaRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002b10
+NtGdiSetMiterLimit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002b30
+NtGdiSetOPMSigningKeyAndSequenceNumbers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007290
+NtGdiSetPUMPDOBJ
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800072b0
+NtGdiSetPixel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002510
+NtGdiSetPixelFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800072d0
+NtGdiSetPrivateDeviceGammaRamp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800072f0
+NtGdiSetRectRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007310
+NtGdiSetSizeDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007330
+NtGdiSetSystemPaletteUse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007350
+NtGdiSetTextJustification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007370
+NtGdiSetUMPDSandboxState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007390
+NtGdiSetVirtualResolution
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002b50
+NtGdiStartDoc
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800073b0
+NtGdiStartPage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800073d0
+NtGdiStretchBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001650
+NtGdiStretchDIBitsInternal
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ff0
+NtGdiStrokeAndFillPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800073f0
+NtGdiStrokePath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007410
+NtGdiSwapBuffers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007430
+NtGdiTransformPoints
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001e30
+NtGdiTransparentBlt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007450
+NtGdiUMPDEngFreeUserMem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007470
+NtGdiUnloadPrinterDriver
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007490
+NtGdiUnmapMemFont
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800074b0
+NtGdiUnrealizeObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002190
+NtGdiUpdateColors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800074d0
+NtGdiUpdateTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800074f0
+NtGdiWidenPath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007510
+NtGdiXFORMOBJ_bApplyXform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007530
+NtGdiXFORMOBJ_iGetXform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007550
+NtGdiXLATEOBJ_cGetPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007570
+NtGdiXLATEOBJ_hGetColorTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007590
+NtGdiXLATEOBJ_iXlate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800075b0
+NtHWCursorUpdatePointer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800075d0
+NtInputSpaceRegionFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800075f0
+NtIsOneCoreTransformMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007610
+NtMITAccessibilityTimerNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007630
+NtMITActivateInputProcessing
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007650
+NtMITCoreMsgKOpenConnectionTo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007670
+NtMITDeactivateInputProcessing
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007690
+NtMITDisableMouseIntercept
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800076b0
+NtMITDispatchCompletion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800076d0
+NtMITEnableMouseIntercept
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800076f0
+NtMITGetCursorUpdateHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007710
+NtMITInitMinuserThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007730
+NtMITMinuserSetInputTransformOffset
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007750
+NtMITMinuserWindowCreated
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007770
+NtMITMinuserWindowDestroyed
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007790
+NtMITPostMouseInputMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800077b0
+NtMITPostThreadEventMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800077d0
+NtMITPostWindowEventMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800077f0
+NtMITPrepareReceiveInputMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007810
+NtMITPrepareSendInputMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007830
+NtMITProcessDelegateCapturedPointers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007850
+NtMITSetForegroundRoutingInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007870
+NtMITSetInputCallbacks
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007890
+NtMITSetInputDelegationMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800078b0
+NtMITSetInputObservationState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800078d0
+NtMITSetKeyboardInputRoutingPolicy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800078f0
+NtMITSetKeyboardOverriderState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007910
+NtMITSetLastInputRecipient
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007930
+NtMITSynthesizeKeyboardInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007950
+NtMITSynthesizeMouseInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007970
+NtMITSynthesizeTouchInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007990
+NtMITUninitMinuserThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800079b0
+NtMITUpdateInputGlobals
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800079d0
+NtMapVisualRelativePoints
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800079f0
+NtMinGetInputTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007a10
+NtMinInteropCoreMessagingWithInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007a30
+NtMinQPeekForInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007a50
+NtMinQSuspendInputProcessing
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007a70
+NtMinQUpdateWakeMask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007a90
+NtModerncoreBeginLayoutUpdate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007ab0
+NtModerncoreCreateDCompositionHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007ad0
+NtModerncoreCreateGDIHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007af0
+NtModerncoreDestroyDCompositionHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007b10
+NtModerncoreDestroyGDIHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007b30
+NtModerncoreEnableResizeLayoutSynchronization
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007b50
+NtModerncoreGetNavigationWindowVisual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007b70
+NtModerncoreGetResizeDCompositionSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007b90
+NtModerncoreGetWindowContentVisual
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007bb0
+NtModerncoreIdleTimerThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007bd0
+NtModerncoreIsResizeLayoutSynchronizationEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007bf0
+NtModerncoreProcessConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007c10
+NtModerncoreRegisterEnhancedNavigationWindowHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007c30
+NtModerncoreRegisterNavigationWindowHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007c50
+NtModerncoreSetNavigationServiceSid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007c70
+NtModerncoreUnregisterNavigationWindowHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007c90
+NtNotifyPresentToCompositionSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007cb0
+NtOpenCompositionSurfaceDirtyRegion
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007cd0
+NtOpenCompositionSurfaceSectionInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007cf0
+NtOpenCompositionSurfaceSwapChainHandleInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007d10
+NtQueryCompositionInputIsImplicit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007d30
+NtQueryCompositionInputQueueAndTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007d50
+NtQueryCompositionInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007d70
+NtQueryCompositionInputSinkLuid
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007d90
+NtQueryCompositionInputSinkViewId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007db0
+NtQueryCompositionSurfaceBinding
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007dd0
+NtQueryCompositionSurfaceHDRMetaData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007df0
+NtQueryCompositionSurfaceRenderingRealization
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007e10
+NtQueryCompositionSurfaceStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007e30
+NtRIMAddInputObserver
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007e50
+NtRIMAreSiblingDevices
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007e70
+NtRIMDeviceIoControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007e90
+NtRIMEnableMonitorMappingForDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007eb0
+NtRIMFreeInputBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007ed0
+NtRIMGetDevicePreparsedData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007ef0
+NtRIMGetDevicePreparsedDataLockfree
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007f10
+NtRIMGetDeviceProperties
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007f30
+NtRIMGetDevicePropertiesLockfree
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007f50
+NtRIMGetPhysicalDeviceRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007f70
+NtRIMGetSourceProcessId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007f90
+NtRIMObserveNextInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007fb0
+NtRIMOnPnpNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007fd0
+NtRIMOnTimerNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007ff0
+NtRIMQueryDevicePath
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008010
+NtRIMReadInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008030
+NtRIMRegisterForInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008050
+NtRIMRemoveInputObserver
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008070
+NtRIMSetExtendedDeviceProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008090
+NtRIMSetTestModeStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800080b0
+NtRIMUnregisterForInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800080d0
+NtRIMUpdateInputObserverRegistration
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800080f0
+NtSetCompositionSurfaceAnalogExclusive
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008110
+NtSetCompositionSurfaceBufferUsage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008130
+NtSetCompositionSurfaceDirectFlipState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008150
+NtSetCompositionSurfaceIndependentFlipInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008170
+NtSetCompositionSurfaceStatistics
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008190
+NtSetCursorInputSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800081b0
+NtSetPointerDeviceInputSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800081d0
+NtSetShellCursorState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800081f0
+NtTokenManagerConfirmOutstandingAnalogToken
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008210
+NtTokenManagerCreateCompositionTokenHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008230
+NtTokenManagerCreateFlipObjectReturnTokenHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008250
+NtTokenManagerCreateFlipObjectTokenHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008270
+NtTokenManagerGetAnalogExclusiveSurfaceUpdates
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008290
+NtTokenManagerGetAnalogExclusiveTokenEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800082b0
+NtTokenManagerOpenSectionAndEvents
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800082d0
+NtTokenManagerThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800082f0
+NtUnBindCompositionSurface
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008310
+NtUpdateInputSinkTransforms
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008330
+NtUserAcquireIAMKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008350
+NtUserAcquireInteractiveControlBackgroundAccess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008370
+NtUserActivateKeyboardLayout
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003250
+NtUserAddClipboardFormatListener
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008390
+NtUserAddVisualIdentifier
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800083b0
+NtUserAlterWindowStyle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800028f0
+NtUserAssociateInputContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800083d0
+NtUserAttachThreadInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002c10
+NtUserAutoPromoteMouseInPointer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800083f0
+NtUserAutoRotateScreen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008410
+NtUserBeginLayoutUpdate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008430
+NtUserBeginPaint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001310
+NtUserBitBltSysBmp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002810
+NtUserBlockInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008450
+NtUserBroadcastThemeChangeEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008470
+NtUserBuildHimcList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008490
+NtUserBuildHwndList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800013b0
+NtUserBuildNameList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800024f0
+NtUserBuildPropList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800084b0
+NtUserCalcMenuBar
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800022b0
+NtUserCalculatePopupWindowPosition
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800084d0
+NtUserCallHwnd
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003010
+NtUserCallHwndLock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001450
+NtUserCallHwndLockSafe
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800084f0
+NtUserCallHwndOpt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008510
+NtUserCallHwndParam
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002390
+NtUserCallHwndParamLock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001510
+NtUserCallHwndParamLockSafe
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008530
+NtUserCallHwndSafe
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008550
+NtUserCallMsgFilter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800012d0
+NtUserCallNextHookEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800013f0
+NtUserCallNoParam
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800010d0
+NtUserCallOneParam
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001070
+NtUserCallTwoParam
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001570
+NtUserCanBrokerForceForeground
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008570
+NtUserChangeClipboardChain
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800031b0
+NtUserChangeDisplaySettings
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008590
+NtUserChangeWindowMessageFilterEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800085b0
+NtUserCheckAccessForIntegrityLevel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800085d0
+NtUserCheckMenuItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ef0
+NtUserCheckProcessForClipboardAccess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800085f0
+NtUserCheckProcessSession
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008610
+NtUserCheckWindowThreadDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008630
+NtUserChildWindowFromPointEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008650
+NtUserClearForeground
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008670
+NtUserClipCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008690
+NtUserCloseClipboard
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002870
+NtUserCloseDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002410
+NtUserCloseWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800025d0
+NtUserCompositionInputSinkLuidFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800086b0
+NtUserCompositionInputSinkViewInstanceIdFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800086d0
+NtUserConfigureActivationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800086f0
+NtUserConfirmResizeCommit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008710
+NtUserConsoleControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002a70
+NtUserConvertMemHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002e30
+NtUserCopyAcceleratorTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800015b0
+NtUserCountClipboardFormats
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003070
+NtUserCreateAcceleratorTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002cb0
+NtUserCreateActivationGroup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008730
+NtUserCreateActivationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008750
+NtUserCreateCaret
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001670
+NtUserCreateDCompositionHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008770
+NtUserCreateDesktopEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008790
+NtUserCreateEmptyCursorObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800087b0
+NtUserCreateInputContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800087d0
+NtUserCreateLocalMemHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002bf0
+NtUserCreatePalmRejectionDelayZone
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800087f0
+NtUserCreateWindowEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001eb0
+NtUserCreateWindowGroup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008810
+NtUserCreateWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008830
+NtUserCtxDisplayIOCtl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008850
+NtUserDdeInitialize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003030
+NtUserDefSetText
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001fb0
+NtUserDeferWindowDpiChanges
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008870
+NtUserDeferWindowPosAndBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008890
+NtUserDelegateCapturePointers
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800088b0
+NtUserDelegateInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800088d0
+NtUserDeleteMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800026b0
+NtUserDeleteWindowGroup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800088f0
+NtUserDestroyAcceleratorTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002e50
+NtUserDestroyActivationGroup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008910
+NtUserDestroyActivationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008930
+NtUserDestroyCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002350
+NtUserDestroyDCompositionHwndTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008950
+NtUserDestroyInputContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008970
+NtUserDestroyMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002a30
+NtUserDestroyPalmRejectionDelayZone
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008990
+NtUserDestroyWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002370
+NtUserDisableImmersiveOwner
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800089b0
+NtUserDisableProcessWindowFiltering
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800089d0
+NtUserDisableThreadIme
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800089f0
+NtUserDiscardPointerFrameMessages
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008a10
+NtUserDispatchMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800016f0
+NtUserDisplayConfigGetDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008a30
+NtUserDisplayConfigSetDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008a50
+NtUserDoSoundConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008a90
+NtUserDoSoundDisconnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008ab0
+NtUserDownlevelTouchpad
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008ad0
+NtUserDragDetect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008af0
+NtUserDragObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008b10
+NtUserDrawAnimatedRects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008b30
+NtUserDrawCaption
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008b50
+NtUserDrawCaptionTemp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008b70
+NtUserDrawIconEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001c10
+NtUserDrawMenuBarTemp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008b90
+NtUserDwmGetRemoteSessionOcclusionEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008bb0
+NtUserDwmGetRemoteSessionOcclusionState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008bd0
+NtUserDwmKernelShutdown
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008bf0
+NtUserDwmKernelStartup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008c10
+NtUserDwmValidateWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008c30
+NtUserEmptyClipboard
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002d90
+NtUserEnableChildWindowDpiMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008c50
+NtUserEnableIAMAccess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008c70
+NtUserEnableMenuItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800028d0
+NtUserEnableMouseInPointer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008c90
+NtUserEnableMouseInPointerForWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008cb0
+NtUserEnableMouseInputForCursorSuppression
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008cd0
+NtUserEnableNonClientDpiScaling
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008cf0
+NtUserEnableResizeLayoutSynchronization
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008d10
+NtUserEnableScrollBar
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002610
+NtUserEnableSoftwareCursorForScreenCapture
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008d30
+NtUserEnableTouchPad
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008d50
+NtUserEnableWindowGDIScaledDpiMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008d70
+NtUserEnableWindowGroupPolicy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008d90
+NtUserEnableWindowResizeOptimization
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008db0
+NtUserEndDeferWindowPosEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800014f0
+NtUserEndMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008dd0
+NtUserEndPaint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001350
+NtUserEnumDisplayDevices
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002d70
+NtUserEnumDisplayMonitors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001970
+NtUserEnumDisplaySettings
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003110
+NtUserEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008df0
+NtUserExcludeUpdateRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001a30
+NtUserFillWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800020f0
+NtUserFindExistingCursorIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800017f0
+NtUserFindWindowEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001db0
+NtUserFlashWindowEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008e10
+NtUserForceWindowToDpiForTest
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008e30
+NtUserFrostCrashedWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008e50
+NtUserFunctionalizeDisplayConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008e70
+NtUserGetActiveProcessesDpis
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008e90
+NtUserGetAltTabInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002cf0
+NtUserGetAncestor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002570
+NtUserGetAppImeLevel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008eb0
+NtUserGetAsyncKeyState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800018b0
+NtUserGetAtomName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002470
+NtUserGetAutoRotationState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008ed0
+NtUserGetCIMSSM
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008ef0
+NtUserGetCPD
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800018d0
+NtUserGetCaretBlinkTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002d10
+NtUserGetCaretPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008f10
+NtUserGetClassInfoEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002650
+NtUserGetClassName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001f50
+NtUserGetClipCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008f30
+NtUserGetClipboardAccessToken
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008f50
+NtUserGetClipboardData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002db0
+NtUserGetClipboardFormatName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002bb0
+NtUserGetClipboardOwner
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800027d0
+NtUserGetClipboardSequenceNumber
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ad0
+NtUserGetClipboardViewer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008f70
+NtUserGetComboBoxInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008f90
+NtUserGetControlBrush
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001f30
+NtUserGetControlColor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002af0
+NtUserGetCurrentDpiInfoForWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008fb0
+NtUserGetCurrentInputMessageSource
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008fd0
+NtUserGetCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008ff0
+NtUserGetCursorFrameInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002cd0
+NtUserGetCursorInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009010
+NtUserGetDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001170
+NtUserGetDCEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002210
+NtUserGetDManipHookInitFunction
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009030
+NtUserGetDesktopID
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009050
+NtUserGetDisplayAutoRotationPreferences
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009070
+NtUserGetDisplayAutoRotationPreferencesByProcessId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009090
+NtUserGetDisplayConfigBufferSizes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800090b0
+NtUserGetDoubleClickTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800025f0
+NtUserGetDpiForCurrentProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800090d0
+NtUserGetDpiForMonitor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800090f0
+NtUserGetExtendedPointerDeviceProperty
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009110
+NtUserGetForegroundWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800017b0
+NtUserGetGUIThreadInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002e70
+NtUserGetGestureConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009130
+NtUserGetGestureExtArgs
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009150
+NtUserGetGestureInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009170
+NtUserGetGuiResources
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009190
+NtUserGetHDevName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800091b0
+NtUserGetHimetricScaleFactorFromPixelLocation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800091d0
+NtUserGetIconInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001a10
+NtUserGetIconSize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800020d0
+NtUserGetImeHotKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800091f0
+NtUserGetImeInfoEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009210
+NtUserGetInputContainerId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009230
+NtUserGetInputLocaleInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009250
+NtUserGetInteractiveControlDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009270
+NtUserGetInteractiveControlInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009290
+NtUserGetInteractiveCtrlSupportedWaveforms
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800092b0
+NtUserGetInternalWindowPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800092d0
+NtUserGetKeyNameText
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800092f0
+NtUserGetKeyState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001090
+NtUserGetKeyboardLayout
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009310
+NtUserGetKeyboardLayoutList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b30
+NtUserGetKeyboardLayoutName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009330
+NtUserGetKeyboardState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ef0
+NtUserGetLayeredWindowAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009350
+NtUserGetListBoxInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009370
+NtUserGetMenuBarInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002750
+NtUserGetMenuIndex
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009390
+NtUserGetMenuItemRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800093b0
+NtUserGetMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800010f0
+NtUserGetMouseMovePointsEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800093d0
+NtUserGetObjectInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001d70
+NtUserGetOemBitmapSize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800093f0
+NtUserGetOpenClipboardWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002990
+NtUserGetOwnerTransformedMonitorRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180007210
+NtUserGetPhysicalDeviceRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009430
+NtUserGetPointerCursorId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009450
+NtUserGetPointerDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009470
+NtUserGetPointerDeviceCursors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009490
+NtUserGetPointerDeviceInputSpace
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800094b0
+NtUserGetPointerDeviceOrientation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800094d0
+NtUserGetPointerDeviceProperties
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800094f0
+NtUserGetPointerDeviceRects
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009510
+NtUserGetPointerDevices
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009530
+NtUserGetPointerFrameTimes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009550
+NtUserGetPointerInfoList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009570
+NtUserGetPointerInputTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009590
+NtUserGetPointerProprietaryId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800095b0
+NtUserGetPointerType
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800095d0
+NtUserGetPrecisionTouchPadConfiguration
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800095f0
+NtUserGetPriorityClipboardFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009610
+NtUserGetProcessDpiAwarenessContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009630
+NtUserGetProcessUIContextInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009650
+NtUserGetProcessWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001470
+NtUserGetProp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011f0
+NtUserGetQueueStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009670
+NtUserGetQueueStatusReadonly
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009690
+NtUserGetRawInputBuffer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800096b0
+NtUserGetRawInputData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800096d0
+NtUserGetRawInputDeviceInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800096f0
+NtUserGetRawInputDeviceList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009710
+NtUserGetRawPointerDeviceData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009730
+NtUserGetRegisteredRawInputDevices
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009750
+NtUserGetRequiredCursorSizes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009770
+NtUserGetResizeDCompositionSynchronizationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009790
+NtUserGetScrollBarInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002230
+NtUserGetSharedWindowData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800097b0
+NtUserGetSystemDpiForProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800097d0
+NtUserGetSystemMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001c30
+NtUserGetThreadDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002030
+NtUserGetThreadState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001030
+NtUserGetTitleBarInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800021b0
+NtUserGetTopLevelWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800097f0
+NtUserGetTouchInputInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009810
+NtUserGetTouchValidationStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009830
+NtUserGetUniformSpaceMapping
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009850
+NtUserGetUpdateRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001a90
+NtUserGetUpdateRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002090
+NtUserGetUpdatedClipboardFormats
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009870
+NtUserGetWOWClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009890
+NtUserGetWindowBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800098b0
+NtUserGetWindowCompositionAttribute
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800098d0
+NtUserGetWindowCompositionInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800098f0
+NtUserGetWindowDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001c90
+NtUserGetWindowDisplayAffinity
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009910
+NtUserGetWindowFeedbackSetting
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009930
+NtUserGetWindowGroupId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009950
+NtUserGetWindowMinimizeRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009970
+NtUserGetWindowPlacement
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002930
+NtUserGetWindowProcessHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009990
+NtUserGetWindowRgnEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800099b0
+NtUserGhostWindowFromHungWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800099d0
+NtUserHandleDelegatedInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800099f0
+NtUserHardErrorControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009a10
+NtUserHideCaret
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001410
+NtUserHidePointerContactVisualization
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009a30
+NtUserHiliteMenuItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009a50
+NtUserHungWindowFromGhostWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009a70
+NtUserHwndQueryRedirectionInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009a90
+NtUserHwndSetRedirectionInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009ab0
+NtUserImpersonateDdeClientWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009ad0
+NtUserInheritWindowMonitor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009af0
+NtUserInitTask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009b10
+NtUserInitialize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009b30
+NtUserInitializeClientPfnArrays
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009b50
+NtUserInitializeGenericHidInjection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009b70
+NtUserInitializeInputDeviceInjection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009b90
+NtUserInitializePointerDeviceInjection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009bb0
+NtUserInitializePointerDeviceInjectionEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009bd0
+NtUserInitializeTouchInjection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009bf0
+NtUserInjectDeviceInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c10
+NtUserInjectGenericHidInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c30
+NtUserInjectGesture
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c50
+NtUserInjectKeyboardInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c70
+NtUserInjectMouseInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c90
+NtUserInjectPointerInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009cb0
+NtUserInjectTouchInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009cd0
+NtUserInteractiveControlQueryUsage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009cf0
+NtUserInternalGetWindowIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009d10
+NtUserInternalGetWindowText
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001c70
+NtUserInternalToUnicode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009d30
+NtUserInvalidateRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800010b0
+NtUserInvalidateRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800027b0
+NtUserIsChildWindowDpiMessageEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009d50
+NtUserIsClipboardFormatAvailable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001610
+NtUserIsMouseInPointerEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009d70
+NtUserIsMouseInputEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009d90
+NtUserIsNonClientDpiScalingEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009db0
+NtUserIsResizeLayoutSynchronizationEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009dd0
+NtUserIsTopLevelWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009df0
+NtUserIsTouchWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009e10
+NtUserIsWindowBroadcastingDpiToChildren
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009e30
+NtUserIsWindowGDIScaledDpiMessageEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009e50
+NtUserKillTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001390
+NtUserLayoutCompleted
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009e70
+NtUserLinkDpiCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009e90
+NtUserLoadKeyboardLayoutEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009eb0
+NtUserLockCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009ed0
+NtUserLockWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009ef0
+NtUserLockWindowUpdate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002f50
+NtUserLockWorkStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009f10
+NtUserLogicalToPerMonitorDPIPhysicalPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009f30
+NtUserLogicalToPhysicalDpiPointForWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009f50
+NtUserLogicalToPhysicalPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009f70
+NtUserMNDragLeave
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009f90
+NtUserMNDragOver
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009fb0
+NtUserMagControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009fd0
+NtUserMagGetContextInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009ff0
+NtUserMagSetContextInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a010
+NtUserMapPointsByVisualIdentifier
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a030
+NtUserMapVirtualKeyEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b70
+NtUserMarkWindowForRawMouse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a050
+NtUserMenuItemFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a070
+NtUserMessageCall
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001110
+NtUserMinInitialize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a090
+NtUserMinMaximize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a0b0
+NtUserModifyUserStartupInfoFlags
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003050
+NtUserModifyWindowTouchCapability
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a0d0
+NtUserMoveWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001bd0
+NtUserMsgWaitForMultipleObjectsEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a0f0
+NtUserNavigateFocus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a110
+NtUserNotifyIMEStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a130
+NtUserNotifyProcessCreate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002170
+NtUserNotifyWinEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800015d0
+NtUserOpenClipboard
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002890
+NtUserOpenDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002430
+NtUserOpenInputDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a150
+NtUserOpenThreadDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a170
+NtUserOpenWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800023d0
+NtUserPaintDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180003130
+NtUserPaintMenuBar
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002c50
+NtUserPaintMonitor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a190
+NtUserPeekMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001050
+NtUserPerMonitorDPIPhysicalToLogicalPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a1b0
+NtUserPhysicalToLogicalDpiPointForWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a1d0
+NtUserPhysicalToLogicalPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a1f0
+NtUserPostKeyboardInputMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a210
+NtUserPostMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001210
+NtUserPostThreadMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001bf0
+NtUserPrintWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a230
+NtUserProcessConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002d50
+NtUserProcessInkFeedbackCommand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a250
+NtUserPromoteMouseInPointer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a270
+NtUserPromotePointer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a290
+NtUserQueryActivationObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a2b0
+NtUserQueryBSDRWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a2d0
+NtUserQueryDisplayConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a2f0
+NtUserQueryInformationThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a310
+NtUserQueryInputContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a330
+NtUserQuerySendMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a350
+NtUserQueryWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001230
+NtUserRealChildWindowFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a370
+NtUserRealInternalGetMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002bd0
+NtUserRealWaitMessageEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a390
+NtUserRedrawWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001290
+NtUserRegisterBSDRWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a3b0
+NtUserRegisterClassExWOW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002530
+NtUserRegisterDManipHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a3d0
+NtUserRegisterEdgy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a3f0
+NtUserRegisterErrorReportingDialog
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a410
+NtUserRegisterHotKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a430
+NtUserRegisterManipulationThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a450
+NtUserRegisterPointerDeviceNotifications
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a470
+NtUserRegisterPointerInputTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a490
+NtUserRegisterRawInputDevices
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a4b0
+NtUserRegisterServicesProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a4d0
+NtUserRegisterSessionPort
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a4f0
+NtUserRegisterShellPTPListener
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a510
+NtUserRegisterTasklist
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a530
+NtUserRegisterTouchHitTestingWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a550
+NtUserRegisterTouchPadCapable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a570
+NtUserRegisterUserApiHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a590
+NtUserRegisterWindowMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001710
+NtUserReleaseDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a5b0
+NtUserReleaseDwmHitTestWaiters
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a5d0
+NtUserRemoteConnect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a5f0
+NtUserRemoteRedrawRectangle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a610
+NtUserRemoteRedrawScreen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a630
+NtUserRemoteStopScreenUpdates
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a650
+NtUserRemoveClipboardFormatListener
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a670
+NtUserRemoveInjectionDevice
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a690
+NtUserRemoveMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002dd0
+NtUserRemoveProp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800018f0
+NtUserRemoveVisualIdentifier
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a6b0
+NtUserReportInertia
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a6d0
+NtUserRequestMoveSizeOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a6f0
+NtUserResolveDesktopForWOW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a710
+NtUserRestoreWindowDpiChanges
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a730
+NtUserSBGetParms
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800019f0
+NtUserScrollDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001d50
+NtUserScrollWindowEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800026f0
+NtUserSelectPalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800013d0
+NtUserSendEventMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a750
+NtUserSendInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002010
+NtUserSendInteractiveControlHapticsReport
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a770
+NtUserSetActivationFilter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a790
+NtUserSetActiveProcessForMonitor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a7b0
+NtUserSetActiveWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002a90
+NtUserSetAppImeLevel
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a7d0
+NtUserSetAutoRotation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a7f0
+NtUserSetBridgeWindowChild
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a810
+NtUserSetBrokeredForeground
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a830
+NtUserSetCalibrationData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a850
+NtUserSetCapture
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001950
+NtUserSetChildWindowNoActivate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a870
+NtUserSetClassLong
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002730
+NtUserSetClassLongPtr
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b470
+NtUserSetClassWord
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a890
+NtUserSetClipboardData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800028b0
+NtUserSetClipboardViewer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800031d0
+NtUserSetCoreWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a8b0
+NtUserSetCoreWindowPartner
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a8d0
+NtUserSetCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001370
+NtUserSetCursorContents
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a8f0
+NtUserSetCursorIconData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800023f0
+NtUserSetCursorPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a910
+NtUserSetDesktopColorTransform
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a930
+NtUserSetDesktopVisualInputSink
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a950
+NtUserSetDialogControlDpiChangeBehavior
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a970
+NtUserSetDisplayAutoRotationPreferences
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a990
+NtUserSetDisplayConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a9b0
+NtUserSetDisplayMapping
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a9d0
+NtUserSetFallbackForeground
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a9f0
+NtUserSetFeatureReportResponse
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aa10
+NtUserSetFocus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001a50
+NtUserSetForegroundWindowForApplication
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aa30
+NtUserSetFullscreenMagnifierOffsetsDWMUpdated
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aa50
+NtUserSetGestureConfig
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aa70
+NtUserSetImeHotKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aa90
+NtUserSetImeInfoEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aab0
+NtUserSetImeOwnerWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aad0
+NtUserSetInformationThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ab0
+NtUserSetInputServiceState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aaf0
+NtUserSetInteractiveControlFocus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ab10
+NtUserSetInteractiveCtrlRotationAngle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ab30
+NtUserSetInternalWindowPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ab50
+NtUserSetKeyboardState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002c70
+NtUserSetLayeredWindowAttributes
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ab70
+NtUserSetMagnificationDesktopMagnifierOffsetsDWMUpdated
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ab90
+NtUserSetManipulationInputTarget
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000abb0
+NtUserSetMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000abd0
+NtUserSetMenuContextHelpId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000abf0
+NtUserSetMenuDefaultItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ed0
+NtUserSetMenuFlagRtoL
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ac10
+NtUserSetMirrorRendering
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ac30
+NtUserSetMonitorWorkArea
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ac50
+NtUserSetMouseInputRateLimitingTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ac70
+NtUserSetObjectInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ac90
+NtUserSetParent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001ed0
+NtUserSetPrecisionTouchPadConfiguration
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000acb0
+NtUserSetProcessDpiAwarenessContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000acd0
+NtUserSetProcessInteractionFlags
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000acf0
+NtUserSetProcessMousewheelRoutingMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ad10
+NtUserSetProcessRestrictionExemption
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ad30
+NtUserSetProcessUIAccessZorder
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ad50
+NtUserSetProcessWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002450
+NtUserSetProp
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800019b0
+NtUserSetScrollInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001630
+NtUserSetSensorPresence
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180008a70
+NtUserSetSharedWindowData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ad70
+NtUserSetShellWindowEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ad90
+NtUserSetSysColors
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000adb0
+NtUserSetSystemCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000add0
+NtUserSetSystemMenu
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002f70
+NtUserSetSystemTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000adf0
+NtUserSetTargetForResourceBrokering
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ae10
+NtUserSetThreadDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800021f0
+NtUserSetThreadInputBlocked
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ae30
+NtUserSetThreadLayoutHandles
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ae50
+NtUserSetThreadState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800029b0
+NtUserSetTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001330
+NtUserSetWinEventHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002f10
+NtUserSetWindowArrangement
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ae70
+NtUserSetWindowBand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000ae90
+NtUserSetWindowCompositionAttribute
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aeb0
+NtUserSetWindowCompositionTransition
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aed0
+NtUserSetWindowDisplayAffinity
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aef0
+NtUserSetWindowFNID
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002270
+NtUserSetWindowFeedbackSetting
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000af10
+NtUserSetWindowGroup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000af30
+NtUserSetWindowLong
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b90
+NtUserSetWindowLongPtr
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b490
+NtUserSetWindowPlacement
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002ad0
+NtUserSetWindowPos
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800014b0
+NtUserSetWindowRgn
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800027f0
+NtUserSetWindowRgnEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000af50
+NtUserSetWindowShowState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000af70
+NtUserSetWindowStationUser
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000af90
+NtUserSetWindowWord
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002b90
+NtUserSetWindowsHookAW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002eb0
+NtUserSetWindowsHookEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002150
+NtUserShowCaret
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800014d0
+NtUserShowCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000afb0
+NtUserShowScrollBar
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800017d0
+NtUserShowSystemCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000afd0
+NtUserShowWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001b10
+NtUserShowWindowAsync
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800031f0
+NtUserShutdownBlockReasonCreate
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000aff0
+NtUserShutdownBlockReasonQuery
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b010
+NtUserShutdownReasonDestroy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b030
+NtUserSignalRedirectionStartComplete
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b050
+NtUserSlicerControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b070
+NtUserSoundSentry
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b090
+NtUserStopAndEndInertia
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b0b0
+NtUserSwitchDesktop
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b0d0
+NtUserSystemParametersInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001870
+NtUserSystemParametersInfoForDpi
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b0f0
+NtUserTestForInteractiveUser
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b110
+NtUserThunkedMenuInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002f90
+NtUserThunkedMenuItemInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800022d0
+NtUserToUnicodeEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001f10
+NtUserTrackMouseEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800029f0
+NtUserTrackPopupMenuEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b130
+NtUserTransformPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b150
+NtUserTransformRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b170
+NtUserTranslateAccelerator
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001250
+NtUserTranslateMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011d0
+NtUserUndelegateInput
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b190
+NtUserUnhookWinEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002f30
+NtUserUnhookWindowsHookEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001df0
+NtUserUnloadKeyboardLayout
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b1b0
+NtUserUnlockWindowStation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b1d0
+NtUserUnregisterClass
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002690
+NtUserUnregisterHotKey
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b1f0
+NtUserUnregisterSessionPort
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b210
+NtUserUnregisterUserApiHook
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b230
+NtUserUpdateDefaultDesktopThumbnail
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b250
+NtUserUpdateInputContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b270
+NtUserUpdateInstance
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b290
+NtUserUpdateLayeredWindow
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b2b0
+NtUserUpdatePerUserSystemParameters
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b2d0
+NtUserUpdateWindowInputSinkHints
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b2f0
+NtUserUpdateWindowTrackingInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b310
+NtUserUserHandleGrantAccess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b330
+NtUserValidateRect
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180002850
+NtUserValidateTimerCallback
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800012f0
+NtUserVkKeyScanEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001530
+NtUserWOWCleanup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b350
+NtUserWaitAvailableMessageEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b370
+NtUserWaitForInputIdle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b390
+NtUserWaitForMsgAndEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b3b0
+NtUserWaitForRedirectionStartComplete
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b3d0
+NtUserWaitMessage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800011b0
+NtUserWindowFromDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b3f0
+NtUserWindowFromPhysicalPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b410
+NtUserWindowFromPoint
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800012b0
+NtUserYieldTask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009410
+NtValidateCompositionSurfaceHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b430
+NtVisualCaptureBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000b450
+gDispatchTableValues
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18000b4a8

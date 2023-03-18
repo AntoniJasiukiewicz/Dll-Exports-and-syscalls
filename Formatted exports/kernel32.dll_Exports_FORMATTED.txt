@@ -1,0 +1,6536 @@
+AcquireSRWLockExclusive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e387
+AcquireSRWLockShared
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e3bd
+ActivateActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020840
+ActivateActCtxWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001bed0
+AddAtomA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18005a800
+AddAtomW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800128f0
+AddConsoleAliasA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e00
+AddConsoleAliasW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e10
+AddDllDirectory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e443
+AddIntegrityLabelToBoundaryDescriptor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d3a0
+AddLocalAlternateComputerNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a940
+AddLocalAlternateComputerNameW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005a9a0
+AddRefActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022a30
+AddRefActCtxWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ea80
+AddResourceAttributeAce
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ace0
+AddSIDToBoundaryDescriptor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021060
+AddScopedPolicyIDAce
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ad00
+AddSecureMemoryCacheCallback
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039100
+AddVectoredContinueHandler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e57c
+AddVectoredExceptionHandler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e5bc
+AdjustCalendarDate
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180007200
+AllocConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a50
+AllocateUserPhysicalPages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ad40
+AllocateUserPhysicalPagesNuma
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ad20
+AppPolicyGetClrCompat
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e64f
+AppPolicyGetCreateFileAccess
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e68d
+AppPolicyGetLifecycleManagement
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e6d5
+AppPolicyGetMediaFoundationCodecLoading
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e728
+AppPolicyGetProcessTerminationMethod
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e780
+AppPolicyGetShowDeveloperDiagnostic
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e7d4
+AppPolicyGetThreadInitializationType
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e828
+AppPolicyGetWindowingModel
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e873
+AppXGetOSMaxVersionTested
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009e8b3
+ApplicationRecoveryFinished
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800444f0
+ApplicationRecoveryInProgress
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044500
+AreFileApisANSI
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800213b0
+AssignProcessToJobObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800206c0
+AttachConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a60
+BackupRead
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005d3a0
+BackupSeek
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005e560
+BackupWrite
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005e840
+BaseCheckAppcompatCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003adc0
+BaseCheckAppcompatCacheEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003ad60
+BaseCheckAppcompatCacheExWorker
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180021720
+BaseCheckAppcompatCacheWorker
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180021720
+BaseCheckElevation
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180018f20
+BaseCleanupAppcompatCacheSupport
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ade0
+BaseCleanupAppcompatCacheSupportWorker
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+BaseDestroyVDMEnvironment
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180040cf0
+BaseDllReadWriteIniFile
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x18000c500
+BaseDumpAppcompatCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ae00
+BaseDumpAppcompatCacheWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180038220
+BaseElevationPostProcessing
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001dad0
+BaseFlushAppcompatCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ae20
+BaseFlushAppcompatCacheWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071170
+BaseFormatObjectAttributes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025020
+BaseFormatTimeOut
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a020
+BaseFreeAppCompatDataForProcessWorker
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180020620
+BaseGenerateAppCompatData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180016d90
+BaseGetNamedObjectDirectory
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ae40
+BaseInitAppcompatCacheSupport
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ae60
+BaseInitAppcompatCacheSupportWorker
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+BaseIsAppcompatInfrastructureDisabled
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180021720
+BaseIsAppcompatInfrastructureDisabledWorker
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180021720
+BaseIsDosApplication
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800614e0
+BaseQueryModuleData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800715e0
+BaseReadAppCompatDataForProcessWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001feb0
+BaseSetLastNTError
+----> Number of xrefs: 218
+----> in: Data_Offset
+----> to: 0x1800130e0
+BaseThreadInitThunk
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180017600
+BaseUpdateAppcompatCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ae80
+BaseUpdateAppcompatCacheWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800711d0
+BaseUpdateVDMEntry
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180041050
+BaseVerifyUnicodeString
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a0c0
+BaseWriteErrorElevationRequiredEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005fcb0
+Basep8BitStringToDynamicUnicodeString
+----> Number of xrefs: 65
+----> in: Data_Offset
+----> to: 0x18001c850
+BasepAllocateActivationContextActivationBlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a120
+BasepAnsiStringToDynamicUnicodeString
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a050
+BasepAppContainerEnvironmentExtension
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180007600
+BasepAppXExtension
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020b60
+BasepCheckAppCompat
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800194d0
+BasepCheckWebBladeHashes
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001d7d0
+BasepCheckWinSaferRestrictions
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180011df0
+BasepConstructSxsCreateProcessMessage
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000dd40
+BasepCopyEncryption
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038bb0
+BasepFinishPackageActivationForSxS
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800272f0
+BasepFreeActivationContextActivationBlock
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a2b0
+BasepFreeAppCompatData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c350
+BasepGetAppCompatData
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800163f0
+BasepGetComputerNameFromNtPath
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001a920
+BasepGetExeArchType
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180019cb0
+BasepGetPackageActivationTokenForSxS
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180027330
+BasepInitAppCompatData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071300
+BasepIsProcessAllowed
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c980
+BasepMapModuleHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180013740
+BasepNotifyLoadStringResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bde0
+BasepPostSuccessAppXExtension
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021370
+BasepProcessInvalidImage
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039d50
+BasepQueryAppCompat
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000cee0
+BasepQueryModuleChpeSettings
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071390
+BasepReleaseAppXContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021350
+BasepReleaseSxsCreateProcessUtilityStruct
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800151b0
+BasepReportFault
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800447b0
+BasepSetFileEncryptionCompression
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001eb70
+Beep
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180037f50
+BeginUpdateResourceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004a2f0
+BeginUpdateResourceW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18004a360
+BindIoCompletionCallback
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180024a20
+BuildCommDCBA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180042ca0
+BuildCommDCBAndTimeoutsA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180042d00
+BuildCommDCBAndTimeoutsW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042d40
+BuildCommDCBW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042dd0
+CallNamedPipeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061d30
+CallNamedPipeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257f0
+CallbackMayRunLong
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003aea0
+CancelDeviceWakeupRequest
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ca0
+CancelIo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021430
+CancelIoEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020800
+CancelSynchronousIo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003aee0
+CancelThreadpoolIo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f16d
+CancelTimerQueueTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044710
+CancelWaitableTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250e0
+CeipIsOptedIn
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f1c4
+ChangeTimerQueueTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021a40
+CheckAllowDecryptedRemoteDestinationPolicy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003af00
+CheckElevation
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180018de0
+CheckElevationEnabled
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020db0
+CheckForReadOnlyResource
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180062230
+CheckForReadOnlyResourceFilter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d3d0
+CheckIsMSIXPackage
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f28e
+CheckNameLegalDOS8Dot3A
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ab0
+CheckNameLegalDOS8Dot3W
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180039b60
+CheckRemoteDebuggerPresent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001250
+CheckTokenCapability
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003af20
+CheckTokenMembershipEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003af40
+ClearCommBreak
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025850
+ClearCommError
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025860
+CloseConsoleHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006a0d0
+CloseHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250a0
+ClosePackageInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f371
+ClosePrivateNamespace
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800229d0
+CloseProfileUserMapping
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+ClosePseudoConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a70
+CloseState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f3d9
+CloseThreadpool
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f3ff
+CloseThreadpoolCleanupGroup
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f42f
+CloseThreadpoolCleanupGroupMembers
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f46e
+CloseThreadpoolIo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f4a3
+CloseThreadpoolTimer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f4d4
+CloseThreadpoolWait
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f4fd
+CloseThreadpoolWork
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f525
+CmdBatNotification
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020730
+CommConfigDialogA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003e160
+CommConfigDialogW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003e210
+CompareCalendarDates
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004ad00
+CompareFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800252d0
+CompareStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dde0
+CompareStringEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180016230
+CompareStringOrdinal
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800163d0
+CompareStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ce60
+ConnectNamedPipe
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021790
+ConsoleMenuControl
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a210
+ContinueDebugEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003af60
+ConvertCalDateTimeToSystemTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004adb0
+ConvertDefaultLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003af80
+ConvertFiberToThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259a0
+ConvertNLSDayOfWeekToWin32DayOfWeek
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004aeb0
+ConvertSystemTimeToCalDateTime
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800074b0
+ConvertThreadToFiber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259b0
+ConvertThreadToFiberEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259c0
+CopyContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003afa0
+CopyFile2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003afc0
+CopyFileA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180062580
+CopyFileExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180062630
+CopyFileExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020e80
+CopyFileTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800626f0
+CopyFileTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800627e0
+CopyFileW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025990
+CopyLZFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180038110
+CreateActCtxA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022380
+CreateActCtxW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021950
+CreateActCtxWWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800137b0
+CreateBoundaryDescriptorA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800623f0
+CreateBoundaryDescriptorW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021000
+CreateConsoleScreenBuffer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b90
+CreateDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800252e0
+CreateDirectoryExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063210
+CreateDirectoryExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003afe0
+CreateDirectoryTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038470
+CreateDirectoryTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800632a0
+CreateDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800252f0
+CreateEnclave
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f846
+CreateEventA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250f0
+CreateEventExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025100
+CreateEventExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025110
+CreateEventW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025120
+CreateFiber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259d0
+CreateFiberEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259e0
+CreateFile2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025300
+CreateFileA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025310
+CreateFileMappingA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001c470
+CreateFileMappingFromApp
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009f909
+CreateFileMappingNumaA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063450
+CreateFileMappingNumaW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b000
+CreateFileMappingW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d0a0
+CreateFileTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800628e0
+CreateFileTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800629a0
+CreateFileW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025320
+CreateHardLinkA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b020
+CreateHardLinkTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043ed0
+CreateHardLinkTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063520
+CreateHardLinkW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b040
+CreateIoCompletionPort
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e110
+CreateJobObjectA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005c930
+CreateJobObjectW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e9b0
+CreateJobSet
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005c9a0
+CreateMailslotA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001c620
+CreateMailslotW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001c690
+CreateMemoryResourceNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800210a0
+CreateMutexA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025130
+CreateMutexExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025140
+CreateMutexExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025150
+CreateMutexW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025160
+CreateNamedPipeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061dd0
+CreateNamedPipeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020a30
+CreatePipe
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020a10
+CreatePrivateNamespaceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180062460
+CreatePrivateNamespaceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020fc0
+CreateProcessA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001cf20
+CreateProcessAsUserA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003b060
+CreateProcessAsUserW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001e280
+CreateProcessInternalA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003b0e0
+CreateProcessInternalW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003b160
+CreateProcessW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001d320
+CreatePseudoConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a80
+CreateRemoteThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003b1e0
+CreateRemoteThreadEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009fbdb
+CreateSemaphoreA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001c540
+CreateSemaphoreExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c570
+CreateSemaphoreExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025170
+CreateSemaphoreW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025180
+CreateSymbolicLinkA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063af0
+CreateSymbolicLinkTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063bb0
+CreateSymbolicLinkTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063c70
+CreateSymbolicLinkW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b230
+CreateTapePartition
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043c10
+CreateThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001bd70
+CreateThreadpool
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800213f0
+CreateThreadpoolCleanupGroup
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021970
+CreateThreadpoolIo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021520
+CreateThreadpoolTimer
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001ce20
+CreateThreadpoolWait
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020f60
+CreateThreadpoolWork
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020d70
+CreateTimerQueue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021a00
+CreateTimerQueueTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ea60
+CreateToolhelp32Snapshot
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180028260
+CreateUmsCompletionList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042820
+CreateUmsThreadContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042860
+CreateWaitableTimerA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180063770
+CreateWaitableTimerExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063790
+CreateWaitableTimerExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025190
+CreateWaitableTimerW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800010b0
+CtrlRoutine
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009fe37
+DeactivateActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020860
+DeactivateActCtxWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c010
+DebugActiveProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b270
+DebugActiveProcessStop
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b250
+DebugBreak
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b290
+DebugBreakProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038360
+DebugSetProcessKillOnExit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038390
+DecodePointer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009fee5
+DecodeSystemPointer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009ff10
+DefineDosDeviceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065420
+DefineDosDeviceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025330
+DelayLoadFailureHook
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024ad0
+DeleteAtom
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012860
+DeleteBoundaryDescriptor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020fe0
+DeleteCriticalSection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x18009ff9e
+DeleteFiber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800259f0
+DeleteFileA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025340
+DeleteFileTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063d50
+DeleteFileTransactedW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180024930
+DeleteFileW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025350
+DeleteProcThreadAttributeList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a002b
+DeleteSynchronizationBarrier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b2b0
+DeleteTimerQueue
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800219b0
+DeleteTimerQueueEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021a20
+DeleteTimerQueueTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020be0
+DeleteUmsCompletionList
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800428a0
+DeleteUmsThreadContext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800428e0
+DeleteVolumeMountPointA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800656c0
+DeleteVolumeMountPointW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025360
+DequeueUmsCompletionListItems
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042920
+DeviceIoControl
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180015b70
+DisableThreadLibraryCalls
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020680
+DisableThreadProfiling
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800447f0
+DisassociateCurrentThreadFromCallback
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a01aa
+DiscardVirtualMemory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a01dc
+DisconnectNamedPipe
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022720
+DnsHostnameToComputerNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b8d0
+DnsHostnameToComputerNameExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b2d0
+DnsHostnameToComputerNameW
+----> Number of xrefs: 10
+----> in: Data_Offset
+----> to: 0x18001ccd0
+DosDateTimeToFileTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180012a90
+DosPathToSessionPathA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066ac0
+DosPathToSessionPathW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180066cc0
+DuplicateConsoleHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a0f0
+DuplicateEncryptionInfoFileExt
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038f00
+DuplicateHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250b0
+EnableThreadProfiling
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044830
+EncodePointer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0322
+EncodeSystemPointer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a034d
+EndUpdateResourceA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004a5b0
+EndUpdateResourceW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18004a5c0
+EnterCriticalSection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a03a5
+EnterSynchronizationBarrier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b2f0
+EnterUmsSchedulingMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042980
+EnumCalendarInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b9a0
+EnumCalendarInfoExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004ba40
+EnumCalendarInfoExEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cf00
+EnumCalendarInfoExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b310
+EnumCalendarInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b330
+EnumDateFormatsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bae0
+EnumDateFormatsExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bb40
+EnumDateFormatsExEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b350
+EnumDateFormatsExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b370
+EnumDateFormatsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b390
+EnumLanguageGroupLocalesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bbb0
+EnumLanguageGroupLocalesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b3b0
+EnumResourceLanguagesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039350
+EnumResourceLanguagesExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b3d0
+EnumResourceLanguagesExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b3f0
+EnumResourceLanguagesW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039390
+EnumResourceNamesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800393d0
+EnumResourceNamesExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b410
+EnumResourceNamesExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b430
+EnumResourceNamesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257d0
+EnumResourceTypesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039400
+EnumResourceTypesExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b450
+EnumResourceTypesExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b470
+EnumResourceTypesW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039430
+EnumSystemCodePagesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004bbe0
+EnumSystemCodePagesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b490
+EnumSystemFirmwareTables
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039130
+EnumSystemGeoID
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180054be0
+EnumSystemGeoNames
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180054cd0
+EnumSystemLanguageGroupsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004bc00
+EnumSystemLanguageGroupsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b4b0
+EnumSystemLocalesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b4d0
+EnumSystemLocalesEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b4f0
+EnumSystemLocalesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b510
+EnumTimeFormatsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bc20
+EnumTimeFormatsEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020c00
+EnumTimeFormatsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b530
+EnumUILanguagesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18004bca0
+EnumUILanguagesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b550
+EnumerateLocalComputerNamesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005b9c0
+EnumerateLocalComputerNamesW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005baf0
+EraseTape
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043c70
+EscapeCommFunction
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025870
+ExecuteUmsThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042a30
+ExitProcess
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001e860
+ExitThread
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0790
+ExitVDM
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800412f0
+ExpandEnvironmentStringsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022a10
+ExpandEnvironmentStringsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bf60
+ExpungeConsoleCommandHistoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e20
+ExpungeConsoleCommandHistoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e30
+FatalAppExitA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b570
+FatalAppExitW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b590
+FatalExit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001e860
+FileTimeToDosDateTime
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180012d30
+FileTimeToLocalFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025370
+FileTimeToSystemTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025810
+FillConsoleOutputAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ba0
+FillConsoleOutputCharacterA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025bb0
+FillConsoleOutputCharacterW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025bc0
+FindActCtxSectionGuid
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c450
+FindActCtxSectionGuidWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180012f90
+FindActCtxSectionStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066e50
+FindActCtxSectionStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800218c0
+FindActCtxSectionStringWWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800132b0
+FindAtomA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015820
+FindAtomW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012d10
+FindClose
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025380
+FindCloseChangeNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025390
+FindFirstChangeNotificationA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253a0
+FindFirstChangeNotificationW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253b0
+FindFirstFileA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253c0
+FindFirstFileExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253d0
+FindFirstFileExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253e0
+FindFirstFileNameTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038570
+FindFirstFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800253f0
+FindFirstFileTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038650
+FindFirstFileTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066ef0
+FindFirstFileW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025400
+FindFirstStreamTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038740
+FindFirstStreamW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0aa1
+FindFirstVolumeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065710
+FindFirstVolumeMountPointA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800658b0
+FindFirstVolumeMountPointW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180065aa0
+FindFirstVolumeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025410
+FindNLSString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b5b0
+FindNLSStringEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180015e10
+FindNextChangeNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025420
+FindNextFileA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025430
+FindNextFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025440
+FindNextFileW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180025450
+FindNextStreamW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0b9d
+FindNextVolumeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065d30
+FindNextVolumeMountPointA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065ed0
+FindNextVolumeMountPointW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800665c0
+FindNextVolumeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025460
+FindPackagesByPackageFamily
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0c39
+FindResourceA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180013530
+FindResourceExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180013550
+FindResourceExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bb50
+FindResourceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800209f0
+FindStringOrdinal
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b5d0
+FindVolumeClose
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025470
+FindVolumeMountPointClose
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800665d0
+FlsAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020990
+FlsFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800212d0
+FlsGetValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018cb0
+FlsSetValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ca90
+FlushConsoleInputBuffer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025bd0
+FlushFileBuffers
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025480
+FlushInstructionCache
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b650
+FlushProcessWriteBuffers
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0d59
+FlushViewOfFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b5f0
+FoldStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bcc0
+FoldStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b610
+FormatApplicationUserModelId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0dbf
+FormatMessageA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022840
+FormatMessageW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d050
+FreeConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a90
+FreeEnvironmentStringsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020560
+FreeEnvironmentStringsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fe70
+FreeLibrary
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cf90
+FreeLibraryAndExitThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800217f0
+FreeLibraryWhenCallbackReturns
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a0e85
+FreeMemoryJobObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18005c9d0
+FreeResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800225d0
+FreeUserPhysicalPages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b630
+GenerateConsoleCtrlEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025be0
+GetACP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e820
+GetActiveProcessorCount
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001dc70
+GetActiveProcessorGroupCount
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067090
+GetAppContainerAce
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b650
+GetAppContainerNamedObjectPath
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b670
+GetApplicationRecoveryCallback
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b690
+GetApplicationRecoveryCallbackWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044510
+GetApplicationRestartSettings
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b6b0
+GetApplicationRestartSettingsWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800445d0
+GetApplicationUserModelId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1009
+GetAtomNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a820
+GetAtomNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180012630
+GetBinaryType
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800615f0
+GetBinaryTypeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800615f0
+GetBinaryTypeW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180061640
+GetCPInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001eaa0
+GetCPInfoExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004bf70
+GetCPInfoExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b6d0
+GetCachedSigningLevel
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b6f0
+GetCalendarDateFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004aef0
+GetCalendarDateFormatEx
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800086b0
+GetCalendarDaysInMonth
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x1800073b0
+GetCalendarDifferenceInDays
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b1d0
+GetCalendarInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c050
+GetCalendarInfoEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025820
+GetCalendarInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025830
+GetCalendarMonthsInYear
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b330
+GetCalendarSupportedDateRange
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180007130
+GetCalendarWeekNumber
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b400
+GetComPlusPackageInstallStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044440
+GetCommConfig
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025880
+GetCommMask
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025890
+GetCommModemStatus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258a0
+GetCommProperties
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258b0
+GetCommState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258c0
+GetCommTimeouts
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258d0
+GetCommandLineA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020600
+GetCommandLineW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fb80
+GetCompressedFileSizeA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b710
+GetCompressedFileSizeTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063da0
+GetCompressedFileSizeTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063e00
+GetCompressedFileSizeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b730
+GetComputerNameA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001aad0
+GetComputerNameExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024a50
+GetComputerNameExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800209b0
+GetComputerNameW
+----> Number of xrefs: 7
+----> in: Data_Offset
+----> to: 0x18001ac30
+GetConsoleAliasA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e40
+GetConsoleAliasExesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e50
+GetConsoleAliasExesLengthA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e60
+GetConsoleAliasExesLengthW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e70
+GetConsoleAliasExesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e80
+GetConsoleAliasW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025e90
+GetConsoleAliasesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ea0
+GetConsoleAliasesLengthA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025eb0
+GetConsoleAliasesLengthW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ec0
+GetConsoleAliasesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ed0
+GetConsoleCP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025aa0
+GetConsoleCharType
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a720
+GetConsoleCommandHistoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ee0
+GetConsoleCommandHistoryLengthA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ef0
+GetConsoleCommandHistoryLengthW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f00
+GetConsoleCommandHistoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f10
+GetConsoleCursorInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025bf0
+GetConsoleCursorMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a790
+GetConsoleDisplayMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f20
+GetConsoleFontInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ab00
+GetConsoleFontSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f30
+GetConsoleHardwareState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a270
+GetConsoleHistoryInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f40
+GetConsoleInputExeNameA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a14fc
+GetConsoleInputExeNameW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1537
+GetConsoleInputWaitHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006a190
+GetConsoleKeyboardLayoutNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006abb0
+GetConsoleKeyboardLayoutNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18006abd0
+GetConsoleMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ab0
+GetConsoleNlsMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a810
+GetConsoleOriginalTitleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c00
+GetConsoleOriginalTitleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c10
+GetConsoleOutputCP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ac0
+GetConsoleProcessList
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f50
+GetConsoleScreenBufferInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c20
+GetConsoleScreenBufferInfoEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c30
+GetConsoleSelectionInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f60
+GetConsoleTitleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c40
+GetConsoleTitleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c50
+GetConsoleWindow
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f70
+GetCurrencyFormatA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c2b0
+GetCurrencyFormatEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b750
+GetCurrencyFormatW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b770
+GetCurrentActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022740
+GetCurrentActCtxWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001cea0
+GetCurrentApplicationUserModelId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1732
+GetCurrentConsoleFont
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f80
+GetCurrentConsoleFontEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025f90
+GetCurrentDirectoryA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021810
+GetCurrentDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800206f0
+GetCurrentPackageFamilyName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a17d2
+GetCurrentPackageFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1813
+GetCurrentPackageId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a184c
+GetCurrentPackageInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1881
+GetCurrentPackagePath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a18b8
+GetCurrentProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025040
+GetCurrentProcessId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025050
+GetCurrentProcessorNumber
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1919
+GetCurrentProcessorNumberEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1958
+GetCurrentThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015e80
+GetCurrentThreadId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015b30
+GetCurrentThreadStackLimits
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a19bd
+GetCurrentUmsThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042a70
+GetDateFormatA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b780
+GetDateFormatAWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022ab0
+GetDateFormatEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b7a0
+GetDateFormatW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020e60
+GetDateFormatWWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18000a790
+GetDefaultCommConfigA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003e470
+GetDefaultCommConfigW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003e520
+GetDevicePowerState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800679b0
+GetDiskFreeSpaceA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025490
+GetDiskFreeSpaceExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254a0
+GetDiskFreeSpaceExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254b0
+GetDiskFreeSpaceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254c0
+GetDiskSpaceInformationA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1b10
+GetDiskSpaceInformationW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a1b5e
+GetDllDirectoryA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039460
+GetDllDirectoryW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022640
+GetDriveTypeA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254d0
+GetDriveTypeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254e0
+GetDurationFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004cf70
+GetDurationFormatEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b7c0
+GetDynamicTimeZoneInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021700
+GetEnabledXStateFeatures
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b7e0
+GetEncryptedFileVersionExt
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180039000
+GetEnvironmentStrings
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020540
+GetEnvironmentStringsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025840
+GetEnvironmentStringsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fe50
+GetEnvironmentVariableA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001eb10
+GetEnvironmentVariableW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bdf0
+GetEraNameCountedString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b800
+GetErrorMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800229b0
+GetExitCodeProcess
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001d820
+GetExitCodeThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020180
+GetExpandedNameA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003d560
+GetExpandedNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d650
+GetFileAttributesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800254f0
+GetFileAttributesExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025500
+GetFileAttributesExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025510
+GetFileAttributesTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063ed0
+GetFileAttributesTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063f40
+GetFileAttributesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025520
+GetFileBandwidthReservation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038820
+GetFileInformationByHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025530
+GetFileInformationByHandleEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fe10
+GetFileMUIInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b820
+GetFileMUIPath
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020160
+GetFileSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025540
+GetFileSizeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025550
+GetFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025560
+GetFileType
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025570
+GetFinalPathNameByHandleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025580
+GetFinalPathNameByHandleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025590
+GetFirmwareEnvironmentVariableA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067a10
+GetFirmwareEnvironmentVariableExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180067a30
+GetFirmwareEnvironmentVariableExW
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800159d0
+GetFirmwareEnvironmentVariableW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067b60
+GetFirmwareType
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022fe0
+GetFullPathNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255a0
+GetFullPathNameTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038230
+GetFullPathNameTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067dd0
+GetFullPathNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255b0
+GetGeoInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c6b0
+GetGeoInfoEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180054e00
+GetGeoInfoW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180006020
+GetHandleInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250c0
+GetLargePageMinimum
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b840
+GetLargestConsoleWindowSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c60
+GetLastError
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800161d0
+GetLocalTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e7e0
+GetLocaleInfoA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021390
+GetLocaleInfoEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d300
+GetLocaleInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800205e0
+GetLogicalDriveStringsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800184d0
+GetLogicalDriveStringsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255c0
+GetLogicalDrives
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180018590
+GetLogicalProcessorInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021830
+GetLogicalProcessorInformationEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a20aa
+GetLongPathNameA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005a310
+GetLongPathNameTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180041390
+GetLongPathNameTransactedW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800619c0
+GetLongPathNameW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800068c0
+GetMailslotInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063600
+GetMaximumProcessorCount
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800670f0
+GetMaximumProcessorGroupCount
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180022f80
+GetMemoryErrorHandlingCapabilities
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b860
+GetModuleFileNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001f960
+GetModuleFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e6e0
+GetModuleHandleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001f870
+GetModuleHandleExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021750
+GetModuleHandleExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fdf0
+GetModuleHandleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d8f0
+GetNLSVersion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022950
+GetNLSVersionEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b880
+GetNamedPipeAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b8a0
+GetNamedPipeClientComputerNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061e80
+GetNamedPipeClientComputerNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b8c0
+GetNamedPipeClientProcessId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061fd0
+GetNamedPipeClientSessionId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800396e0
+GetNamedPipeHandleStateA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180062010
+GetNamedPipeHandleStateW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b8e0
+GetNamedPipeInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2309
+GetNamedPipeServerProcessId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800621a0
+GetNamedPipeServerSessionId
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039740
+GetNativeSystemInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020e40
+GetNextUmsListItem
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042ab0
+GetNextVDMCommand
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180041460
+GetNumaAvailableMemoryNode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039990
+GetNumaAvailableMemoryNodeEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180068370
+GetNumaHighestNodeNumber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021020
+GetNumaNodeNumberFromHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800399a0
+GetNumaNodeProcessorMask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180068400
+GetNumaNodeProcessorMaskEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b900
+GetNumaProcessorNode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039a00
+GetNumaProcessorNodeEx
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180068480
+GetNumaProximityNode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039a70
+GetNumaProximityNodeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b920
+GetNumberFormatA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001b6b0
+GetNumberFormatEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021d80
+GetNumberFormatW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001060
+GetNumberOfConsoleFonts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ac80
+GetNumberOfConsoleInputEvents
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ad0
+GetNumberOfConsoleMouseButtons
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025fa0
+GetOEMCP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021a80
+GetOverlappedResult
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ce80
+GetOverlappedResultEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2561
+GetPackageApplicationIds
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a25aa
+GetPackageFamilyName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a25e3
+GetPackageFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2616
+GetPackageId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2641
+GetPackageInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2668
+GetPackagePath
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2691
+GetPackagePathByFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a26c4
+GetPackagesByPackageFamily
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2703
+GetPhysicallyInstalledSystemMemory
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001270
+GetPriorityClass
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021880
+GetPrivateProfileIntA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180015950
+GetPrivateProfileIntW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800131b0
+GetPrivateProfileSectionA
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180023940
+GetPrivateProfileSectionNamesA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180060cb0
+GetPrivateProfileSectionNamesW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180060ce0
+GetPrivateProfileSectionW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180021490
+GetPrivateProfileStringA
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180015840
+GetPrivateProfileStringW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180012360
+GetPrivateProfileStructA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180060d10
+GetPrivateProfileStructW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180060eb0
+GetProcAddress
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b690
+GetProcessAffinityMask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001c8d0
+GetProcessDEPPolicy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003a6a0
+GetProcessDefaultCpuSets
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a28b2
+GetProcessGroupAffinity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b940
+GetProcessHandleCount
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b960
+GetProcessHeap
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016190
+GetProcessHeaps
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b980
+GetProcessId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d790
+GetProcessIdOfThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020fa0
+GetProcessInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025060
+GetProcessIoCounters
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020580
+GetProcessMitigationPolicy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a29a6
+GetProcessPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024630
+GetProcessPriorityBoost
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b9a0
+GetProcessShutdownParameters
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b9c0
+GetProcessTimes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b2a0
+GetProcessVersion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022860
+GetProcessWorkingSetSize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044690
+GetProcessWorkingSetSizeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003b9e0
+GetProcessorSystemCycleTime
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2aad
+GetProductInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021910
+GetProfileIntA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800159c0
+GetProfileIntW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180013520
+GetProfileSectionA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180061060
+GetProfileSectionW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180061070
+GetProfileStringA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061080
+GetProfileStringW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800610b0
+GetQueuedCompletionStatus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800163b0
+GetQueuedCompletionStatusEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba00
+GetShortPathNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061a90
+GetShortPathNameW
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180006400
+GetStagedPackagePathByFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2bd8
+GetStartupInfoA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022120
+GetStartupInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dff0
+GetStateFolder
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2c31
+GetStdHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dc50
+GetStringScripts
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba20
+GetStringTypeA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba40
+GetStringTypeExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba40
+GetStringTypeExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022e30
+GetStringTypeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001eaf0
+GetSystemAppDataKey
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2cbd
+GetSystemCpuSetInformation
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2cf7
+GetSystemDEPPolicy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003a6f0
+GetSystemDefaultLCID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021470
+GetSystemDefaultLangID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800217b0
+GetSystemDefaultLocaleName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001100
+GetSystemDefaultUILanguage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020e20
+GetSystemDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dba0
+GetSystemDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b5d0
+GetSystemFileCacheSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba60
+GetSystemFirmwareTable
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039150
+GetSystemInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e370
+GetSystemPowerStatus
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180018390
+GetSystemPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021b00
+GetSystemRegistryQuota
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003a730
+GetSystemTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bd50
+GetSystemTimeAdjustment
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020f00
+GetSystemTimeAsFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018350
+GetSystemTimePreciseAsFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025800
+GetSystemTimes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020450
+GetSystemWindowsDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba80
+GetSystemWindowsDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180009110
+GetSystemWow64DirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025970
+GetSystemWow64DirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025980
+GetTapeParameters
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180068650
+GetTapePosition
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043cb0
+GetTapeStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043d40
+GetTempFileNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255d0
+GetTempFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255e0
+GetTempPathA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800255f0
+GetTempPathW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025600
+GetThreadContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020d30
+GetThreadDescription
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a2fc1
+GetThreadErrorMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ba90
+GetThreadGroupAffinity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bab0
+GetThreadIOPendingFlag
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bad0
+GetThreadId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800213d0
+GetThreadIdealProcessorEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003baf0
+GetThreadInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025070
+GetThreadLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001a8c0
+GetThreadPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d870
+GetThreadPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c040
+GetThreadPriorityBoost
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bb10
+GetThreadSelectedCpuSets
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a30e8
+GetThreadSelectorEntry
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800686b0
+GetThreadTimes
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016210
+GetThreadUILanguage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024af0
+GetTickCount
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015c20
+GetTickCount64
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016310
+GetTimeFormatA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bb30
+GetTimeFormatAWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180024650
+GetTimeFormatEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bb50
+GetTimeFormatW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001f980
+GetTimeFormatWWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180009a80
+GetTimeZoneInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800210c0
+GetTimeZoneInformationForYear
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001070
+GetUILanguageInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bb70
+GetUmsCompletionListEvent
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042af0
+GetUmsSystemThreadInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042b30
+GetUserDefaultGeoName
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180054f60
+GetUserDefaultLCID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020360
+GetUserDefaultLangID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bb90
+GetUserDefaultLocaleName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001eb30
+GetUserDefaultUILanguage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800212f0
+GetUserGeoID
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001f9a0
+GetUserPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020d50
+GetVDMCurrentDirectories
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180041e20
+GetVersion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800217d0
+GetVersionExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020bc0
+GetVersionExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020140
+GetVolumeInformationA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025610
+GetVolumeInformationByHandleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025620
+GetVolumeInformationW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025630
+GetVolumeNameForVolumeMountPointA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180024790
+GetVolumeNameForVolumeMountPointW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025030
+GetVolumePathNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066650
+GetVolumePathNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025640
+GetVolumePathNamesForVolumeNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066830
+GetVolumePathNamesForVolumeNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025650
+GetWindowsDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800229f0
+GetWindowsDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180023080
+GetWriteWatch
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800161b0
+GetXStateFeaturesMask
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bbb0
+GlobalAddAtomA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012660
+GlobalAddAtomExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18005a850
+GlobalAddAtomExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180013190
+GlobalAddAtomW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012910
+GlobalAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800185e0
+GlobalCompact
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039170
+GlobalDeleteAtom
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012850
+GlobalFindAtomA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18005a870
+GlobalFindAtomW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180012e00
+GlobalFix
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039190
+GlobalFlags
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800201d0
+GlobalFree
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180016130
+GlobalGetAtomNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a890
+GlobalGetAtomNameW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180012680
+GlobalHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800208b0
+GlobalLock
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x180015f70
+GlobalMemoryStatus
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001d0c0
+GlobalMemoryStatusEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020cf0
+GlobalReAlloc
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180017190
+GlobalSize
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180018600
+GlobalUnWire
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800391b0
+GlobalUnfix
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800391c0
+GlobalUnlock
+----> Number of xrefs: 25
+----> in: Data_Offset
+----> to: 0x180015e90
+GlobalWire
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800391e0
+Heap32First
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064860
+Heap32ListFirst
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064b00
+Heap32ListNext
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064c00
+Heap32Next
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064d00
+HeapAlloc
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a360d
+HeapCompact
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bbd0
+HeapCreate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020710
+HeapDestroy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021a60
+HeapFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015b50
+HeapLock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bbf0
+HeapQueryInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bc10
+HeapReAlloc
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3679
+HeapSetInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020ba0
+HeapSize
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a36ad
+HeapSummary
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bc30
+HeapUnlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bc50
+HeapValidate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c8b0
+HeapWalk
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bc70
+IdnToAscii
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180001090
+IdnToNameprepUnicode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bc90
+IdnToUnicode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bcb0
+InitAtomTable
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005a8c0
+InitOnceBeginInitialize
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a373f
+InitOnceComplete
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3785
+InitOnceExecuteOnce
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a37c7
+InitOnceInitialize
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a380b
+InitializeConditionVariable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3842
+InitializeContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bcf0
+InitializeContext2
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bcd0
+InitializeCriticalSection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a38a6
+InitializeCriticalSectionAndSpinCount
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251a0
+InitializeCriticalSectionEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251b0
+InitializeEnclave
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a391d
+InitializeProcThreadAttributeList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3970
+InitializeSListHead
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a39cc
+InitializeSRWLock
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a39fb
+InitializeSynchronizationBarrier
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bd10
+InstallELAMCertificateInfo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3a52
+InterlockedFlushSList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3aa2
+InterlockedPopEntrySList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3ada
+InterlockedPushEntrySList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3b16
+InterlockedPushListSList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3b52
+InterlockedPushListSListEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3b8f
+InvalidateConsoleDIBits
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ada0
+IsBadCodePtr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003a7c0
+IsBadHugeReadPtr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003a7d0
+IsBadHugeWritePtr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003a7e0
+IsBadReadPtr
+----> Number of xrefs: 9
+----> in: Data_Offset
+----> to: 0x180016080
+IsBadStringPtrA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003a7f0
+IsBadStringPtrW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003a840
+IsBadWritePtr
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x1800671b0
+IsCalendarLeapDay
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b700
+IsCalendarLeapMonth
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b7e0
+IsCalendarLeapYear
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004b8d0
+IsDBCSLeadByte
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022100
+IsDBCSLeadByteEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bd30
+IsDebuggerPresent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020970
+IsEnclaveTypeSupported
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3cb8
+IsNLSDefinedString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bd50
+IsNativeVhdBoot
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180037ff0
+IsNormalizedString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bd70
+IsProcessCritical
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3d36
+IsProcessInJob
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021080
+IsProcessorFeaturePresent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e300
+IsSystemResumeAutomatic
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039cc0
+IsThreadAFiber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d8b0
+IsThreadpoolTimerSet
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3dd3
+IsUserCetAvailableInEnvironment
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3e06
+IsValidCalDateTime
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x1800082b0
+IsValidCodePage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020430
+IsValidLanguageGroup
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bd90
+IsValidLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020660
+IsValidLocaleName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bdb0
+IsValidNLSVersion
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bdd0
+IsWow64GuestMachineSupported
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3ecc
+IsWow64Process
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fe30
+IsWow64Process2
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a3f25
+K32EmptyWorkingSet
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bdf0
+K32EnumDeviceDrivers
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003be10
+K32EnumPageFilesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003be30
+K32EnumPageFilesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003be50
+K32EnumProcessModules
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800218a0
+K32EnumProcessModulesEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003be70
+K32EnumProcesses
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003be90
+K32GetDeviceDriverBaseNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003beb0
+K32GetDeviceDriverBaseNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bed0
+K32GetDeviceDriverFileNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bef0
+K32GetDeviceDriverFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bf10
+K32GetMappedFileNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bf30
+K32GetMappedFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bf50
+K32GetModuleBaseNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bf70
+K32GetModuleBaseNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bf90
+K32GetModuleFileNameExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bfb0
+K32GetModuleFileNameExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024ab0
+K32GetModuleInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001f890
+K32GetPerformanceInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bfd0
+K32GetProcessImageFileNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003bff0
+K32GetProcessImageFileNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020820
+K32GetProcessMemoryInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c010
+K32GetWsChanges
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c050
+K32GetWsChangesEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c030
+K32InitializeProcessForWsWatch
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c070
+K32QueryWorkingSet
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c0b0
+K32QueryWorkingSetEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c090
+LCIDToLocaleName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020e00
+LCMapStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c0d0
+LCMapStringEx
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800162b0
+LCMapStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018c70
+LZClose
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d780
+LZCloseFile
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d840
+LZCopy
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180038120
+LZCreateFileW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d910
+LZDone
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180038220
+LZInit
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18003da50
+LZOpenFileA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003dc00
+LZOpenFileW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003dcf0
+LZRead
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003ddb0
+LZSeek
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003e020
+LZStart
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+LeaveCriticalSection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a426f
+LeaveCriticalSectionWhenCallbackReturns
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a42b5
+LoadAppInitDlls
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180018760
+LoadEnclaveData
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4306
+LoadLibraryA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020cb0
+LoadLibraryExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020380
+LoadLibraryExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001b590
+LoadLibraryW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800206a0
+LoadModule
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067240
+LoadPackagedLibrary
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257e0
+LoadResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bb30
+LoadStringBaseExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c0f0
+LoadStringBaseW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039320
+LocalAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018c90
+LocalCompact
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039170
+LocalFileTimeToFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025660
+LocalFileTimeToLocalSystemTime
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a440a
+LocalFlags
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800686d0
+LocalFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018330
+LocalHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039220
+LocalLock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c110
+LocalReAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020520
+LocalShrink
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180039170
+LocalSize
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001bbf0
+LocalSystemTimeToLocalFileTime
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a44b6
+LocalUnlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c130
+LocaleNameToLCID
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e840
+LocateXStateFeature
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c150
+LockFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025670
+LockFileEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025680
+LockResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bb90
+MapUserPhysicalPages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c170
+MapUserPhysicalPagesScatter
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800446c0
+MapViewOfFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dfb0
+MapViewOfFileEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d1b0
+MapViewOfFileExNuma
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c190
+MapViewOfFileFromApp
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a45bf
+Module32First
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064fb0
+Module32FirstW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001e390
+Module32Next
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800650f0
+Module32NextW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001a770
+MoveFileA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064020
+MoveFileExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064050
+MoveFileExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021450
+MoveFileTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064080
+MoveFileTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180024570
+MoveFileW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180023050
+MoveFileWithProgressA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064160
+MoveFileWithProgressW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c1b0
+MulDiv
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257c0
+MultiByteToWideChar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015df0
+NeedCurrentDirectoryForExePathA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c1d0
+NeedCurrentDirectoryForExePathW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c1f0
+NlsCheckPolicy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a10
+NlsGetCacheUpdateCount
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a20
+NlsUpdateLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a30
+NlsUpdateSystemLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a40
+NormalizeString
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c210
+NotifyMountMgr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c230
+NotifyUILanguageChange
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004eab0
+NtVdm64CreateProcessInternalW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003a8a0
+OOBEComplete
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001f240
+OfferVirtualMemory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a47c5
+OpenConsoleW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18006a1b0
+OpenConsoleWStub
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c250
+OpenEventA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251c0
+OpenEventW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251d0
+OpenFile
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180062b50
+OpenFileById
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c260
+OpenFileMappingA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021dd0
+OpenFileMappingW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020ee0
+OpenJobObjectA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005c9e0
+OpenJobObjectW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005ca60
+OpenMutexA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c7e0
+OpenMutexW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251e0
+OpenPackageInfoByFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a48b0
+OpenPrivateNamespaceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800624e0
+OpenPrivateNamespaceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022a50
+OpenProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b5b0
+OpenProcessToken
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a491e
+OpenProfileUserMapping
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+OpenSemaphoreA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063820
+OpenSemaphoreW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800251f0
+OpenState
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4994
+OpenStateExplicit
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a49bb
+OpenThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d010
+OpenThreadToken
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a49f3
+OpenWaitableTimerA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180063890
+OpenWaitableTimerW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025200
+OutputDebugStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024a90
+OutputDebugStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d8d0
+PackageFamilyNameFromFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4a93
+PackageFamilyNameFromId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4ad4
+PackageFullNameFromId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4b0d
+PackageIdFromFullName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4b44
+PackageNameAndPublisherIdFromFamilyName
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4b8d
+ParseApplicationUserModelId
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4bdc
+PeekConsoleInputA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ae0
+PeekConsoleInputW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025af0
+PeekNamedPipe
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c280
+PostQueuedCompletionStatus
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bb70
+PowerClearRequest
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180020490
+PowerCreateRequest
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001f5c0
+PowerSetRequest
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800203a0
+PrefetchVirtualMemory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4c9b
+PrepareTape
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043d70
+PrivCopyFileExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022df0
+PrivMoveFileIdentityW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064270
+Process32First
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065220
+Process32FirstW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180022e50
+Process32Next
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180065320
+Process32NextW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180022bf0
+ProcessIdToSessionId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cfb0
+PssCaptureSnapshot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c2a0
+PssDuplicateSnapshot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c2c0
+PssFreeSnapshot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c2e0
+PssQuerySnapshot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c300
+PssWalkMarkerCreate
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c320
+PssWalkMarkerFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c340
+PssWalkMarkerGetPosition
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c360
+PssWalkMarkerRewind
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c380
+PssWalkMarkerSeek
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c3a0
+PssWalkMarkerSeekToBeginning
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c380
+PssWalkMarkerSetPosition
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c3a0
+PssWalkMarkerTell
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c360
+PssWalkSnapshot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c3c0
+PulseEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ca70
+PurgeComm
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258e0
+QueryActCtxSettingsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c3e0
+QueryActCtxSettingsWWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180012b70
+QueryActCtxW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e760
+QueryActCtxWWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800124d0
+QueryDepthSList
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a4ecd
+QueryDosDeviceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800654c0
+QueryDosDeviceW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025690
+QueryFullProcessImageNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c400
+QueryFullProcessImageNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d030
+QueryIdleProcessorCycleTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800226c0
+QueryIdleProcessorCycleTimeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c420
+QueryInformationJobObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e010
+QueryIoRateControlInformationJobObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005cb30
+QueryMemoryResourceNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c440
+QueryPerformanceCounter
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800161f0
+QueryPerformanceFrequency
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b670
+QueryProcessAffinityUpdateMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c460
+QueryProcessCycleTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800226e0
+QueryProtectedPolicy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5053
+QueryThreadCycleTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800010e0
+QueryThreadProfiling
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044870
+QueryThreadpoolStackInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c480
+QueryUmsThreadInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042bb0
+QueryUnbiasedInterruptTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d890
+QueueUserAPC
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e8a0
+QueueUserWorkItem
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021770
+QuirkGetData2Worker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071690
+QuirkGetDataWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071760
+QuirkIsEnabled2Worker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071820
+QuirkIsEnabled3Worker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180016340
+QuirkIsEnabledForPackage2Worker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180071970
+QuirkIsEnabledForPackage3Worker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009c60
+QuirkIsEnabledForPackage4Worker
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180009dd0
+QuirkIsEnabledForPackageWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180009060
+QuirkIsEnabledForProcessWorker
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001fba0
+QuirkIsEnabledWorker
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180009120
+RaiseException
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020470
+RaiseFailFastException
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5258
+RaiseInvalid16BitExeError
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003aab0
+ReOpenFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c4c0
+ReadConsoleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b00
+ReadConsoleInputA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b10
+ReadConsoleInputExA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a52d2
+ReadConsoleInputExW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5305
+ReadConsoleInputW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b20
+ReadConsoleOutputA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c70
+ReadConsoleOutputAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c80
+ReadConsoleOutputCharacterA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025c90
+ReadConsoleOutputCharacterW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ca0
+ReadConsoleOutputW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025cb0
+ReadConsoleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b30
+ReadDirectoryChangesExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c4e0
+ReadDirectoryChangesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024a70
+ReadFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256a0
+ReadFileEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256b0
+ReadFileScatter
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256c0
+ReadProcessMemory
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001ccb0
+ReadThreadProfilingData
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800448b0
+ReclaimVirtualMemory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a544d
+RegCloseKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800249e0
+RegCopyTreeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c500
+RegCreateKeyExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c520
+RegCreateKeyExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c540
+RegDeleteKeyExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c560
+RegDeleteKeyExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c580
+RegDeleteTreeA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c5a0
+RegDeleteTreeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c5c0
+RegDeleteValueA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c5e0
+RegDeleteValueW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c600
+RegDisablePredefinedCacheEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c620
+RegEnumKeyExA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c640
+RegEnumKeyExW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c690
+RegEnumValueA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c6e0
+RegEnumValueW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c730
+RegFlushKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c780
+RegGetKeySecurity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c7a0
+RegGetValueA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c7c0
+RegGetValueW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800225b0
+RegLoadKeyA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c7e0
+RegLoadKeyW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c800
+RegLoadMUIStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c820
+RegLoadMUIStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c840
+RegNotifyChangeKeyValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c860
+RegOpenCurrentUser
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022a90
+RegOpenKeyExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c880
+RegOpenKeyExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800211c0
+RegOpenUserClassesRoot
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022a70
+RegQueryInfoKeyA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c8a0
+RegQueryInfoKeyW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003c920
+RegQueryValueExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c9a0
+RegQueryValueExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c9c0
+RegRestoreKeyA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003c9e0
+RegRestoreKeyW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ca00
+RegSaveKeyExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ca20
+RegSaveKeyExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ca40
+RegSetKeySecurity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ca60
+RegSetValueExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ca80
+RegSetValueExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003caa0
+RegUnLoadKeyA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cac0
+RegUnLoadKeyW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cae0
+RegisterApplicationRecoveryCallback
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021e50
+RegisterApplicationRestart
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021ae0
+RegisterBadMemoryNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cb00
+RegisterConsoleIME
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a880
+RegisterConsoleOS2
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a8b0
+RegisterConsoleVDM
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a2f0
+RegisterWaitForInputIdle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800201a0
+RegisterWaitForSingleObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180015ab0
+RegisterWaitForSingleObjectEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cb20
+RegisterWaitUntilOOBECompleted
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001f180
+RegisterWowBaseHandlers
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800391f0
+RegisterWowExec
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800423b0
+ReleaseActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800219e0
+ReleaseActCtxWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dfd0
+ReleaseMutex
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025210
+ReleaseMutexWhenCallbackReturns
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5886
+ReleaseSRWLockExclusive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a58c7
+ReleaseSRWLockShared
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a58fd
+ReleaseSemaphore
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025220
+ReleaseSemaphoreWhenCallbackReturns
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5950
+RemoveDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256d0
+RemoveDirectoryTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038520
+RemoveDirectoryTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180063390
+RemoveDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256e0
+RemoveDllDirectory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a59e8
+RemoveLocalAlternateComputerNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005bd10
+RemoveLocalAlternateComputerNameW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18005bd70
+RemoveSecureMemoryCacheCallback
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039200
+RemoveVectoredContinueHandler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5aa2
+RemoveVectoredExceptionHandler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5ae8
+ReplaceFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cb40
+ReplaceFileA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800630d0
+ReplaceFileW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cb40
+ReplacePartitionUnit
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003ac60
+RequestDeviceWakeup
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ca0
+RequestWakeupLatency
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ca0
+ResetEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025230
+ResetWriteWatch
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018310
+ResizePseudoConsole
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b40
+ResolveDelayLoadedAPI
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5bb9
+ResolveDelayLoadsFromDll
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5bf1
+ResolveLocaleName
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800211a0
+RestoreLastError
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5c36
+ResumeThread
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001e880
+RtlAddFunctionTable
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021b60
+RtlCaptureContext
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180024e80
+RtlCaptureStackBackTrace
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800225f0
+RtlCompareMemory
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cb60
+RtlCopyMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003cb80
+RtlDeleteFunctionTable
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cba0
+RtlFillMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003cbc0
+RtlInstallFunctionTableCallback
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cbf0
+RtlLookupFunctionEntry
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001dab0
+RtlMoveMemory
+----> Number of xrefs: 69
+----> in: Data_Offset
+----> to: 0x180024eb0
+RtlPcToFileHeader
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001db80
+RtlRaiseException
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cc10
+RtlRestoreContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cc30
+RtlUnwind
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cc50
+RtlUnwindEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800201b0
+RtlVirtualUnwind
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180001010
+RtlZeroMemory
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5d95
+ScrollConsoleScreenBufferA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025cc0
+ScrollConsoleScreenBufferW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025cd0
+SearchPathA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cc70
+SearchPathW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022990
+SetCachedSigningLevel
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cc90
+SetCalendarInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c780
+SetCalendarInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ccb0
+SetComPlusPackageInstallStatus
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044490
+SetCommBreak
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800258f0
+SetCommConfig
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025900
+SetCommMask
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025910
+SetCommState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025920
+SetCommTimeouts
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025930
+SetComputerNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ccd0
+SetComputerNameEx2W
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ccf0
+SetComputerNameExA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cd10
+SetComputerNameExW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cd30
+SetComputerNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cd50
+SetConsoleActiveScreenBuffer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ce0
+SetConsoleCP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025cf0
+SetConsoleCtrlHandler
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b50
+SetConsoleCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a3a0
+SetConsoleCursorInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d00
+SetConsoleCursorMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a910
+SetConsoleCursorPosition
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d10
+SetConsoleDisplayMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025fb0
+SetConsoleFont
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ace0
+SetConsoleHardwareState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a400
+SetConsoleHistoryInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025fc0
+SetConsoleIcon
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ad40
+SetConsoleInputExeNameA
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a5ffc
+SetConsoleInputExeNameW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6037
+SetConsoleKeyShortcuts
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a460
+SetConsoleLocalEUDC
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a980
+SetConsoleMaximumWindowSize
+----> Number of xrefs: 12
+----> in: Data_Offset
+----> to: 0x180021ba0
+SetConsoleMenuClose
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a4f0
+SetConsoleMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b60
+SetConsoleNlsMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006aa40
+SetConsoleNumberOfCommandsA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025fd0
+SetConsoleNumberOfCommandsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025fe0
+SetConsoleOS2OemFormat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006aaa0
+SetConsoleOutputCP
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d20
+SetConsolePalette
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a550
+SetConsoleScreenBufferInfoEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d30
+SetConsoleScreenBufferSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d40
+SetConsoleTextAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d50
+SetConsoleTitleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d60
+SetConsoleTitleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d70
+SetConsoleWindowInfo
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d80
+SetCriticalSectionSpinCount
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a61ed
+SetCurrentConsoleFontEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025ff0
+SetCurrentDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cd70
+SetCurrentDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021b20
+SetDefaultCommConfigA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003ec10
+SetDefaultCommConfigW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18003ecc0
+SetDefaultDllDirectories
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6299
+SetDllDirectoryA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066fe0
+SetDllDirectoryW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021220
+SetDynamicTimeZoneInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cd90
+SetEndOfFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800256f0
+SetEnvironmentStringsA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800688d0
+SetEnvironmentStringsW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cdb0
+SetEnvironmentVariableA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e800
+SetEnvironmentVariableW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021180
+SetErrorMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cfd0
+SetEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025240
+SetEventWhenCallbackReturns
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a63b4
+SetFileApisToANSI
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cdd0
+SetFileApisToOEM
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cdf0
+SetFileAttributesA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025700
+SetFileAttributesTransactedA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180064730
+SetFileAttributesTransactedW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180064790
+SetFileAttributesW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025710
+SetFileBandwidthReservation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800388d0
+SetFileCompletionNotificationModes
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e700
+SetFileInformationByHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025720
+SetFileIoOverlappedRange
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ce10
+SetFilePointer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025730
+SetFilePointerEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025740
+SetFileShortNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038a10
+SetFileShortNameW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180038a60
+SetFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025750
+SetFileValidData
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025760
+SetFirmwareEnvironmentVariableA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067b80
+SetFirmwareEnvironmentVariableExA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180067ba0
+SetFirmwareEnvironmentVariableExW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180067cd0
+SetFirmwareEnvironmentVariableW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067db0
+SetHandleCount
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021aa0
+SetHandleInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800250d0
+SetInformationJobObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001dec0
+SetIoRateControlInformationJobObject
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005ceb0
+SetLastConsoleEventActive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a662f
+SetLastError
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016290
+SetLocalPrimaryComputerNameA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18005bfc0
+SetLocalPrimaryComputerNameW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18005c020
+SetLocalTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ce30
+SetLocaleInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004c870
+SetLocaleInfoW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ce50
+SetMailslotInfo
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800636f0
+SetMessageWaitingIndicator
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ca0
+SetNamedPipeAttribute
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039780
+SetNamedPipeHandleState
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022700
+SetPriorityClass
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021310
+SetProcessAffinityMask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067780
+SetProcessAffinityUpdateMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800249c0
+SetProcessDEPPolicy
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180022910
+SetProcessDefaultCpuSets
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6791
+SetProcessDynamicEHContinuationTargets
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a67f7
+SetProcessDynamicEnforcedCetCompatibleRanges
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6871
+SetProcessInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025080
+SetProcessMitigationPolicy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a68f5
+SetProcessPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ce70
+SetProcessPriorityBoost
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021b40
+SetProcessShutdownParameters
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020ec0
+SetProcessWorkingSetSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800446f0
+SetProcessWorkingSetSizeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ce90
+SetProtectedPolicy
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a69d1
+SetSearchPathMode
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180039620
+SetStdHandle
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800209d0
+SetStdHandleEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ceb0
+SetSystemFileCacheSize
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003ced0
+SetSystemPowerState
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039ce0
+SetSystemTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cef0
+SetSystemTimeAdjustment
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038310
+SetTapeParameters
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043db0
+SetTapePosition
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043e00
+SetTermsrvAppInstallMode
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180068eb0
+SetThreadAffinityMask
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001f8b0
+SetThreadContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cf10
+SetThreadDescription
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6b00
+SetThreadErrorMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c2a0
+SetThreadExecutionState
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800211e0
+SetThreadGroupAffinity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021330
+SetThreadIdealProcessor
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024500
+SetThreadIdealProcessorEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cf30
+SetThreadInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025090
+SetThreadLocale
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001a8e0
+SetThreadPreferredUILanguages
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e130
+SetThreadPriority
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bdc0
+SetThreadPriorityBoost
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021bb0
+SetThreadSelectedCpuSets
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6c34
+SetThreadStackGuarantee
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001eb50
+SetThreadToken
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6c9a
+SetThreadUILanguage
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cdd0
+SetThreadpoolStackInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003cf50
+SetThreadpoolThreadMaximum
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6d1c
+SetThreadpoolThreadMinimum
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800218e0
+SetThreadpoolTimer
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6d64
+SetThreadpoolTimerEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6d8a
+SetThreadpoolWait
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6daf
+SetThreadpoolWaitEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6dd3
+SetTimeZoneInformation
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cf90
+SetTimerQueueTimer
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044750
+SetUmsThreadInformation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042c00
+SetUnhandledExceptionFilter
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800205c0
+SetUserGeoID
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180055130
+SetUserGeoName
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180055150
+SetVDMCurrentDirectories
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042420
+SetVolumeLabelA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180067ec0
+SetVolumeLabelW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180067f70
+SetVolumeMountPointA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180066a40
+SetVolumeMountPointW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180023b80
+SetVolumeMountPointWStub
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cfb0
+SetWaitableTimer
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025250
+SetWaitableTimerEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6eff
+SetXStateFeaturesMask
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cfc0
+SetupComm
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025940
+ShowConsoleCursor
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a5c0
+SignalObjectAndWait
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003cfe0
+SizeofResource
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bbb0
+Sleep
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b570
+SleepConditionVariableCS
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6fa3
+SleepConditionVariableSRW
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a6ff3
+SleepEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025260
+SortCloseHandle
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180020620
+SortGetHandle
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18000a190
+StartThreadpoolIo
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7062
+SubmitThreadpoolWork
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7095
+SuspendThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020f40
+SwitchToFiber
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025a00
+SwitchToThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bbd0
+SystemTimeToFileTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001fe90
+SystemTimeToTzSpecificLocalTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022970
+SystemTimeToTzSpecificLocalTimeEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7128
+TerminateJobObject
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021850
+TerminateProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020f20
+TerminateThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d000
+TermsrvAppInstallMode
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022e10
+TermsrvConvertSysRootToUserDir
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180069270
+TermsrvCreateRegEntry
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001db60
+TermsrvDeleteKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e7a0
+TermsrvDeleteValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e780
+TermsrvGetPreSetValue
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18001bf10
+TermsrvGetWindowsDirectoryA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800228f0
+TermsrvGetWindowsDirectoryW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cee0
+TermsrvOpenRegEntry
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180017170
+TermsrvOpenUserClasses
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001db20
+TermsrvRestoreKey
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180069ec0
+TermsrvSetKeySecurity
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c2c0
+TermsrvSetValueKey
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001c280
+TermsrvSyncUserIniFileExt
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180069ee0
+Thread32First
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022760
+Thread32Next
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021c80
+TlsAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cff0
+TlsFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001db40
+TlsGetValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180015b20
+TlsSetValue
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016170
+Toolhelp32ReadProcessMemory
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18003d430
+TransactNamedPipe
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d020
+TransmitCommChar
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025950
+TryAcquireSRWLockExclusive
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7379
+TryAcquireSRWLockShared
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a73b5
+TryEnterCriticalSection
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a73ee
+TrySubmitThreadpoolCallback
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180021ab0
+TzSpecificLocalTimeToSystemTime
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d040
+TzSpecificLocalTimeToSystemTimeEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a746d
+UTRegister
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180039650
+UTUnRegister
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180038220
+UmsThreadYield
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180042c40
+UnhandledExceptionFilter
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d060
+UnlockFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025770
+UnlockFileEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025780
+UnmapViewOfFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001e7c0
+UnmapViewOfFileEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7529
+UnregisterApplicationRecoveryCallback
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800445e0
+UnregisterApplicationRestart
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d080
+UnregisterBadMemoryNotification
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d0a0
+UnregisterConsoleIME
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a880
+UnregisterWait
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180013770
+UnregisterWaitEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021930
+UnregisterWaitUntilOOBECompleted
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180068860
+UpdateCalendarDayOfWeek
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x180008230
+UpdateProcThreadAttribute
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7644
+UpdateResourceA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18004a900
+UpdateResourceW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18004aab0
+VDMConsoleOperation
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006ae00
+VDMOperationStarted
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800426f0
+VerLanguageNameA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021b80
+VerLanguageNameW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020cd0
+VerSetConditionMask
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7702
+VerifyConsoleIoHandle
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x180021720
+VerifyScripts
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d0c0
+VerifyVersionInfoA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180022d40
+VerifyVersionInfoW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180018c20
+VirtualAlloc
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018cd0
+VirtualAllocEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d0e0
+VirtualAllocExNuma
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024a00
+VirtualFree
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001a900
+VirtualFreeEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d100
+VirtualLock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180024b10
+VirtualProtect
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c430
+VirtualProtectEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d120
+VirtualQuery
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001c960
+VirtualQueryEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d7b0
+VirtualUnlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cdb0
+WTSGetActiveConsoleSessionId
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020c60
+WaitCommEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025960
+WaitForDebugEvent
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d140
+WaitForDebugEventEx
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7856
+WaitForMultipleObjects
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025270
+WaitForMultipleObjectsEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025280
+WaitForSingleObject
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025290
+WaitForSingleObjectEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800252a0
+WaitForThreadpoolIoCallbacks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a78fe
+WaitForThreadpoolTimerCallbacks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a793a
+WaitForThreadpoolWaitCallbacks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a796e
+WaitForThreadpoolWorkCallbacks
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a79a1
+WaitNamedPipeA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800621e0
+WaitNamedPipeW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d160
+WakeAllConditionVariable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a79ec
+WakeConditionVariable
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a7a24
+WerGetFlags
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044600
+WerGetFlagsWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044600
+WerRegisterAdditionalProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d180
+WerRegisterAppLocalDump
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d1a0
+WerRegisterCustomMetadata
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d1c0
+WerRegisterExcludedMemoryBlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d1e0
+WerRegisterFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020c40
+WerRegisterFileWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044610
+WerRegisterMemoryBlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020ea0
+WerRegisterMemoryBlockWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044620
+WerRegisterRuntimeExceptionModule
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021040
+WerRegisterRuntimeExceptionModuleWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044630
+WerSetFlags
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d390
+WerSetFlagsWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001d390
+WerUnregisterAdditionalProcess
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d200
+WerUnregisterAppLocalDump
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d220
+WerUnregisterCustomMetadata
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d240
+WerUnregisterExcludedMemoryBlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d260
+WerUnregisterFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180020c20
+WerUnregisterFileWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044640
+WerUnregisterMemoryBlock
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180022360
+WerUnregisterMemoryBlockWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044650
+WerUnregisterRuntimeExceptionModule
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d280
+WerUnregisterRuntimeExceptionModuleWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180044660
+WerpGetDebugger
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006d860
+WerpInitiateRemoteRecovery
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044670
+WerpLaunchAeDebug
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006e250
+WerpNotifyLoadStringResourceWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bde0
+WerpNotifyUseStringResourceWorker
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bde0
+WideCharToMultiByte
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180016110
+WinExec
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800677d0
+Wow64DisableWow64FsRedirection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d2a0
+Wow64EnableWow64FsRedirection
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180021da0
+Wow64GetThreadContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d2c0
+Wow64GetThreadSelectorEntry
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180038400
+Wow64RevertWow64FsRedirection
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d2e0
+Wow64SetThreadContext
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d300
+Wow64SuspendThread
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d320
+WriteConsoleA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b70
+WriteConsoleInputA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025d90
+WriteConsoleInputVDMA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a600
+WriteConsoleInputVDMW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a690
+WriteConsoleInputW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025da0
+WriteConsoleOutputA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025db0
+WriteConsoleOutputAttribute
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025dc0
+WriteConsoleOutputCharacterA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025dd0
+WriteConsoleOutputCharacterW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025de0
+WriteConsoleOutputW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025df0
+WriteConsoleW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025b80
+WriteFile
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180025790
+WriteFileEx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257a0
+WriteFileGather
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800257b0
+WritePrivateProfileSectionA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x1800610e0
+WritePrivateProfileSectionW
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x180024520
+WritePrivateProfileStringA
+----> Number of xrefs: 6
+----> in: Data_Offset
+----> to: 0x180061150
+WritePrivateProfileStringW
+----> Number of xrefs: 8
+----> in: Data_Offset
+----> to: 0x1800182c0
+WritePrivateProfileStructA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800611c0
+WritePrivateProfileStructW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180061330
+WriteProcessMemory
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d340
+WriteProfileSectionA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800614a0
+WriteProfileSectionW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800614b0
+WriteProfileStringA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800614c0
+WriteProfileStringW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800614d0
+WriteTapemark
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180043e70
+ZombifyActCtx
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d360
+ZombifyActCtxWorker
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180044410
+__C_specific_handler
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a806b
+__chkstk
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a808f
+__misaligned_access
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a80b2
+_hread
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x180018490
+_hwrite
+----> Number of xrefs: 40
+----> in: Data_Offset
+----> to: 0x180069ff0
+_lclose
+----> Number of xrefs: 13
+----> in: Data_Offset
+----> to: 0x18001cdf0
+_lcreat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180069f00
+_llseek
+----> Number of xrefs: 94
+----> in: Data_Offset
+----> to: 0x180018460
+_local_unwind
+----> Number of xrefs: 1
+----> in: Data_Offset
+----> to: 0x1800a8101
+_lopen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180069f70
+_lread
+----> Number of xrefs: 22
+----> in: Data_Offset
+----> to: 0x180018490
+_lwrite
+----> Number of xrefs: 40
+----> in: Data_Offset
+----> to: 0x180069ff0
+lstrcat
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020880
+lstrcatA
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180020880
+lstrcatW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a040
+lstrcmp
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cc40
+lstrcmpA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001cc40
+lstrcmpW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bf40
+lstrcmpi
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bad0
+lstrcmpiA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bad0
+lstrcmpiW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018370
+lstrcpy
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001eac0
+lstrcpyA
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001eac0
+lstrcpyW
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x180022610
+lstrcpyn
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d380
+lstrcpynA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18003d380
+lstrcpynW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180021730
+lstrlen
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b280
+lstrlenA
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001b280
+lstrlenW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x1800175e0
+timeBeginPeriod
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001e150
+timeEndPeriod
+----> Number of xrefs: 4
+----> in: Data_Offset
+----> to: 0x18001d1d0
+timeGetDevCaps
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180022880
+timeGetSystemTime
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x18006a090
+timeGetTime
+----> Number of xrefs: 5
+----> in: Data_Offset
+----> to: 0x18001c1e0
+uaw_lstrcmpW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x18001bf40
+uaw_lstrcmpiW
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180018370
+uaw_lstrlenW
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180037c10
+uaw_wcschr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180037c60
+uaw_wcscpy
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180037c90
+uaw_wcsicmp
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180037cc0
+uaw_wcslen
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x180037ce0
+uaw_wcsrchr
+----> Number of xrefs: 2
+----> in: Data_Offset
+----> to: 0x180037d10
+BaseDllInitialize
+----> Number of xrefs: 3
+----> in: Data_Offset
+----> to: 0x1800176b0
